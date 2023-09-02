@@ -157,7 +157,7 @@ TechVerse es una startup que busca solucionar problemas en la renta de autos por
 
 **Misión**
 
-Nuestra misión es ayudar a las personas a reducir los contratiempos que puedan tener al momento de rentar un auto para que estas puedan llegar a sus destinos sin complicaciones. Pensamos lograr esto mediante el lanzamiento de aplicaciones web que se enfoquen en atacar dichos contratiempos.
+Nuestra misión es ayudar a las personas a reducir los contratiempos que puedan tener al momento de rentar o poner en renta un auto para que estas puedan hacerlo de forma sencilla y segura. Pensamos lograr esto mediante el lanzamiento de aplicaciones web que se enfoquen en atacar dichos contratiempos.
 
 **Visión**
 
@@ -199,17 +199,111 @@ INSERTAR TEXTO.
 
 ### Antecedentes y problemática
 
+A día de hoy, el uso de autos se ha vuelto una necesidad en nuestra sociedad. Tanto en fines recreativos, laborales o personales, estos estarán siempre presentes. Sin embargo, cuando se necesita uno y no se tiene uno propio ¿qué es lo que se hace?. Usualmente se alquila uno. Si bien esta solución es obvia y práctica, puede conllevar disgustos para el usuario al este enterarse de precios elevados, tarifas ocultas, falta de mantenimiento o incluso falta de seguro vehicular. Asimismo, existen personas que desean ganar un poco de dinero extra y desean poder alquilar sus autos en los momentos que no los usan, pero no conocen un medio seguro por el que hacerlo o no tienen personas a las que alquilarselos. La propuesta que se tiene es una aplicación web que funcione a nivel Perú y combata efectivamente los problemas mencionados anteriormente.
+
+- Who
+  
+  Personas que desean alquilar autos de forma segura y a un precio menor al de las plataformas más populares; y personas que desean alquilar sus autos de forma segura en los momentos que no los utilizan, para ganar dinero extra.
+
+- What
+  
+  Los problemas que se presentar al momento de alquilar autos y/o usarlos. Por ejemplo: falta de mantenimiento, falta de seguimiento del vehículo, falta de seguro, altos precios, estafas, etc.
+
+- Where
+
+  En el lugar en donde la persona este alquilando el auto y/o usándolo. Puede ser un concesionario, un hogar, oficinas, calles, carreteras, etc.
+
+- When
+
+  Cuando la persona esté por alquilar el auto o ya lo este usando. Algunos ejemplos son: llamadas telefónicas, firma de documentos, conversación en persona, haciendo rutas por calles, haciendo rutas por carreteras.
+
+- Why
+
+  Los problemas técnicos del auto usualmente suceden por descuido del dueño. Asimismo, las tarifas ocultas generalmente son por la necesidad de ganar dinero de los concesionarios. Finalmente, las estafas o desaparición de autos se generan por las malas intenciones del arrendatario.
+
+- How
+
+  Si se habla de las estafas, estas operan de la siguiente manera: el arrendatario hace un pago por adelantado al dueño y este le hace la promesa de entregarle el auto en determinado momento, pero no lo hace. Asimismo, el caso inverso son arrendatarios que usan medios fraudulentos para simular pagos  o directamente no devuelven el auto luego de la fecha acordada.
+
+- How Much
+
+  Estos problemas generalmente cuestan bastante dinero. Por ejemplo, según El Comercio (2023), un hombre tuvo que pagar 7600 soles por la garantía de los autos que alquiló, y este monto no fue devuelto en la fecha acordada.
+
 ### Lean UX Process
 
 #### Lean UX Problem Statements
 
+Actualmente alquilar un auto conlleva distintos riesgos, ya sea desde el punto del arrendatario o del arrendador. Estos pueden variar desde fallos técnicos de los vehículos hasta casos de estafas. Dichos problemas afectan negativamente al negocio de la renta de autos debido a que genera desconfianza en los dos sectores mencionados. Los problemas mencionados anteriormente son solo algunos de los que muestran que los arrendatarios y los arrendados buscan más seguridad y transparencia por la parte contraria. Finalmente, habiendo realizado este análisis, se desarrolló una pregunta que servirá como base para combatir la problemática. Esta es:  
+
+**_¿Cómo podemos garantizar seguridad y transparencia a los arrendatarios y arrendadores en el servicio de alquiler de autos?_** 
+
 #### Lean UX Assumptions
+
+**Business Outcomes**  
+
+- **Creo que mis clientes necesitan** una solución que les permita rentar o poner en renta autos de forma segura y transparente.
+- **Estas necesidades se pueden resolver** con una aplicación web de renta de autos de forma segura entre personas naturales.
+- **Mis clientes iniciales son (o serán)** personas hispanohablantes mayores de edad que se encuentren en Perú y deseen rentar o poner en renta un auto.
+- **El valor número 1 que un cliente quiere de mi producto es** seguridad de que el contrato se cumplirá correctamente y de que el auto se encuentre en buenas condiciones.
+- **El cliente también puede obtener estos beneficios adicionales:** precios más bajos que los de la competencia, registro de mantenimiento del vehículo, seguimiento del auto por GPS, acceso a la documentación actualizada del vehículo.
+- **Voy a adquirir la mayoría de mis clientes a través de** anuncios en redes sociales.
+- **Haré dinero a través de** cobro de comisiones por cada alquiler que se realice dentro de la aplicación, y publicidad dentro de la aplicación.
+- **Mi competencia principal en el mercado serán** plataformas de alquiler de autos actualmente disponibles.
+- **Los venceremos debido a** nuestros menores precios, mayor transparencia acerca de la documentación y estado de los autos y la seguridad de estos mismos.
+- **Mi mayor riesgo es** fraude y/o estafas antes, durante y después del servicio del auto.
+- **Resolveremos esto a través de** retenimiento del pago por el servicio hasta que este haya sido terminado.
+
+**User Outcomes**  
+
+- **¿Quién es el usuario?**  
+Personas hisponohablantes mayores de edad que se encuentren en Perú y deseen rentar o poner en renta un auto.
+- **¿Dónde encaja nuestro producto? ¿En su trabajo o vida?**  
+Nuestro producto encaja en la vida del usuario, debido a que alquilar o poner en alquiler un auto no es la principal fuente de ingresos de nuestros clientes potenciales.
+- **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**  
+El mayor problema que se presenta en nuestro producto son las prácticas fraudulentas, como estafa o robo del vehículo. Esto se resolverá mediante la necesidad de incluir la documentación del auto a rentar en nuestra aplicación, la retención del pago hasta que el servicio del auto haya terminado y el seguimiento del vehículo vía GPS.
+- **¿Cuándo y cómo es usado nuestro producto?**  
+AutoYa! será usado en dispositivos que cuenten con un navegador web y cuando el usuario decida que quiere rentar o poner en renta un auto.
+- **¿Qué características son importantes?**  
+Interfaz amigable, intuitiva y responsive; reserva de vehículo; pagos integrados; y reseñas de usuarios.
+- **¿Cómo debe verse nuestro producto y cómo debe comportarse?**  
+Debe verse amigable ante el usuario y fácil de usar. Esto quiere decir que, por ejemplo, cada botón debe dar a entender qué es lo que hace con solo verlo.
 
 #### Lean UX Hypothesis Statements
 
+**Hipótesis 1**  
+Creemos que las personas estarán interesadas en una aplicación web que permita rentar y poner a la renta autos por precios más bajos que los de la competencia. Sabremos que esto si la cantidad de usuarios de nuestro producto aumenta en 5% semanalmente durante los primeros 4 meses desde su lanzamiento.
+
+**Hipótesis 2**  
+Creemos que AutoYa! tendrá problemas luego de su lanzamiento. Sabremos que esto es cierto cuando su cantidad de usuarios empiece a decrecer en 8% semanalmente.
+
+**Hipótesis 3**  
+Creemos que la visualización de la documentación de los vehículos en la aplicación será un agregado importante. Sabremos que esto es cierto si el 65% de las reseñas de autos en esta son positivas.
+
 #### Lean UX Canvas
 
+<table align="center">
+  <tr>
+    <td align="center"><strong>Business Problem</strong><br>- Precios mayores a los deseados<br>- Estafas en el proceso de renta<br>- Tarifas ocultas<br>- Falta de transparencia del estado del auto</td>
+    <td align="center" rowspan="2"><strong>Solution Ideas</strong><br>- Precios menores a los de la competencia<br>- Inclusión de la documentación actualizada del auto<br>- Seguimiento del auto vía GPS<br>- Retención del pago hasta finalizado el servicio</td>
+    <td align="center"><strong>Business Outcomes</strong><br>- Alto número de usuarios<br>- Reseñas mayormente positivas en la aplicación<br>- AutoYa! se vuelve una de las aplicaciones de alquiler de auto más usadas en Perú</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Users and Customers</strong><br>- Personas hispanohablantes mayores de edad que se encuentren en Perú y deseen rentar un auto.<br>- Personas hisponohablantes mayores de edad que se encuentren en Perú, cuenten con uno o más autos y deseen poner en renta uno o más de uno.</td>
+    <td align="center"><strong>User Benefits</strong><br>- Costos menores<br>- Garantía del buen estado del auto<br>- Sistema antifraudes<br>- Acceso a la información del arrendatario</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Hypothesis</strong><br>- Creemos que las personas estarán interesadas en una aplicación web que permita rentar y poner a la renta autos por precios más bajos que los de la competencia. Sabremos que esto si la cantidad de usuarios de nuestro producto aumenta en 5% semanalmente durante los primeros 4 meses desde su lanzamiento.<br>- Creemos que AutoYa! tendrá problemas luego de su lanzamiento. Sabremos que esto es cierto cuando su cantidad de usuarios empiece a decrecer en 8% semanalmente.<br>- Creemos que la visualización de la documentación de los vehículos en la aplicación será un agregado importante. Sabremos que esto es cierto si el 65% de las reseñas de autos en esta son positivas.</td>
+    <td align="center"><strong>What’s the most important thing we need to learn first?</strong><br>- Las características que el usuario realmente quiere en la aplicación<br>- La cantidad de personas que estarían dispuestas a poner en renta su auto por una aplicación web<br>- Los costos y beneficios que ofrece la competencia</td>
+    <td align="center"><strong>What's the least amount of work we need to do to learn the next most important thing?</strong><br>- Realizar entrevistas a personas que se encuentren dentro de los segmentos objetivos de AutoYa!<br>- Enviar formularios con preguntas sencillas, pero que contengan preguntas clave a nuestros segmentos objetivos<br>- Tomar en cuenta el feedback que se reciba y aplicarlo en AutoYa!</td>
+  </tr>
+</table>
+
 ## Segmentos objetivo
+
+Se han identificado dos segmentos objetivos.
+
+1. Personas mayores de 18 años que cuenten con licencia de conducir y deseen alquilar uno o más autos de forma segura y a un menor precio que los servicios de alquiler de autos más populares.
+2. Personas mayores de 18 años que posean uno o más autos en regla junto con todos los documentos que esto conlleva y deseen poner en alquiler estos mismos de forma segura mediante plataformas digitales.
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -222,6 +316,39 @@ INSERTAR TEXTO.
 ## Entrevistas
 
 ### Diseño de entrevistas
+
+**Arrendatarios**
+
+1. ¿Cuál es su nombre, género y edad?
+2. ¿Cuál es su estado civil?
+3. ¿Cuál es su provincia y distrito de residencia?
+4. ¿Cuál es su ocupación?
+5. ¿Usted ha manejado un auto anteriormente?
+6. ¿Usted ha alquilado un auto alguna vez? Si su respuesta es sí ¿Por qué medio lo hizo?
+7. ¿Qué es lo que usted prioriza o priorizaría al alquilar un auto?
+8. ¿Qué información considera importante conocer antes de alquilar un auto?
+9. ¿Qué carácterística o características cree que debería tener obligatoriamente un servicio de alquiler de autos?
+10. ¿Cómo cree que se debería cobrar por el alquiler de un auto? ¿Por minuto, media hora, hora o día?
+11. Según su respuesta anterior ¿Cuanto cree que se debería cobrar por ese tiempo?
+12. ¿Qué medios de pago preferiría usted?
+13. ¿Usted estaría interesado en alquilar un auto por medio de una aplicación web? ¿Por qué?
+14. ¿Conoce algun medio que permita alquilar autos por internet?
+
+**Arrendadores**
+
+1. ¿Cuál es su nombre, género y edad?
+2. ¿Cuál es su estado civil?
+3. ¿Cuál es su provincia y distrito de residencia?
+4. ¿Cuál es su ocupación?
+5. ¿Usted ha puesto en alquiler su auto alguna vez? Si su respuesta es sí ¿Por qué medio lo hizo?
+6. ¿Qué es lo que usted prioriza o priorizaría al poner en alquiler su auto?
+7. ¿Cree que es importante tener acceso a la información de la persona a la que le va a alquilar su auto?
+8. ¿Qué carácterística o características cree que debería tener obligatoriamente un servicio de alquiler de autos?
+9. ¿Cómo cree que se debería cobrar por el alquiler de un auto? ¿Por minuto, media hora, hora o día?
+10. Según su respuesta anterior ¿Cuanto cree que se debería cobrar por ese tiempo?
+11. ¿Qué medios de pago preferiría usted?
+12. ¿Usted estaría interesado en poner en alquiler su auto por medio de una aplicación web? ¿Por qué?
+13. ¿Conoce algun medio que permita alquilar autos por internet?
 
 ### Registro de entrevistas
 
@@ -354,5 +481,7 @@ INSERTAR TEXTO.
 ## Video About-the-Team
 
 # Bibliografía
+
+- El Comercio. (2023). _Alquiler de autos: ciudadano denunció pérdida de 7.600 soles por la retención de garantía y empresa responde._ Recuperado de [https://elcomercio.pe/pasa-en-la-calle/alquiler-de-autos-ciudadano-denuncio-perdida-de-7600-soles-por-la-retencion-de-garantia-y-empresa-responde-automoviles-venta-renta-noticia/](https://elcomercio.pe/pasa-en-la-calle/alquiler-de-autos-ciudadano-denuncio-perdida-de-7600-soles-por-la-retencion-de-garantia-y-empresa-responde-automoviles-venta-renta-noticia/) [Consulta: 1 de setiembre de 2023].
 
 # Anexos
