@@ -175,7 +175,8 @@ INTRODUCIR TEXTO.
 
 ![Imgur](https://i.imgur.com/NtO8rFx.png)
 
-**Johan Raúl Moreno Vergara (u20201c105)**
+**Samuel Rolando Chamorro Torres (u202015096)**
+![Imgur](https://i.imgur.com/swEGu4x.png)
 
 <img src="https://i.imgur.com/iykXoFr.png" alt="Foto de Johan" width="50%" height="50%">
 
