@@ -165,32 +165,17 @@ Nuestra visión es tener una aplicación dedicada al nicho de la renta de autos 
 
 ### Perfiles de integrantes del equipo
 
-**Alonso Fernando Robles Astuñaupa (u202112662)**
-
-<img src="https://i.imgur.com/iykXoFr.png" alt="Foto de Alonso" width="50%" height="50%">
-
-INTRODUCIR TEXTO.
-
 **Erick gabriel Urbizagástegui Alvarez (u20201e465)**
 
 ![Imgur](https://i.imgur.com/NtO8rFx.png)
 
+**Erick Hernan Ruiz Torres (u202118946)**
+
+**Lynn Jeeferzon Meza Camayo (u20201c320)**
+
 **Samuel Rolando Chamorro Torres (u202015096)**
+
 ![Imgur](https://i.imgur.com/swEGu4x.png)
-
-INSERTAR TEXTO.
-
-**Luis Fernando Isla Quispe (u202124146)**
-
-<img src="https://i.imgur.com/iykXoFr.png" alt="Foto de Luis" width="50%" height="50%">
-
-INSERTAR TEXTO.
-
-**Nicolás Zagal Vallejo (u20201c429)**
-
-<img src="https://i.imgur.com/iykXoFr.png" alt="Foto de Nicolás" width="50%" height="50%">
-
-INSERTAR TEXTO.
 
 </div>
 
