@@ -311,6 +311,108 @@ Se han identificado dos segmentos objetivos.
 
 ### Análisis competitivo
 
+<table border="1">
+  <thead>
+    <tr>
+      <th colspan="6"><strong>Competitive Analysis Landscape</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="1" style="text-align:center;">¿Por qué llevar a cabo este análisis?</td>
+      <td colspan="5">¿Cómo podemos garantizar seguridad y transparencia a los arrendatarios y arrendadores en el servicio de alquiler de autos?</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align:center;">Competidores</td>
+      <td style="text-align:center;">AutoYa!</td>
+      <td style="text-align:center;">Competidor 1</td>
+      <td style="text-align:center;">Competidor 2</td>
+      <td style="text-align:center;">Competidor 3</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="text-align:center;">Perfil</td>
+      <td style="text-align:center;">Overview</td>
+      <td style="text-align:center;">Fila 4, Columna 3</td>
+      <td style="text-align:center;">Fila 4, Columna 4</td>
+      <td style="text-align:center;">Fila 4, Columna 5</td>
+      <td style="text-align:center;">Fila 4, Columna 6</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</td>
+      <td style="text-align:center;">Fila 5, Columna 3</td>
+      <td style="text-align:center;">Fila 5, Columna 4</td>
+      <td style="text-align:center;">Fila 5, Columna 5</td>
+      <td style="text-align:center;">Fila 5, Columna 6</td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="text-align:center;">Perfil de Marketing</td>
+      <td style="text-align:center;">Mercado objetivo</td>
+      <td style="text-align:center;">Fila 6, Columna 3</td>
+      <td style="text-align:center;">Fila 6, Columna 4</td>
+      <td style="text-align:center;">Fila 6, Columna 5</td>
+      <td style="text-align:center;">Fila 6, Columna 6</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Estrategias de marketing</td>
+      <td style="text-align:center;">Fila 7, Columna 3</td>
+      <td style="text-align:center;">Fila 7, Columna 4</td>
+      <td style="text-align:center;">Fila 7, Columna 5</td>
+      <td style="text-align:center;">Fila 7, Columna 6</td>
+    </tr>
+    <tr>
+      <td rowspan="3" style="text-align:center;">Perfil de Producto</td>
+      <td style="text-align:center;">Productos & Servicios</td>
+      <td style="text-align:center;">Fila 8, Columna 3</td>
+      <td style="text-align:center;">Fila 8, Columna 4</td>
+      <td style="text-align:center;">Fila 8, Columna 5</td>
+      <td style="text-align:center;">Fila 8, Columna 6</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Precios & Costos</td>
+      <td style="text-align:center;">Fila 9, Columna 3</td>
+      <td style="text-align:center;">Fila 9, Columna 4</td>
+      <td style="text-align:center;">Fila 9, Columna 5</td>
+      <td style="text-align:center;">Fila 9, Columna 6</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Canales de distribución<br>(Web y/o Móvil)</td>
+      <td style="text-align:center;">Fila 10, Columna 3</td>
+      <td style="text-align:center;">Fila 10, Columna 4</td>
+      <td style="text-align:center;">Fila 10, Columna 5</td>
+      <td style="text-align:center;">Fila 10, Columna 6</td>
+    </tr>
+    <tr>
+      <td rowspan="4" style="text-align:center;">Perfil de Producto</td>
+      <td style="text-align:center;">Fortalezas</td>
+      <td style="text-align:center;">Fila 11, Columna 3</td>
+      <td style="text-align:center;">Fila 11, Columna 4</td>
+      <td style="text-align:center;">Fila 11, Columna 5</td>
+      <td style="text-align:center;">Fila 11, Columna 6</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Debilidades</td>
+      <td style="text-align:center;">Fila 12, Columna 3</td>
+      <td style="text-align:center;">Fila 12, Columna 4</td>
+      <td style="text-align:center;">Fila 12, Columna 5</td>
+      <td style="text-align:center;">Fila 12, Columna 6</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Oportunidades</td>
+      <td style="text-align:center;">Fila 13, Columna 3</td>
+      <td style="text-align:center;">Fila 13, Columna 4</td>
+      <td style="text-align:center;">Fila 13, Columna 5</td>
+      <td style="text-align:center;">Fila 13, Columna 6</td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">Amenazas</td>
+      <td style="text-align:center;">Fila 14, Columna 3</td>
+      <td style="text-align:center;">Fila 14, Columna 4</td>
+      <td style="text-align:center;">Fila 14, Columna 5</td>
+      <td style="text-align:center;">Fila 14, Columna 6</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Estrategias y tácticas frente a competidores
 
 ## Entrevistas
