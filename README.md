@@ -178,8 +178,6 @@ INTRODUCIR TEXTO.
 **Samuel Rolando Chamorro Torres (u202015096)**
 ![Imgur](https://i.imgur.com/swEGu4x.png)
 
-<img src="https://i.imgur.com/iykXoFr.png" alt="Foto de Johan" width="50%" height="50%">
-
 INSERTAR TEXTO.
 
 **Luis Fernando Isla Quispe (u202124146)**
