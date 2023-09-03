@@ -170,7 +170,9 @@ Nuestra visión es tener una aplicación dedicada al nicho de la renta de autos 
 ![Imgur](https://i.imgur.com/NtO8rFx.png)
 
 **Erick Hernan Ruiz Torres (u202118946)**
-
+<p align="center">
+<img src="./imagenes/erick_ruiz.png"Imagen centrada" width="700" height="700"/>
+<p>
 
 **Lynn Jeeferzon Meza Camayo (u20201c320)**
 
@@ -438,6 +440,16 @@ Se han identificado dos segmentos objetivos.
 13. ¿Conoce algun medio que permita alquilar autos por internet?
 
 ### Registro de entrevistas
+**Entrevista 1**
+
+**Entrevista 2**
+
+**Entrevista 3**
+
+**Entrevista 4**
+
+**Entrevista 5**
+
 
 ### Análisis de entrevistas
 
