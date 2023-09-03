@@ -171,6 +171,7 @@ Nuestra visión es tener una aplicación dedicada al nicho de la renta de autos 
 
 **Erick Hernan Ruiz Torres (u202118946)**
 
+
 **Lynn Jeeferzon Meza Camayo (u20201c320)**
 
 **Samuel Rolando Chamorro Torres (u202015096)**
