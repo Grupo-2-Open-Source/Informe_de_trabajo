@@ -170,9 +170,9 @@ Nuestra visión es tener una aplicación dedicada al nicho de la renta de autos 
 ![Imgur](https://i.imgur.com/NtO8rFx.png)
 
 **Erick Hernan Ruiz Torres (u202118946)**
-<p align="center">
-<img src="./imagenes/erick_ruiz.png"Imagen centrada width="1000" height="1300"/>
-<p>
+
+
+![impur](./imagenes/erick_ruiz.png)
 
 **Lynn Jeeferzon Meza Camayo (u20201c320)**
 
