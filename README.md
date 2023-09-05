@@ -471,9 +471,96 @@ Se han identificado dos segmentos objetivos.
 
 ### User Stories
 
+<table>
+  <tr>
+    <td align="center"><strong>Epic / Story ID</strong></td>
+    <td align="center"><strong>Título</strong></td>
+    <td align="center"><strong>Descripción</strong></td>
+    <td align="center"><strong>Criterios de Aceptación</strong></td>
+    <td align="center"><strong>Relacionado con (Epic ID)</strong></td>
+  </tr>
+  <tr>
+    <td colspan="5" align="center"><strong>EP01: __TextoEpic01__</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>US01</strong></td>
+    <td align="center">Fila 3, Columna 2</td>
+    <td align="center">Fila 3, Columna 3</td>
+    <td align="center">Fila 3, Columna 4</td>
+    <td align="center">Fila 3, Columna 5</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>US02</strong></td>
+    <td align="center">Fila 4, Columna 2</td>
+    <td align="center">Fila 4, Columna 3</td>
+    <td align="center">Fila 4, Columna 4</td>
+    <td align="center">Fila 4, Columna 5</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>US03</strong></td>
+    <td align="center">Fila 5, Columna 2</td>
+    <td align="center">Fila 5, Columna 3</td>
+    <td align="center">Fila 5, Columna 4</td>
+    <td align="center">Fila 5, Columna 5</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>US04</strong></td>
+    <td align="center">Fila 5, Columna 2</td>
+    <td align="center">Fila 5, Columna 3</td>
+    <td align="center">Fila 5, Columna 4</td>
+    <td align="center">Fila 5, Columna 5</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>US05</strong></td>
+    <td align="center">Fila 6, Columna 2</td>
+    <td align="center">Fila 6, Columna 3</td>
+    <td align="center">Fila 6, Columna 4</td>
+    <td align="center">Fila 6, Columna 5</td>
+  </tr>
+</table>
+
+
 ### Impact Mapping
 
 ### Product Backlog
+
+<table>
+  <tr>
+    <td align="center"><strong># Orden</strong></td>
+    <td align="center"><strong>User Story ID</strong></td>
+    <td align="center"><strong>Título</strong></td>
+    <td align="center"><strong>Descripción</strong></td>
+    <td align="center"><strong>Story Points (1 / 2 / 3 / 5/ 8)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td align="center">Fila 2, Columna 2</td>
+    <td align="center">Fila 2, Columna 3</td>
+    <td align="center">Fila 2, Columna 4</td>
+    <td align="center">Fila 2, Columna 5</td>
+  </tr>
+  <tr>
+    <td align="center">2</td>
+    <td align="center">Fila 3, Columna 2</td>
+    <td align="center">Fila 3, Columna 3</td>
+    <td align="center">Fila 3, Columna 4</td>
+    <td align="center">Fila 3, Columna 5</td>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td align="center">Fila 4, Columna 2</td>
+    <td align="center">Fila 4, Columna 3</td>
+    <td align="center">Fila 4, Columna 4</td>
+    <td align="center">Fila 4, Columna 5</td>
+  </tr>
+  <tr>
+    <td align="center">4</td>
+    <td align="center">Fila 5, Columna 2</td>
+    <td align="center">Fila 5, Columna 3</td>
+    <td align="center">Fila 5, Columna 4</td>
+    <td align="center">Fila 5, Columna 5</td>
+  </tr>
+</table>
 
 # Capítulo IV: Product Design
 
@@ -549,11 +636,163 @@ Se han identificado dos segmentos objetivos.
 
 #### Sprint Planning 1
 
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">YYYY-MM-DD</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">HH:MM AM/PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">(Descripción de la ubicación de la reunión, física o virtual)</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Jiménez Rosas, Arturo Eduardo</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Jiménez Rosas, Arturo Eduardo / Rodríguez Peña, Jorge Andrés / …</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n – 1 Review Summary</td>
+    <td align="center">(Resumen del Sprint anterior, en términos de resultados alcanzados a nivel de productos de software, opiniones de miembros y feedback de product owner.)</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n – 1 Retrospective Summary</td>
+    <td align="center">(Resumen del Sprint anterior, en términos de opiniones de miembros del equipo sobre aciertos u oportunidades de mejora en su forma de trabajo)</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 Goal</td>
+    <td align="center">(Definir el Goal del Sprint n y la métrica de cumplimiento.)</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">(Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.)</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">(Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.)</td>
+  </tr>
+</table>
+
 #### Sprint Backlog 1
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</td>
+    <td colspan="7" align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">US01</td>
+    <td align="center">Fila 4, Columna 2</td>
+    <td align="center">WI01</td>
+    <td align="center">Fila 4, Columna 4</td>
+    <td align="center">Fila 4, Columna 5</td>
+    <td align="center">Fila 4, Columna 6</td>
+    <td align="center">Fila 4, Columna 7</td>
+    <td align="center">Fila 4, Columna 8</td>
+  </tr>
+  <tr>
+    <td align="center">US02, Columna 1</td>
+    <td align="center">Fila 5, Columna 2</td>
+    <td align="center">WI02, Columna 3</td>
+    <td align="center">Fila 5, Columna 4</td>
+    <td align="center">Fila 5, Columna 5</td>
+    <td align="center">Fila 5, Columna 6</td>
+    <td align="center">Fila 5, Columna 7</td>
+    <td align="center">Fila 5, Columna 8</td>
+  </tr>
+  <tr>
+    <td align="center">US03, Columna 1</td>
+    <td align="center">Fila 6, Columna 2</td>
+    <td align="center">WI03, Columna 3</td>
+    <td align="center">Fila 6, Columna 4</td>
+    <td align="center">Fila 6, Columna 5</td>
+    <td align="center">Fila 6, Columna 6</td>
+    <td align="center">Fila 6, Columna 7</td>
+    <td align="center">Fila 6, Columna 8</td>
+  </tr>
+  <tr>
+    <td align="center">US04, Columna 1</td>
+    <td align="center">Fila 6, Columna 2</td>
+    <td align="center">WI04, Columna 3</td>
+    <td align="center">Fila 6, Columna 4</td>
+    <td align="center">Fila 6, Columna 5</td>
+    <td align="center">Fila 6, Columna 6</td>
+    <td align="center">Fila 6, Columna 7</td>
+    <td align="center">Fila 6, Columna 8</td>
+  </tr>
+</table>
 
 #### Development Evidence for Sprint Review
 
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">user/repositoryname</td>
+    <td align="center">feature/loremipsum</td>
+    <td align="center">14ca4e3</td>
+    <td align="center">feat: consectetur adipiscing elit</td>
+    <td align="center">Curabitur quis placerat nulla. Fusce malesuada faucibus quam, ut condimentumvelit rutrum ut.</td>
+    <td align="center">04/09/2021</td>
+  </tr>
+</table>
+
 #### Testing Suite Evidence for Sprint Review
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">user/repositoryname</td>
+    <td align="center">feature/loremipsum</td>
+    <td align="center">14ca4e3</td>
+    <td align="center">feat: consectetur adipiscing elit</td>
+    <td align="center">Curabitur quis placerat nulla. Fusce malesuada faucibus quam, ut condimentumvelit rutrum ut.</td>
+    <td align="center">04/09/2021</td>
+  </tr>
+</table>
 
 #### Execution Evidence for Sprint Review
 
