@@ -753,14 +753,22 @@ A continuación se muestran los User Journey Maps elaborados para los segmentos 
 A continuación, se muestran los Empathy Maps desarrollados para cada segmento objetivo, los cuales son Arrendatario y Arrendador.
 
 **Arrendatario**
+
 ![Imgur](https://i.imgur.com/ygILuUf.png)
 
 **Arrendador**
+
 ![Imgur](https://i.imgur.com/6fJybYV.png)
 
 ### As-is Scenario Mapping
 
+**Arrendatario**
 
+![Imgur](https://i.imgur.com/O694ILj.png)
+
+**Arrendador**
+
+![Imgur](https://i.imgur.com/6s4JvlH.png)
 
 # Capítulo III: Requirements Specification
 
