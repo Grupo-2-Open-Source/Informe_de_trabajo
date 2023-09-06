@@ -389,7 +389,7 @@ Se han identificado dos segmentos objetivos.
     </tr>
     <tr>
       <td style="text-align:center;">Amenazas</td>
-      <td style="text-align:center;">- Delincuencia local<br>- Crisis económicas<br>- Crisis sanitarias<br>- Regulaciones en la conducción de vehículos<br>- Alza de impuestos</td>
+      <td style="text-align:center;">-Otras aplicaciones de renta de auto más conocidas<br>- Delincuencia local<br>- Crisis económicas<br>- Crisis sanitarias<br>- Regulaciones en la conducción de vehículos<br>- Alza de impuestos</td>
       <td style="text-align:center;">- Crisis económicas<br>- Crisis sanitarias<br>- Regulaciones en la conducción de vehículos<br>- Alza de impuestos</td>
       <td style="text-align:center;">- Crisis económicas<br>- Crisis sanitarias<br>- Regulaciones en la conducción de vehículos<br>- Alza de impuestos</td>
       <td style="text-align:center;">- Delincuencia local<br>- Crisis económicas<br>- Crisis sanitarias<br>- Regulaciones en la conducción de vehículos<br>- Alza de impuestos</td>
@@ -398,6 +398,16 @@ Se han identificado dos segmentos objetivos.
 </table>
 
 ### Estrategias y tácticas frente a competidores
+
+**Costos**  
+Sabemos que el alquiler de autos no necesariamente en un negocio barato, por eso hemos estudiado a la competencia y comparado precios para poder llegar a un precio de alquiler que se sitúe entre los bajos de nuestra competencia, para así poder satisfacer al cliente y generar ingresos.
+
+**Estrategia de diferenciación**  
+Aprovecharemos la falta de servicios para poner en alquiler un auto propio para atacar ese nicho. Creemos que dando la suficiente publicidad a esta característica llamaremos la atención de una buena cantidad de clientes potenciales.
+
+**Remuneración**  
+Somos consciente de que tener demasiada publicidad en una pantalla resulta molestoso, debido a eso, solo se incluirá una cantidad razonable de estos. Además, contaremos con comisiones del 35% por cada pago por alquiler que se haga usando nuestros servicios.
+
 
 ## Entrevistas
 
