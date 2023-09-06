@@ -657,7 +657,22 @@ Además, como equipo, hemos optado por emplear el patrón de diseño en forma de
 
 ## Information Architecture
 
+<div style="text-align: justify;">
+Esta sección se centra principalmente en el contenido visual, los estilos y los elementos que se tendrán en cuenta para nuestra página web y landing page de AutoYa!. A continuación, exploraremos los temas de Sistemas de Organización, Sistemas de Etiquetado, Etiquetas de SEO y Metaetiquetas, Sistemas de Búsqueda y Sistemas de Navegación.
+</div>
+
 ### Organization Systems
+
+<div style="text-align: justify;">
+Para los sistemas de organización, hemos decidido considerar la estructuración del contenido con un encabezado (header) donde las secciones a las que el usuario puede acceder se agrupen de manera clara. De esta forma, el usuario sabrá dónde hacer clic para acceder a las secciones correspondientes de AutoYa!.
+</div>
+
+* **Organización Visual**
+
+<div style="text-align: justify;">
+Implementaremos un encabezado (header) que incluirá las secciones clave, un logo de AutoYa! que permitirá al usuario regresar a la página de inicio y un icono de "Mi perfil" que facilitará el acceso a su espacio personal para visualizar y gestionar su información. Además, estructuraremos el SPA (Single Page Application) de manera que podamos resaltar la información esencial de AutoYa! en la página de inicio, acompañada de imágenes atractivas que capturen la atención del usuario.
+</div>
+
 
 ### Labeling Systems
 
