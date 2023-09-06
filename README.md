@@ -585,16 +585,86 @@ a
 
 # Capítulo IV: Product Design
 
-**Overview:**
-<div style="text-align: justify;">
-Queremos atrapar la atención del usuario desde el principio mediante la creación y el diseño de una perspectiva del producto que establezca una conexión inmediata e identificable.
-</div>
 
 ## Style Guidelines
 
 ### General Style Guidelines
 
+**Overview:**
+<div style="text-align: justify;">
+Nuestra misión es cautivar la atención del usuario desde el primer momento, creando un diseño que establezca una conexión inmediata y reconocible con AutoYa!.
+</div>
+
+<br>
+
+**Brand Name:**
+<div style="text-align: justify;">
+Hemos elegido llamar a nuestra solución "AutoYa!" debido a su enfoque en ayudar a los usuarios y su tecnología avanzada.
+</div>
+
+<br>
+
+**Typography:**
+<div style="text-align: justify;">
+Hemos seleccionado cuidadosamente las fuentes "Montserrat" y "Mulish" para transmitir una imagen moderna y legible.
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/8ZxwwMY.png" alt="Descripción de la imagen" width="400" />
+</p>
+
+
+<br>
+
+**Colors:**
+<div style="text-align: justify;">
+Los colores principales son el naranja y el blanco. El naranja se ha seleccionado por su asociación con la energía, la creatividad y la emoción. Este color refleja nuestra pasión por brindar un servicio excepcional y experiencias emocionantes a nuestros usuarios. El blanco se utiliza como color principal para el fondo, proporcionando un contraste elegante y una apariencia limpia.
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/ZWTukKZ.png" alt="Descripción de la imagen" width="400" />
+</p>
+<br>
+
+**Spacing:**
+<div style="text-align: justify;">
+Hemos establecido niveles de espacio que van desde 8px hasta 96px para garantizar un diseño equilibrado y una experiencia visual agradable.
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/ObHFAYj.png" alt="Descripción de la imagen" width="400" />
+</p>
+
+<br>
+
+**Botton:**
+
+<p align="center">
+  <img src="https://i.imgur.com/DEJfdYw.png" alt="Descripción de la imagen" width="400" />
+</p>
+
+<br>
+<br>
+
 ### Web Style Guidelines
+
+<div style="text-align: justify;">
+AutoYa! se desarrollará tanto para plataforma web, por lo tanto, implementaremos un diseño adaptable (Web Responsive Design) que tiene como finalidad mostrar la información de manera óptima en cualquier tipo de dispositivo, garantizando que el contenido se mantenga intacto para mejorar la experiencia del usuario.
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/5dYo2Df.png" alt="AutoYa! Responsive Design" width="400">
+</p>
+
+<br>
+
+<div style="text-align: justify;">
+Además, como equipo, hemos optado por emplear el patrón de diseño en forma de Z en el sitio web de AutoYa!, ya que esta técnica de diseño web resulta efectiva para mejorar la experiencia del usuario al dirigir su atención hacia los elementos clave y potenciar la eficacia del contenido en la página. Normalmente, se coloca el logotipo de AutoYa! en la esquina superior izquierda para que sea lo primero que capte la atención del usuario. Justo en frente, en la esquina superior derecha, se ubica el menú de navegación, acompañado de un llamado a la acción que se destaca.
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/2WiPvic.png" alt="Patrón de Diseño en Z de AutoYa!" width="400">
+</p>
 
 ## Information Architecture
 
@@ -612,7 +682,30 @@ Queremos atrapar la atención del usuario desde el principio mediante la creaci�
 
 ### Landing Page Wireframe
 
+<div style="text-align: justify;">
+Hemos creado una representación inicial en forma de bosquejo de baja fidelidad para la página de inicio de AutoYa!:
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://i.imgur.com/oLhVxSQ.png" alt="Patrón de Diseño en Z de AutoYa!" width="400">
+</p>
+
+<br>
+<br>
+
 ### Landing Page Mock-up
+
+<div style="text-align: justify;">
+El Landing Page se desarrolló utilizando un prototipo de fidelidad intermedia en forma de Mock Up. A continuación, te presentamos una vista previa de nuestra propuesta:
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://i.imgur.com/AkW3hUg.png" alt="Patrón de Diseño en Z de AutoYa!" width="400">
+</p>
 
 ## Web Applications UX/UI Design
 
