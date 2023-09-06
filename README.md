@@ -738,6 +738,16 @@ A continuación se presentarán los User Persona elaborados en base al análisis
 
 ### User Journey Mapping
 
+A continuación se muestran los User Journey Maps elaborados para los segmentos objetivos Arrendatario y Arrendador con el objetivo de rentar un auto.
+
+**Arrendatario**
+
+![Imgur](https://i.imgur.com/w0CLmeq.png)
+
+**Arrendador**
+
+![Imgur](https://i.imgur.com/oCOfuN3.png)
+
 ### Empathy Mapping
 
 ### As-is Scenario Mapping
