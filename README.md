@@ -573,7 +573,11 @@ Somos consciente de que tener demasiada publicidad en una pantalla resulta moles
 </table>
 
 # Capítulo IV: Product Design
-holaa
+
+**Overview:**
+<div style="text-align: justify;">
+Queremos atrapar la atención del usuario desde el principio mediante la creación y el diseño de una perspectiva del producto que establezca una conexión inmediata e identificable.
+</div>
 
 ## Style Guidelines
 
