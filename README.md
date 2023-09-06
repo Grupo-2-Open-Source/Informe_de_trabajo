@@ -298,101 +298,101 @@ Se han identificado dos segmentos objetivos.
 <table border="1">
   <thead>
     <tr>
-      <th colspan="6"><strong>Competitive Analysis Landscape</strong></th>
+      <th colspan="6" style="text-align:center;"><strong>Competitive Analysis Landscape</strong></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td rowspan="1" style="text-align:center;">¿Por qué llevar a cabo este análisis?</td>
-      <td colspan="5">¿Cómo podemos garantizar seguridad y transparencia a los arrendatarios y arrendadores en el servicio de alquiler de autos?</td>
+      <td colspan="5" style="text-align:center;">¿Cómo podemos garantizar seguridad y transparencia a los arrendatarios y arrendadores en el servicio de alquiler de autos?</td>
     </tr>
     <tr>
       <td colspan="2" style="text-align:center;">Competidores</td>
       <td style="text-align:center;">AutoYa!</td>
-      <td style="text-align:center;">Competidor 1</td>
-      <td style="text-align:center;">Competidor 2</td>
-      <td style="text-align:center;">Competidor 3</td>
+      <td style="text-align:center;">Budget Car Rental</td>
+      <td style="text-align:center;">Rento</td>
+      <td style="text-align:center;">Hertz</td>
     </tr>
     <tr>
       <td rowspan="2" style="text-align:center;">Perfil</td>
       <td style="text-align:center;">Overview</td>
-      <td style="text-align:center;">Fila 4, Columna 3</td>
-      <td style="text-align:center;">Fila 4, Columna 4</td>
-      <td style="text-align:center;">Fila 4, Columna 5</td>
-      <td style="text-align:center;">Fila 4, Columna 6</td>
+      <td style="text-align:center;">Servicio peruano que permite rentar y poner en renta autos a personas naturales</td>
+      <td style="text-align:center;">Empresa peruana que posee presencia global y opera en más de 3,200 puntos de atención en 120 países</td>
+      <td style="text-align:center;">Aplicación de renta de autos en Perú que funciona como intermediario tanto para arrendatarios como para arrendadores</td>
+      <td style="text-align:center;">Servicio de alquiler de autos más grande a nivel global</td>
     </tr>
     <tr>
       <td style="text-align:center;">Ventaja competitiva<br>¿Qué valor ofrece a los clientes?</td>
-      <td style="text-align:center;">Fila 5, Columna 3</td>
-      <td style="text-align:center;">Fila 5, Columna 4</td>
-      <td style="text-align:center;">Fila 5, Columna 5</td>
-      <td style="text-align:center;">Fila 5, Columna 6</td>
+      <td style="text-align:center;">Transparencia con el cliente; precios bajos y seguridad</td>
+      <td style="text-align:center;">Se puede recoger el auto en el aeropuerto Jorge Chávez</td>
+      <td style="text-align:center;">Ofrece poner en renta un auto propio</td>
+      <td style="text-align:center;">Ofrece sus servicios también fuera de Lima (Arequipa y Cusco) y se puede entregar el auto en una sucursal distinta de donde se recogió</td>
     </tr>
     <tr>
       <td rowspan="2" style="text-align:center;">Perfil de Marketing</td>
       <td style="text-align:center;">Mercado objetivo</td>
-      <td style="text-align:center;">Fila 6, Columna 3</td>
-      <td style="text-align:center;">Fila 6, Columna 4</td>
-      <td style="text-align:center;">Fila 6, Columna 5</td>
-      <td style="text-align:center;">Fila 6, Columna 6</td>
+      <td style="text-align:center;">Personas en Perú mayores de 18 años que deseen rentar o poner en renta autos</td>
+      <td style="text-align:center;">Personas mayores de 21 años que cuenten con una licencia de conducir vigente deseen alquilar un auto</td>
+      <td style="text-align:center;">Personas que quieran alquilar un auto y personas que quieran poner en alquiler su auto</td>
+      <td style="text-align:center;">Personas mayores de 18 años que deseen alquilar un auto</td>
     </tr>
     <tr>
       <td style="text-align:center;">Estrategias de marketing</td>
-      <td style="text-align:center;">Fila 7, Columna 3</td>
-      <td style="text-align:center;">Fila 7, Columna 4</td>
-      <td style="text-align:center;">Fila 7, Columna 5</td>
-      <td style="text-align:center;">Fila 7, Columna 6</td>
+      <td style="text-align:center;">Comunicar que el servicio permite, además de alquilar un auto, poner en alquiler un auto propio de forma segura</td>
+      <td style="text-align:center;">Anunciar su posesión de la flota de alquiler de vehículos más variada de Perú</td>
+      <td style="text-align:center;">Mencionar siempre que están respaldados por Rimac Seguros y que es un servicio seguro</td>
+      <td style="text-align:center;">Alta gama de vehículos para poder reducir los precios</td>
     </tr>
     <tr>
       <td rowspan="3" style="text-align:center;">Perfil de Producto</td>
       <td style="text-align:center;">Productos & Servicios</td>
-      <td style="text-align:center;">Fila 8, Columna 3</td>
-      <td style="text-align:center;">Fila 8, Columna 4</td>
-      <td style="text-align:center;">Fila 8, Columna 5</td>
-      <td style="text-align:center;">Fila 8, Columna 6</td>
+      <td style="text-align:center;">- Alquilar autos<br>- Poner en alquiler autos</td>
+      <td style="text-align:center;">- Alquiler de Autos<br>- Alquiler de Autos para Empresas<br>- Venta de Autos Usados Expertos en Viajes<br>- Reservas Internacionales<br>- Servicio de Chofer</td>
+      <td style="text-align:center;">- Alquiler de autos<br>- Poner en alquiler autos</td>
+      <td style="text-align:center;">- Alquiler de autos</td>
     </tr>
     <tr>
       <td style="text-align:center;">Precios & Costos</td>
-      <td style="text-align:center;">Fila 9, Columna 3</td>
-      <td style="text-align:center;">Fila 9, Columna 4</td>
-      <td style="text-align:center;">Fila 9, Columna 5</td>
-      <td style="text-align:center;">Fila 9, Columna 6</td>
+      <td style="text-align:center;">- Uso gratuito de la aplicación<br>- Desde S/100 por día de uso del auto</td>
+      <td style="text-align:center;">- Uso gratuito de la aplicación<br>- De S/96 a S/561 por día de uso del auto</td>
+      <td style="text-align:center;">- Uso gratuito de la aplicación<br>- Desde S/100 por día de uso del auto</td>
+      <td style="text-align:center;">- Uso gratuito de la apliacación<br>- Desde S/63 soles por día de uso del auto(sin incluir protecciones y servicios adicionales)</td>
     </tr>
     <tr>
       <td style="text-align:center;">Canales de distribución<br>(Web y/o Móvil)</td>
-      <td style="text-align:center;">Fila 10, Columna 3</td>
-      <td style="text-align:center;">Fila 10, Columna 4</td>
-      <td style="text-align:center;">Fila 10, Columna 5</td>
-      <td style="text-align:center;">Fila 10, Columna 6</td>
+      <td style="text-align:center;">Web</td>
+      <td style="text-align:center;">Web y móvil</td>
+      <td style="text-align:center;">Móvil</td>
+      <td style="text-align:center;">Web y móvil</td>
     </tr>
     <tr>
       <td rowspan="4" style="text-align:center;">Perfil de Producto</td>
       <td style="text-align:center;">Fortalezas</td>
-      <td style="text-align:center;">Fila 11, Columna 3</td>
-      <td style="text-align:center;">Fila 11, Columna 4</td>
-      <td style="text-align:center;">Fila 11, Columna 5</td>
-      <td style="text-align:center;">Fila 11, Columna 6</td>
+      <td style="text-align:center;">- Flota variada<br>- Opción de poner en renta autos<br>- Gran cantidad de clientes potenciales</td>
+      <td style="text-align:center;">- Marca reconocida<br>- Programa de lealtad<br>- Variedad de autos<br>- Oficina en un aeropuerto internacional</td>
+      <td style="text-align:center;">- Interfaz amigable<br>- Aliado con Rimac Seguros<br>- Permite poner en alquiler autos propios<br>- Presencia en cualquier lugar del país</td>
+      <td style="text-align:center;">- Marca reconocida<br>-Cuenta con promociones<br>- Presencia de oficinas fuera de Lima<br>- Flota variada de vehículos</td>
     </tr>
     <tr>
       <td style="text-align:center;">Debilidades</td>
-      <td style="text-align:center;">Fila 12, Columna 3</td>
-      <td style="text-align:center;">Fila 12, Columna 4</td>
-      <td style="text-align:center;">Fila 12, Columna 5</td>
-      <td style="text-align:center;">Fila 12, Columna 6</td>
+      <td style="text-align:center;">- Marca no conocida<br>- Pocos recursos<br>- Nueva en el mercado de la renta de autos</td>
+      <td style="text-align:center;">- Depende del turismo<br>- Debe pagar costos de varias oficinas<br>- Personas entre 18 y 20 años deben pagar un costo adicional</td>
+      <td style="text-align:center;">- Mala opiniones en las tiendas de aplicaciones<br>- Depende de la situación económica local<br>- Depende de la honestidad del arrendador</td>
+      <td style="text-align:center;">- Dependencia del turismo<br>- Malas opiniones en las tiendas de aplicaciones<br>- Interfaz del sitio web poco amigable<br>- Reputación cuestionada</td>
     </tr>
     <tr>
       <td style="text-align:center;">Oportunidades</td>
-      <td style="text-align:center;">Fila 13, Columna 3</td>
-      <td style="text-align:center;">Fila 13, Columna 4</td>
-      <td style="text-align:center;">Fila 13, Columna 5</td>
-      <td style="text-align:center;">Fila 13, Columna 6</td>
+      <td style="text-align:center;">- Pocos servicios para poner en renta autos propios<br>- Bajo porcentaje de hogares peruanos cuentan con auto propio<br>- Constante necesidad de contar con un auto</td>
+      <td style="text-align:center;">- Implementar alquiler de otros tipos de vehículos<br>- Aumentar su cantidad de oficinas en Perú<br>- Incluir servicios turísticos</td>
+      <td style="text-align:center;">- Aumento del turismo<br>- Aumento de las zonas urbanas<br>- Inclusión de programas de lealtad</td>
+      <td style="text-align:center;">- Creación de oficinas en más provincias de Perú<br>- Implementar alquiler de otros tipos de vehículos<br>- Incluir servicios turísticos</td>
     </tr>
     <tr>
       <td style="text-align:center;">Amenazas</td>
-      <td style="text-align:center;">Fila 14, Columna 3</td>
-      <td style="text-align:center;">Fila 14, Columna 4</td>
-      <td style="text-align:center;">Fila 14, Columna 5</td>
-      <td style="text-align:center;">Fila 14, Columna 6</td>
+      <td style="text-align:center;">- Delincuencia local<br>- Crisis económicas<br>- Crisis sanitarias<br>- Regulaciones en la conducción de vehículos<br>- Alza de impuestos</td>
+      <td style="text-align:center;">- Crisis económicas<br>- Crisis sanitarias<br>- Regulaciones en la conducción de vehículos<br>- Alza de impuestos</td>
+      <td style="text-align:center;">- Crisis económicas<br>- Crisis sanitarias<br>- Regulaciones en la conducción de vehículos<br>- Alza de impuestos</td>
+      <td style="text-align:center;">- Delincuencia local<br>- Crisis económicas<br>- Crisis sanitarias<br>- Regulaciones en la conducción de vehículos<br>- Alza de impuestos</td>
     </tr>
   </tbody>
 </table>
