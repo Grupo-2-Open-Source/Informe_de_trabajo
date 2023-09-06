@@ -991,6 +991,8 @@ Entonces el sistema mostrará la landing page de la aplicación<br>
 
 ### Impact Mapping
 
+![Imgur](https://imgur.com/a4cGTDw.png)
+
 ### Product Backlog
 
 <table>
