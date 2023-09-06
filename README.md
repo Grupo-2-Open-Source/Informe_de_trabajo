@@ -760,7 +760,7 @@ Las etiquetas que utilizaremos deben tener en cuenta las implicaciones de SEO, l
 **Etiquetas con Parámetro ALT:** En AutoYa!, las etiquetas con parámetro ALT se emplearán para proporcionar descripciones alternativas a las imágenes en nuestra plataforma. Estas descripciones son esenciales para la accesibilidad web, ya que permiten a usuarios con tecnologías de asistencia, como lectores de pantalla, comprender el contenido de las imágenes cuando estas no se pueden cargar o visualizar.
 
 <p align="center">
-  <img src="[Imgur](https://i.imgur.com/9lZXkd3.png)" alt="AutoYa! Responsive Design" width="200">
+  <img src="https://i.imgur.com/5qtcOxH.png" alt="AutoYa! Responsive Design" width="300">
 </p>
 
 <br>
@@ -768,9 +768,87 @@ Las etiquetas que utilizaremos deben tener en cuenta las implicaciones de SEO, l
 
 ### SEO Tags and Meta Tags
 
+<div style="text-align: justify;">
+En AutoYa!, comprendemos la importancia de optimizar nuestras páginas tanto en la Landing Page como en la Web Application para mejorar la visibilidad en los motores de búsqueda y brindar una experiencia de usuario de alta calidad. A continuación, se detallan los principales SEO Tags y Meta Tags que utilizaremos, junto con los valores asignados:
+</div>
+
+<br>
+
+**Title (Título):** El título de una página es crucial tanto para los motores de búsqueda como para los usuarios. Utilizaremos títulos descriptivos y atractivos para cada página, que reflejen claramente su contenido y propósito.
+
+<p align="center">
+  <img src="https://i.imgur.com/V19qCBQ.png" alt="AutoYa! Responsive Design" width="300">
+</p>
+
+**Meta Tags de Descripción (Meta Description):** Las meta descripciones son breves resúmenes que aparecen en los resultados de búsqueda. Utilizaremos meta descripciones claras y concisas que inviten a los usuarios a hacer clic en nuestro sitio. La meta descripción es "Descubre una amplia gama de autos disponibles para alquilar en AutoYa! y planifica tu próximo viaje con facilidad."
+
+**Meta Tags de Palabras Clave (Keywords):** Aunque el enfoque en las palabras clave ha evolucionado en el SEO, aún consideraremos palabras clave relevantes para cada página y las incluiremos en los meta tags de keywords cuando sea apropiado. Esto ayudará a los motores de búsqueda a entender mejor el contenido de nuestras páginas.
+
+**Meta Tag de Autor (Author):** Utilizaremos el meta tag de autor para identificar al creador o autor del contenido, lo que puede ayudar a establecer credibilidad y autoridad en la industria.
+
+
+<br>
+<br>
+
 ### Searching Systems
 
+<div style="text-align: justify;">
+En AutoYa!, hemos desarrollado un sistema de búsqueda integral para ayudar a los usuarios a encontrar de manera eficiente el vehículo de alquiler que mejor se adapte a sus necesidades. A continuación, explicamos cómo hemos diseñado nuestro sistema de búsqueda para evitar que los usuarios se sientan abrumados por la cantidad de información y cómo lucirán los datos después de la búsqueda:
+</div>
+
+<br>
+
+**Opciones de Búsqueda:** 
+
+Ofrecemos a nuestros usuarios una amplia gama de opciones de búsqueda para personalizar su experiencia. Estas opciones incluyen la ubicación de recogida, el precio deseado, la duración del alquiler, la marca del vehículo, el modelo, la clase y la transmisión. Esto permite a los usuarios refinar su búsqueda según sus preferencias específicas.
+
+<p align="center">
+  <img src="https://i.imgur.com/3T5SjK8.png" alt="AutoYa! Responsive Design" width="400">
+</p>
+
+
+<br>
+<br>
+
 ### Navigation Systems
+
+<div style="text-align: justify;">
+En AutoYa!, hemos diseñado un sistema de navegación intuitivo y eficiente que guía a nuestros usuarios a través de nuestro Landing Page y aplicaciones, permitiéndoles alcanzar sus metas y interactuar satisfactoriamente con nuestro producto. A continuación, explicamos cómo los usuarios navegarán por nuestro contenido:
+</div>
+
+<br>
+
+**Barra de Navegación**
+
+Hemos implementado una barra de navegación en la parte superior de nuestra plataforma que ofrece tres opciones principales:
+
+* **Inicio** Esta opción llevará a los usuarios de regreso a la página de inicio, donde podrán comenzar su experiencia en AutoYa! o volver a explorar las opciones disponibles.
+
+
+* **Buscar Autos:** Los usuarios pueden hacer clic en esta opción para acceder a nuestro sistema de búsqueda integral, donde podrán especificar sus preferencias y encontrar el vehículo de alquiler perfecto.
+
+
+* **Mantenimiento:** Aquí, los usuarios pueden acceder a información relacionada con el mantenimiento de sus vehículos, incluyendo programación de servicios y seguimiento de tareas de mantenimiento.
+
+
+* **Alquiler:** Esta opción permite a los usuarios explorar opciones de alquiler de vehículos, ver detalles y realizar reservas.
+
+
+* **Solicitudes:** En esta sección, los usuarios pueden acceder a sus solicitudes de alquiler y realizar un seguimiento de los detalles importantes relacionados con sus reservas.
+
+
+<p align="center">
+  <img src="https://i.imgur.com/347yHxf.png" alt="AutoYa! Responsive Design" width="400">
+</p>
+
+<br>
+
+<div style="text-align: justify;">
+Nuestro sistema de navegación en AutoYa! se ha diseñado pensando en la comodidad y la eficiencia del usuario. Queremos que los usuarios puedan cumplir sus objetivos de manera satisfactoria, ya sea buscar un auto, programar un servicio de mantenimiento, hacer una reserva o realizar un seguimiento de sus solicitudes de alquiler, y nuestro sistema de navegación les brinda las herramientas para hacerlo de manera efectiva.
+</div>
+
+<br>
+<br>
 
 ## Landing Page UI Design
 
