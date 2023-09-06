@@ -655,11 +655,17 @@ Además, como equipo, hemos optado por emplear el patrón de diseño en forma de
   <img src="https://i.imgur.com/2WiPvic.png" alt="Patrón de Diseño en Z de AutoYa!" width="400">
 </p>
 
+<br>
+<br>
+
 ## Information Architecture
 
 <div style="text-align: justify;">
 Esta sección se centra principalmente en el contenido visual, los estilos y los elementos que se tendrán en cuenta para nuestra página web y landing page de AutoYa!. A continuación, exploraremos los temas de Sistemas de Organización, Sistemas de Etiquetado, Etiquetas de SEO y Metaetiquetas, Sistemas de Búsqueda y Sistemas de Navegación.
 </div>
+
+<br>
+<br>
 
 ### Organization Systems
 
@@ -667,14 +673,72 @@ Esta sección se centra principalmente en el contenido visual, los estilos y los
 Para los sistemas de organización, hemos decidido considerar la estructuración del contenido con un encabezado (header) donde las secciones a las que el usuario puede acceder se agrupen de manera clara. De esta forma, el usuario sabrá dónde hacer clic para acceder a las secciones correspondientes de AutoYa!.
 </div>
 
-* **Organización Visual**
+* **Organización Visual del Contenido (Visual Hierarchy):**
 
 <div style="text-align: justify;">
-Implementaremos un encabezado (header) que incluirá las secciones clave, un logo de AutoYa! que permitirá al usuario regresar a la página de inicio y un icono de "Mi perfil" que facilitará el acceso a su espacio personal para visualizar y gestionar su información. Además, estructuraremos el SPA (Single Page Application) de manera que podamos resaltar la información esencial de AutoYa! en la página de inicio, acompañada de imágenes atractivas que capturen la atención del usuario.
+Utilizaremos la organización visual jerárquica para resaltar la información más relevante y ayudar a los usuarios a navegar de manera eficiente. Esto se aplicará en la presentación de vehículos disponibles, tarifas y reseñas de otros usuarios.
+</div>
+
+* **Organización Secuencial (Step-by-Step to Accomplish):**
+
+<div style="text-align: justify;">
+Implementaremos la organización secuencial para guiar a los usuarios a través de procesos clave, como la reserva de un auto o el registro en la plataforma. Esto garantiza que los usuarios puedan completar tareas de manera intuitiva.
+</div>
+
+* **Organización Matricial (Matrix Organization):**
+
+<div style="text-align: justify;">
+La organización matricial se empleará para mostrar comparaciones entre diferentes opciones, como la disponibilidad de autos en diferentes ubicaciones y fechas. Esto permite a los usuarios tomar decisiones informadas.
+</div>
+
+<br>
+<br>
+
+### Labeling Systems
+
+<div style="text-align: justify;">
+En el contexto de AutoYa!, los sistemas de etiquetado juegan un papel fundamental en la organización y accesibilidad de la información en nuestra plataforma. Estos nombres se encuentran en enlaces, menús y pie de página, así como en encabezados que indican la jerarquía de la información. Son esenciales para permitir a los usuarios navegar fácilmente por nuestro sitio web y encontrar la información que necesitan. 
+<br>
+
+Las etiquetas que utilizaremos deben tener en cuenta las implicaciones de SEO, lo que significa que deben cumplir con los siguientes objetivos:
 </div>
 
 
-### Labeling Systems
+* **Nivel de Experiencia de Usuario (UX):** Las etiquetas proporcionarán información y contexto claros para que los usuarios comprendan la función de los elementos etiquetados.
+
+
+* **Nivel SEO:** Utilizaremos el etiquetado interno para enlazar las páginas de AutoYa! de manera que tengan sentido entre sí, mejorando así la optimización de motores de búsqueda.
+
+
+* **Palabras Clave y Etiquetado Adecuado:** Cada página de AutoYa! contendrá palabras clave relevantes y un etiquetado apropiado para distribuir los términos de manera efectiva y evitar la competencia interna entre páginas.
+
+
+* **Impacto de las Etiquetas en Menús y Bloques Estáticos:** Reconocemos que las palabras clave contenidas en los menús y en los bloques estáticos tienen un mayor impacto en la navegación y visibilidad de AutoYa!.
+
+<br>
+
+**Tipos de Etiquetas:**
+
+**Etiquetas Contextuales:** Estas etiquetas describen los enlaces en AutoYa! y son cruciales para conectar diferentes partes de la plataforma. Sin embargo, elegiremos cuidadosamente las palabras para estas etiquetas para evitar ambigüedades y garantizar que los usuarios comprendan el contenido al hacer clic en ellas.
+
+<p align="center">
+  <img src="https://i.imgur.com/gVElAiD.png" alt="AutoYa! Responsive Design" width="200">
+</p>
+
+**Etiquetas de Encabezado:** Las etiquetas de encabezado serán utilizadas para indicar la temática y jerarquía de contenido en AutoYa!. Al igual que en un libro, los encabezados ayudan a diferenciar las secciones del contenido y su importancia relativa.
+
+<p align="center">
+  <img src="https://i.imgur.com/9lZXkd3.png" alt="AutoYa! Responsive Design" width="200">
+</p>
+
+**Etiquetas con Parámetro ALT:** En AutoYa!, las etiquetas con parámetro ALT se emplearán para proporcionar descripciones alternativas a las imágenes en nuestra plataforma. Estas descripciones son esenciales para la accesibilidad web, ya que permiten a usuarios con tecnologías de asistencia, como lectores de pantalla, comprender el contenido de las imágenes cuando estas no se pueden cargar o visualizar.
+
+<p align="center">
+  <img src="[Imgur](https://i.imgur.com/9lZXkd3.png)" alt="AutoYa! Responsive Design" width="200">
+</p>
+
+<br>
+<br>
 
 ### SEO Tags and Meta Tags
 
@@ -946,3 +1010,4 @@ El Landing Page se desarrolló utilizando un prototipo de fidelidad intermedia e
 - El Comercio. (2023). _Alquiler de autos: ciudadano denunció pérdida de 7.600 soles por la retención de garantía y empresa responde._ Recuperado de [https://elcomercio.pe/pasa-en-la-calle/alquiler-de-autos-ciudadano-denuncio-perdida-de-7600-soles-por-la-retencion-de-garantia-y-empresa-responde-automoviles-venta-renta-noticia/](https://elcomercio.pe/pasa-en-la-calle/alquiler-de-autos-ciudadano-denuncio-perdida-de-7600-soles-por-la-retencion-de-garantia-y-empresa-responde-automoviles-venta-renta-noticia/) [Consulta: 1 de setiembre de 2023].
 
 # Anexos
+* Landing Page: https://grupo-2-open-source.github.io/Landing_Page/
