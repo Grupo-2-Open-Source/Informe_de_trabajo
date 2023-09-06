@@ -453,8 +453,11 @@ Somos consciente de que tener demasiada publicidad en una pantalla resulta moles
 ### Registro de entrevistas
 URL del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)  
 
+**Arrendatarios**
+
 **Entrevista 1: Franco Chávez**
 ![Imgur](https://i.imgur.com/pggmyQs.png)
+
 Timing: 0:00; 4:09 min
 
 Franco Chávez es un estudiante universitario de 23 años de edad. Reside en Chorrillos, Lima; tiene experiencia en la conducción y ha alquilado autos a través de agencias tradicionales. Al priorizar la seguridad, la comodidad y el precio al alquilar, considera importante conocer detalles como la tarifa por tiempo, la política de seguro y el estado del vehículo. Franco valora un proceso de alquiler transparente y enfatiza que un servicio de alquiler debe ofrecer vehículos en buen estado y seguro incluido. Prefiere pagar con tarjetas de crédito o débito y está interesado en aplicaciones web para alquilar autos debido a su comodidad y flexibilidad. Franco está familiarizado con medios en línea como ChorriAlquiler. Su perfil indica que sería un usuario adecuado para servicios como AutoYa!.
@@ -462,15 +465,27 @@ Franco Chávez es un estudiante universitario de 23 años de edad. Reside en Cho
 
 **Entrevista 2**
 ![Imgur](https://i.imgur.com/iQjbHJQ.png)
-a  
+
+Timing: 4:10; 3:09 min
+
+Piero Ruiz es un estudiante universitario de 21 años. Reside en San Martín de Porres, Lima. Piero sí ha manejado autos anteriormente, pero no ha alquilado uno antes, aunque menciona que le gustaría hacerlo. Lo que él priorizaría al alquilar un auto sería que el vehículo tenga buenas características y esté en buen estado, además considera importante que el vehículo pueda recorrer largas distancias y que no gaste mucho combustible. Asimismo, piensa que un servicio de alquiler de autos debe tener un proceso sencillo y seguro, junto con un sistema de comunicación efectivo con el propietario del vehículo. Piero piensa que se debería cobrar por día de uso del auto, ya que de otra forma sería muy tedioso y costoso. También, cree que se debería cobrar alrededor de 100 soles por día de uso del auto y que se debería poder pagar tanto en efectivo como por internet y sí estaría interesado en alquilar un auto por medio de una aplicación web. Finalmente, el entrevistado manifestó que no conoce ningún servicio para alquilar autos por internet.
+
+**Arrendadores**
 
 **Entrevista 3**
 ![Imgur](https://i.imgur.com/TiE9WhC.png)
-a
+
+Timing: 7:25; 3:54 min
+
+Valeria Nevado es una estudiante universitaria de 20 años. Reside en Cercado de Lima, Lima. Valeria sí ha puesto su auto en alquiler anteriormente, y lo hizo por WhatsApp, Facebook y de forma presencial. Ella priorizaría sobre todo saber a quién le está alquilando su auto y cree que es importante tener información de la persona a quien se lo da. Asimismo, cree que las personas que quieran registrarse para alquilar un auto deben pasar por un filtro que valide que es una persona que usará el auto de forma correcta; y cree que debe. También cree que se debería cobrar 100 soles mínimo por día de uso del auto. La entrevistada manifestó que se debería cobrar por medio de tarjetas de crédito y débito, ya que en efectivo se han visto varios casos de robo. Finalmente, sí estaría interesada en poner en alquiler su auto por medio de una aplicación web porque le parece más seguro que por otros medios; y sabe que existen sitios web para alquilar autos, pero nunca los ha usado.
 
 **Entrevista 4**
 ![Imgur](https://i.imgur.com/BACVdYv.png)
-a
+
+Timing: 11:19; 3:25 min
+
+Manuel Mavila es un estudiante universitario de 20 años. Reside en el distrito de San Miguel, Lima. Manuel dice que nunca ha puesto en alquiler su auto, pero sí estaría interesado en hacerlo. También menciona que lo que más priorizaría al alquilar su auto sería la seguridad y el compromiso que tenga el arrendatario, no puede ser alguien con denuncias o que no tenga la solvencia económica necesaria. Asimismo, piensa que sí sería buena idea poder ver la información de la persona a la que le alquilará su auto y que un servicio de alquiler de autos debería contar obligatoriamente con un seguro, además del soat. Adicionalmente, cree que se debería cobrar por hora del uso del auto, y el precio dependería del auto, de su modelo, antigüedad, condición, etc. El entrevistado manifestó que los pagos se deberían realizar por tarjeta y sí estaría dispuesto en poner su auto en alquiler por medio de una aplicación web, debido a que sería más rápido encontrar arrendatarios. Finalmente, Manuel mencionó que no conoce ningún sitio web para alquilar autos por internet.
+
 
 ### Análisis de entrevistas
 
