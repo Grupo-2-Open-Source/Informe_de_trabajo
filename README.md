@@ -171,10 +171,11 @@ Nuestra visión es tener una aplicación dedicada al nicho de la renta de autos 
 
 **Erick Hernan Ruiz Torres (u202118946)**
 
-
 ![impur](./imagenes/erick_ruiz.png)
 
 **Lynn Jeeferzon Meza Camayo (u20201c320)**
+
+![Imgur](https://i.imgur.com/0K3IRx9.png)
 
 **Samuel Rolando Chamorro Torres (u202015096)**
 
@@ -450,16 +451,26 @@ Somos consciente de que tener demasiada publicidad en una pantalla resulta moles
 13. ¿Conoce algun medio que permita alquilar autos por internet?
 
 ### Registro de entrevistas
-**Entrevista 1**
+URL del video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)  
+
+**Entrevista 1: Franco Chávez**
+![Imgur](https://i.imgur.com/pggmyQs.png)
+Timing: 0:00; 4:09 min
+
+Franco Chávez es un estudiante universitario de 23 años de edad. Reside en Chorrillos, Lima; tiene experiencia en la conducción y ha alquilado autos a través de agencias tradicionales. Al priorizar la seguridad, la comodidad y el precio al alquilar, considera importante conocer detalles como la tarifa por tiempo, la política de seguro y el estado del vehículo. Franco valora un proceso de alquiler transparente y enfatiza que un servicio de alquiler debe ofrecer vehículos en buen estado y seguro incluido. Prefiere pagar con tarjetas de crédito o débito y está interesado en aplicaciones web para alquilar autos debido a su comodidad y flexibilidad. Franco está familiarizado con medios en línea como ChorriAlquiler. Su perfil indica que sería un usuario adecuado para servicios como AutoYa!.
+  
 
 **Entrevista 2**
+![Imgur](https://i.imgur.com/iQjbHJQ.png)
+a  
 
 **Entrevista 3**
+![Imgur](https://i.imgur.com/TiE9WhC.png)
+a
 
 **Entrevista 4**
-
-**Entrevista 5**
-
+![Imgur](https://i.imgur.com/BACVdYv.png)
+a
 
 ### Análisis de entrevistas
 
