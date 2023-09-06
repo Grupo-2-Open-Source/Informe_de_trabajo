@@ -756,11 +756,6 @@ A continuación se muestran los User Journey Maps elaborados para los segmentos 
 
 ## To-Be Scenario Mapping
 
-#### **Usuario: Propietario**
-![Propietario](https://imgur.com/vCcO43a.png)
-
-#### **Usuario: Arrendatario**
-![Imgur](https://imgur.com/qy7Fts1.png)
 
 #### **Usuario: Propietario**
 ![Propietario](https://imgur.com/vCcO43a.png)
