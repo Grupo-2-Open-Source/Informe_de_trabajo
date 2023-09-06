@@ -489,11 +489,252 @@ Manuel Mavila es un estudiante universitario de 20 años. Reside en el distrito 
 
 ### Análisis de entrevistas
 
+**Arrendatarios**
+
+![Imgur](https://i.imgur.com/F5tPRhu.png)
+
+![Imgur](https://i.imgur.com/prZvGE7.png)
+
+![Imgur](https://i.imgur.com/E5OmjPn.png)
+
+![Imgur](https://i.imgur.com/lVDQuhk.png)
+
+![Imgur](https://i.imgur.com/vVXz8Mt.png)
+
+![Imgur](https://i.imgur.com/JwAooYB.png)
+
+![Imgur](https://i.imgur.com/C5WzyPg.png)
+
+![Imgur](https://i.imgur.com/IIgtVkK.png)
+
+![Imgur](https://i.imgur.com/szswfyC.png)
+
+![Imgur](https://i.imgur.com/ygyQ2kG.png)
+
+![Imgur](https://i.imgur.com/2AXE7Vm.png)
+
+![Imgur](https://i.imgur.com/H5kRjdO.png)
+
+![Imgur](https://i.imgur.com/zqbIqxW.png)
+
+![Imgur](https://i.imgur.com/dlzHirG.png)
+
+**Arrendadores**
+
+![Imgur](https://i.imgur.com/QMIn58f.png)
+![Imgur](https://i.imgur.com/hqvLfCj.png)
+
+![Imgur](https://i.imgur.com/0dvJ5bm.png)
+
+![Imgur](https://i.imgur.com/bn623DN.png)
+
+![Imgur](https://i.imgur.com/1x2FMqr.png)
+
+![Imgur](https://i.imgur.com/dumCcGY.png)
+
+![Imgur](https://i.imgur.com/AdLFQhN.png)
+
+![Imgur](https://i.imgur.com/g2xskR2.png)
+
+![Imgur](https://i.imgur.com/i3AKQgD.png)
+
+![Imgur](https://i.imgur.com/n0dZCYC.png)
+
+![Imgur](https://i.imgur.com/d8LhZzW.png)
+
+![Imgur](https://i.imgur.com/ftRgAvx.png)
+
+![Imgur](https://i.imgur.com/e633v1O.png)
+
+![Imgur](https://i.imgur.com/W8kC7BA.png)
+
 ## Needfinding
 
 ### User Personas
 
+A continuación se presentarán los User Persona elaborados en base al análisis de las entrevistas. Se ideó un User Persona por segmento objetivo.
+
+**Arrendatario**
+
+![Imgur](https://i.imgur.com/tuLamiF.png)
+
+**Arrendador**
+
+![Imgur](https://i.imgur.com/2gIrr7u.png)
+
+
 ### User Task Matrix
+
+**Arrendatario**
+
+<table align="center" style="text-align: center;">
+  <tr>
+    <td rowspan="2"><strong>User Task</strong></td>
+    <th colspan="6" style="text-align: center;"><strong>Arrendatario</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Frecuencia</strong></td>
+    <td><strong>Importancia</strong></td>
+  </tr>
+  <tr>
+    <td>Buscar una persona o empresa que alquile autos</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Contactar a esa persona o empresa</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Ver opciones de autos</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Filtrar autos</td>
+    <td>Seguido</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Comparar precios de autos</td>
+    <td>Siempre</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Negociar el precio</td>
+    <td>A veces</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Seleccionar el auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Inspeccionar el auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Firmar el contrato</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Comenzar el alquiler</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Recoger el auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Usar el auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Devolver el auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Terminar el alquiler</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+</table>
+
+**Arrendador**
+
+<table align="center" style="text-align: center;">
+  <tr>
+    <td rowspan="2"><strong>User Task</strong></td>
+    <th colspan="6" style="text-align: center;"><strong>Arrendador</strong></th>
+  </tr>
+  <tr>
+    <td><strong>Frecuencia</strong></td>
+    <td><strong>Importancia</strong></td>
+  </tr>
+  <tr>
+    <td>Buscar una persona que desee alquilar un auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Contactar a esa persona</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Mostrarle opciones de autos</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Filtrar autos</td>
+    <td>Seguido</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Mostrar los precios de los autos</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Negociar el precio</td>
+    <td>A veces</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Separar el auto seleccionado</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Inspeccionar y limpiar el auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Dar el contrato al cliente para que lo firme</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Comenzar el alquiler</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Esperar a que el cliente recoja el auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Dar el auto al cliente</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Dar seguimiento al cliente</td>
+    <td>A veces</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Recibir de vuelta el auto</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Terminar el alquiler</td>
+    <td>Siempre</td>
+    <td>Alta</td>
+  </tr>
+</table>
 
 ### User Journey Mapping
 
