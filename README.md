@@ -773,9 +773,6 @@ A continuación se muestran los User Journey Maps elaborados para los segmentos 
     <td align="center"><strong>Relacionado con (Epic ID)</strong></td>
   </tr>
   <tr>
-    <td colspan="5" align="center"><strong>EP01: __TextoEpic01__</strong></td>
-  </tr>
-  <tr>
     <td align="center"><strong>US01</strong></td>
     <td align="center">Registro del Arrendatario</td>
     <td align="center">Como Arrendatario, deseo registrarme dentro del app para poder alquilar un auto según mi presupuesto.</td>
@@ -816,7 +813,7 @@ A continuación se muestran los User Journey Maps elaborados para los segmentos 
         Cuando el propietario ingresa los datos incorrectamente o no están completos <br>
         Entonces el sistema le indicará que “Está incorrecto “o “Falta rellenar este dato. <br>
 </td>
-    <td align="center">Fila 4, Columna 5</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><strong>US03</strong></td>
@@ -835,7 +832,7 @@ A continuación se muestran los User Journey Maps elaborados para los segmentos 
   Entonces la aplicación le muestra un mensaje indicando "Datos actualizados correctamente" <br>
 
 </td>
-    <td align="center">Fila 5, Columna 5</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><strong>US04</strong></td>
@@ -852,7 +849,7 @@ Dado que el Arrendatario este en la sección "Buscar Autos" <br>
 Cuando ingrese los datos en cada sección específica y encuentre información de estos. <br>
 Entonces el sistema mostrará que "no hay contratos con esos datos". <br>
 </td>
-    <td align="center">Fila 5, Columna 5</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><strong>US05</strong></td>
@@ -887,7 +884,7 @@ Cuando no termina de rellenar los detalles del automóvil o las tarifas de alqui
 Entonces el sistema mostrara un mensaje de error <br>
 
   </td>
-    <td align="center">Fila 6, Columna 5</td>
+    <td align="center"></td>
   </tr>
 <tr>
     <td align="center"><strong>US07</strong></td>
@@ -904,7 +901,7 @@ Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
 Cuando rellene la opción de "Ubicación" y no encuentre ningún auto en esa zona<br>
 Entonces el sistema mostrará un mensaje indicando que "no se encontró ningún auto en esa zona"<br>
 </td>
-    <td align="center">Fila 6, Columna 5</td>
+    <td align="center"></td>
   </tr>
 <tr>
     <td align="center"><strong>US08</strong></td>
@@ -921,7 +918,7 @@ Dado que el propietario se encuentre en sección "Mantenimiento" <br>
 Cuando no termina de rellenar el registro de mantenimiento de su auto y seleccione "Registrar"<br>
 Entonces el sistema mostrará un mensaje de error <br>
 </td>
-    <td align="center">Fila 6, Columna 5</td>
+    <td align="center"></td>
   </tr>
 <tr>
     <td align="center"><strong>US09</strong></td>
@@ -938,7 +935,7 @@ Dado que el arrendatario se encuentre en sección "Mantenimiento" <br>
 Cuando ingrese el auto que desea visualizar o el nombre del propietario incorrectamente<br>
 Entonces el sistema mostrará un mensaje indicando "No se encontró el registro del auto seleccionado" <br>
 </td>
-    <td align="center">Fila 6, Columna 5</td>
+    <td align="center"></td>
   </tr>
 <tr>
     <td align="center"><strong>US10</strong></td>
@@ -955,7 +952,7 @@ Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
 Cuando no firma el documento y seleccione "Solicitar alquiler" <br>
 Entonces el sistema mandara un mensaje de error<br>
 </td>
-    <td align="center">Fila 6, Columna 5</td>
+    <td align="center"></td>
   </tr>
 <tr>
     <td align="center"><strong>US11</strong></td>
@@ -972,7 +969,7 @@ Dado que el propietario se encuentre en sección "Solicitud" <br>
 Cuando sno existe ni un solicitúd existente<br>
 Entonces el sistema mostrará de fondo un mensaje indicando "No hay solicitúdes recibidas" <br>
 </td>
-    <td align="center">Fila 6, Columna 5</td>
+    <td align="center"></td>
   </tr>
 <tr>
     <td align="center"><strong>US12</strong></td>
@@ -984,7 +981,7 @@ Dado que el invitado es nuevo y busca información de la aplicación <br>
 Cuando ingrese al link de la lending page <br>
 Entonces el sistema mostrará la landing page de la aplicación<br>
 </td>
-    <td align="center">Fila 6, Columna 5</td>
+    <td align="center"></td>
   </tr>
 
 </table>
@@ -1005,31 +1002,87 @@ Entonces el sistema mostrará la landing page de la aplicación<br>
   </tr>
   <tr>
     <td align="center">1</td>
-    <td align="center">Fila 2, Columna 2</td>
-    <td align="center">Fila 2, Columna 3</td>
-    <td align="center">Fila 2, Columna 4</td>
-    <td align="center">Fila 2, Columna 5</td>
+    <td align="center">US06</td>
+    <td align="center">Publicación de anuncio de alquiler de auto </td>
+    <td align="center">Como propietario de un automóvil, quiero poder crear un anuncio para alquilar mi auto</td>
+    <td align="center">5</td>
   </tr>
   <tr>
     <td align="center">2</td>
-    <td align="center">Fila 3, Columna 2</td>
-    <td align="center">Fila 3, Columna 3</td>
-    <td align="center">Fila 3, Columna 4</td>
-    <td align="center">Fila 3, Columna 5</td>
+    <td align="center">US08</td>
+    <td align="center">Registro de mantenimientos del Auto</td>
+    <td align="center">Como propietario, Deseo publicar el registro de mantenimiento de mi auto para que el usuario este al tanto del estado del auto.</td>
+    <td align="center">5</td>
   </tr>
   <tr>
     <td align="center">3</td>
-    <td align="center">Fila 4, Columna 2</td>
-    <td align="center">Fila 4, Columna 3</td>
-    <td align="center">Fila 4, Columna 4</td>
-    <td align="center">Fila 4, Columna 5</td>
+    <td align="center">US09</td>
+    <td align="center">Visualización de registro de mantenimiento</td>
+    <td align="center">Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber el estado de este</td>
+    <td align="center">5</td>
   </tr>
   <tr>
     <td align="center">4</td>
-    <td align="center">Fila 5, Columna 2</td>
-    <td align="center">Fila 5, Columna 3</td>
-    <td align="center">Fila 5, Columna 4</td>
-    <td align="center">Fila 5, Columna 5</td>
+    <td align="center">US10</td>
+    <td align="center">Solicitud de Alquiler de auto</td>
+    <td align="center">Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto</td>
+    <td align="center">5</td>
+  </tr>
+<tr>
+    <td align="center">5</td>
+    <td align="center">US11</td>
+    <td align="center">Visualización de solicitudes</td>
+    <td align="center">Como propietario, Deseo visualizar las solicitudes de los arrendatarios interesados para asi poder realizar el contrato</td>
+    <td align="center">3</td>
+  </tr>
+<tr>
+    <td align="center">6</td>
+    <td align="center">US04</td>
+    <td align="center">Búsqueda de autos según características</td>
+    <td align="center">Como Arrendatario, deseo poder buscar autos según datos específicos para asi descartar otros tipos de autos</td>
+    <td align="center">3</td>
+  </tr>
+<tr>
+    <td align="center">7</td>
+    <td align="center">US07</td>
+    <td align="center">Autos disponibles en una área</td>
+    <td align="center">Como arrendatario, que busca alquilar un auto, quiero poder visualizar todos los autos disponibles de una área para elegir los que se ubican en mi zona</td>
+    <td align="center">3</td>
+  </tr>
+<tr>
+    <td align="center">8</td>
+    <td align="center">US01</td>
+    <td align="center">Registro del Arrendatario</td>
+    <td align="center">Como arrendatario, deseo registrarme dentro del app para poder alquilar un auto según mi presupuesto.</td>
+    <td align="center">3</td>
+  </tr>
+<tr>
+    <td align="center">9</td>
+    <td align="center">US02</td>
+    <td align="center">Registro del Propietario</td>
+    <td align="center">Como Propietario deseo registrarme dentro del app para ofrecer en alquiler mi auto </td>
+    <td align="center">2</td>
+  </tr>
+<tr>
+    <td align="center">10</td>
+    <td align="center">US03</td>
+    <td align="center">Actualización de datos</td>
+    <td align="center">Como Usuario, deseo actualizar mis datos guardados en la aplicación para asi tener todo al día</td>
+    <td align="center">2</td>
+  </tr>
+<tr>
+    <td align="center">11</td>
+    <td align="center">US05</td>
+    <td align="center">Inicio de Sesión</td>
+    <td align="center">Como usuario registrado, quiero poder iniciar sesión en la aplicación con mi correo electrónico y contraseña.</td>
+    <td align="center">2</td>
+  </tr>
+<tr>
+    <td align="center">12</td>
+    <td align="center">US12</td>
+    <td align="center">Visualización de un sitio web de información de la aplicación</td>
+    <td align="center">Como un invitado, deseo visualizar una publicidad de la aplicación </td>
+    <td align="center">2</td>
   </tr>
 </table>
 
