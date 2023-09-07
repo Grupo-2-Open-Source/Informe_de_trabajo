@@ -115,7 +115,7 @@ Para la elaboración del informe se utilizó un documento Markdown, el cual fue 
   - [Software Object-Oriented Design](#software-object-oriented-design)
     - [Class Diagrams](#class-diagrams)
     - [Class Dictionary](#class-dictionary)
-  - [Databse Design](#databse-design)
+  - [Database Design](#database-design)
     - [Database Diagram](#database-diagram)
 - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
   - [Software Configuration Management](#software-configuration-management)
@@ -1883,9 +1883,15 @@ Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA--
 
 ### Software Architecture Context Diagram
 
+![Imgur](https://i.imgur.com/0PttzRE.png)
+
 ### Software Architecture Container Diagrams
 
+![Imgur](https://i.imgur.com/CwMYSiU.png)
+
 ### Software Architecture Components Diagrams
+
+![Imgur](https://i.imgur.com/rHUOdiX.png)
 
 ## Software Object-Oriented Design
 
