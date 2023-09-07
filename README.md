@@ -159,7 +159,7 @@ Para la elaboración del informe se utilizó un documento Markdown, el cual fue 
 
 ### Descripción de la Startup
 
-TechVerse es una startup que busca solucionar problemas en la renta de autos por medio de aplicaciones tecnológicas. Fue fundada por los alumnos universitarios: Alonso Robles, Erick Urbizagastegui, Johan Moreno, Luis Isla y Nicolás Zagal en Lima, Perú.
+AutoYa! es una startup que busca solucionar problemas en la renta de autos por medio de aplicaciones tecnológicas. Fue fundada por los alumnos universitarios: Alonso Robles, Erick Urbizagastegui, Johan Moreno, Luis Isla y Nicolás Zagal en Lima, Perú.
 
 **Misión**
 
