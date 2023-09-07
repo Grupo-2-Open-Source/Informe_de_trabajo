@@ -1395,8 +1395,6 @@ El Landing Page se desarrolló utilizando un prototipo de fidelidad intermedia e
 
 ### Web Applications Wireframes
 
-![impur](./imagenes/erick_ruiz.png)
-
 **NOTA:El usuario puede decidir el tipo de registro, ya sea Arrendatario o Propietario:**
 
 **ARRENDATARIO (Persona que va a alquilar un auto):**
@@ -1610,13 +1608,13 @@ Link de Prototipo Interactivo en Figma:
 
 ![impur](./imagenes/img_mockup/arrendatario/alqui2.png)
 
-![impur](./imagenes/img_mockup/arrendatario/pago efectivo.png)
 
-![impur](./imagenes/img_mockup/arrendatario/pago efectivo2.png)
+![impur](./imagenes/img_mockup/arrendatario/pago_efectivo.png)
+![impur](./imagenes/img_mockup/arrendatario/pago_online-1.png)
+![impur](./imagenes/img_mockup/arrendatario/pago_efectivo2.png)
+![impur](./imagenes/img_mockup/arrendatario/pago_online.png)
+![impur](./imagenes/img_mockup/arrendatario/pago_online2.png)
 
-![impur](./imagenes/img_mockup/arrendatario/pago online.png)
-
-![impur](./imagenes/img_mockup/arrendatario/pago online2.png)
 
 **SOLICITUDES**
 
@@ -1895,9 +1893,14 @@ Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA--
 
 ### Class Dictionary
 
-## Databse Design
+## Database Design
 
 ### Database Diagram
+
+![impur](./imagenes/img_database/database_diagram.png)
+
+Link de Vertabelo: [clic al link](https://my.vertabelo.com/doc/OzQPFOH2UjXuWwvhpU1pYXPdOKOahJum)
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -2071,6 +2074,84 @@ utilizaremos para este proyecto son los siguientes:
 <br>
 
 ### Source Code Style Guide & Conventions
+
+* HTML:
+  
+  Index.html: este source code en HTML establecerá la estructura del Landing Page. 
+
+* CSS:
+  
+  Main.css: este source code en CSS se integrará al source code de HTML en el diseño del
+  Landing Page
+    
+  Base.css: este source code en CSS se integrará al source code de HTML en el diseño del
+    Landing Page
+
+  Fonts.css: este source code en CSS se integrará al source code de HTML en el diseño del
+  Landing Page
+
+  Vendor.css: este source code en CSS se integrará al source code de HTML en el diseño del
+  Landing Page
+
+
+* JavaScript:
+
+  Jquery-2.1.3.min.js: Este archivo mejora la experiencia del usuario en el Landing Page.
+  
+  main.js: main.js es un archivo de código fuente fundamental para el funcionamiento del Landing Page en AutoYa!.
+
+  modernizr.js: modernizr.js garantiza una experiencia coherente y eficiente en diferentes navegadores.
+
+  pace.min.js: Esto ayuda a los usuarios a comprender cuándo se ha completado la carga del sitio web. En AutoYa!, pace.min.js mejora la percepción del rendimiento del sitio y la experiencia de usuario.
+
+  plugins.js: Este archivo contiene plugins y extensiones de JavaScript que se utilizan en diversas partes del Landing Page.
+
+
+**Convenciones generales**
+
+* Sangría: tendrá 2 espacios a la vez<br/>
+    .example {<br/>
+      Color: red;<br/>
+    }
+* Códificación: para las plantillas HTML se usará UTF-8 <br/>
+< meta charset="utf-8" >
+
+**Convenciones del formato HTML**
+
+* General: para cada lista, elemento o tabla se usará una nueva línea con doble espaciado<br/>
+< ul><br/>
+ < li> Elemento 1 < /li><br/>
+ < li> Elemento 2 < /li><br/>
+ < li> Elemento 3 < /li><br/>
+ < li> Elemento 4 < /li><br/>
+< /ul>
+
+
+* Comillas: citaremos los valore y atributos a través de comillas<br/>
+< img src="images/firefox-icon.png" alt="My test image" />
+
+**Convenciones del formato CSS**
+
+* Nomenclatura: se usarán nombres que reflejan en elementos en genéricos y cuestión<br/><br/>
+.menu {}<br/>
+.login {}<br/>
+.image{}<br/>
+
+* Estilo de nombre: los nombres serán cortos para mayor brevedad<br/><br/>
+-- Box<br/>
+.box {}<br/>
+.image {}<br/>
+.title {}
+
+* Propiedades de tipografía: se usará las propiedades de tipografía para el tipo de letra a usar, tamaño,
+entre otros.<br/><br/>
+font-style: italic;<br/>
+font-weight: bold;<br/>
+font-size: .8em;<br/>
+line-height: 1.2;<br/>
+font-family: Arial, sans-serif;
+
+
 
 ### Software Deployment Configuration
 
