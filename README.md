@@ -1893,9 +1893,14 @@ Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA--
 
 ### Class Dictionary
 
-## Databse Design
+## Database Design
 
 ### Database Diagram
+
+![impur](./imagenes/img_database/database_diagram.png)
+
+Link de Vertabelo: [clic al link](https://my.vertabelo.com/doc/OzQPFOH2UjXuWwvhpU1pYXPdOKOahJum)
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
