@@ -1605,12 +1605,15 @@ Link de Prototipo Interactivo en Figma:
 **ALQUILER**
 
 ![impur](./imagenes/img_mockup/arrendatario/alqui1.png)
+
 ![impur](./imagenes/img_mockup/arrendatario/alqui2.png)
 
 ![impur](./imagenes/img_mockup/arrendatario/pago efectivo.png)
+
 ![impur](./imagenes/img_mockup/arrendatario/pago efectivo2.png)
 
 ![impur](./imagenes/img_mockup/arrendatario/pago online.png)
+
 ![impur](./imagenes/img_mockup/arrendatario/pago online2.png)
 
 **SOLICITUDES**
@@ -2285,4 +2288,6 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
 - El Comercio. (2023). _Alquiler de autos: ciudadano denunció pérdida de 7.600 soles por la retención de garantía y empresa responde._ Recuperado de [https://elcomercio.pe/pasa-en-la-calle/alquiler-de-autos-ciudadano-denuncio-perdida-de-7600-soles-por-la-retencion-de-garantia-y-empresa-responde-automoviles-venta-renta-noticia/](https://elcomercio.pe/pasa-en-la-calle/alquiler-de-autos-ciudadano-denuncio-perdida-de-7600-soles-por-la-retencion-de-garantia-y-empresa-responde-automoviles-venta-renta-noticia/) [Consulta: 1 de setiembre de 2023].
 
 # Anexos
-* Landing Page: https://grupo-2-open-source.github.io/Landing_Page/
+- Repositorio del Informe del Trabajo: [https://github.com/Grupo-2-Open-Source/Informe_de_trabajo](https://github.com/Grupo-2-Open-Source/Informe_de_trabajo)
+- Registro de entrevistas 1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+- Landing Page: [https://grupo-2-open-source.github.io/Landing_Page/](https://grupo-2-open-source.github.io/Landing_Page/)
