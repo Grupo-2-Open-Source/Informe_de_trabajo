@@ -18,10 +18,10 @@
 <h3>Integrantes:</h3>
 
 <ul>
-  <li>Erick Gabriel Urbizagastegui Alvarez</li>
-  <li>Erick Hernan Ruiz Torres</li>
-  <li>Lynn Jeeferzon Meza Camayo</li>
-  <li>Samuel Rolando Chamorro Torres</li>
+  <li>Erick Gabriel Urbizagastegui Alvarez U20201E465</li>
+  <li>Erick Hernan Ruiz Torres U202118946</li>
+  <li>Lynn Jeeferzon Meza Camayo U20201C320</li>
+  <li>Samuel Rolando Chamorro Torres U202015096</li>
 </ul>
 
 **<h3>Agosto, 2023</h3>**
@@ -29,19 +29,23 @@
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción de modificación |
-|--------------|--------------|--------------|--------------|
-| Entrega 1      | Celda 2      | - Erick Gabriel Urbizagastegui Alvarez<br>- Erick Hernan Ruiz Torres<br>- Lynn Jeeferzon Meza Camayo<br>- Samuel Rolando Chamorro Torres<br>     | Celda 4      |
-| Entrega X      | Celda 6      | - Erick Gabriel Urbizagastegui Alvarez<br>- Erick Hernan Ruiz Torres<br>- Lynn Jeeferzon Meza Camayo<br>- Samuel Rolando Chamorro Torres<br>   | Celda 8      |
+| Versión | Fecha      | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|--------------|------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Entrega 1     | 06-09-2023 | - Erick Gabriel Urbizagastegui Alvarez<br>- Erick Hernan Ruiz Torres<br>- Lynn Jeeferzon Meza Camayo<br>- Samuel Rolando Chamorro Torres<br>     | **Project Report Collaboration Insights**<br/><br/>**Contenido**<br/>Tabla de contenidos<br/><br/>**Student Outcome**<br/><br/>**Capitulo I:Introduccion**<br/>1.1. Startup Profile<br/>1.1.1. Descripción de la Startup<br/>1.1.2. Perfiles de integrantes del equipo<br/>1.2. Solution Profile<br/>1.2.1 Antecedentes y problemática<br/>1.2.2 Lean UX Process.<br/>1.2.2.1. Lean UX Problem Statements.<br/>1.2.2.2. Lean UX Assumptions.<br/>1.2.2.3. Lean UX Hypothesis Statements.<br/>1.2.2.4. Lean UX Canvas.<br/>1.3. Segmentos objetivo.<br/><br/>**Capítulo II: Requirements Elicitation & Analysis**<br/>2.1. Competidores.<br/>2.1.1. Análisis competitivo.<br/>2.1.2. Estrategias y tácticas frente a competidores.<br/>2.2. Entrevistas.<br/>2.2.1. Diseño de entrevistas.<br/>2.2.2. Registro de entrevistas.<br/>2.2.3. Análisis de entrevistas.<br/>2.3. Needfinding.<br/>2.3.1. User Personas.<br/>2.3.2. User Task Matrix.<br/>2.3.3. User Journey Mapping.<br/>2.3.4. Empathy Mapping.<br/>2.3.5. As-is Scenario Mapping.<br/><br/>**Capítulo III: Requirements Specification**<br/>3.1. To-Be Scenario Mapping.<br/>3.2. User Stories.<br/>3.3. Impact Mapping.<br/>3.4. Product Backlog.<br/><br/>**Capítulo IV: Product Design**<br/>4.1. Style Guidelines.<br/>4.1.1. General Style Guidelines.<br/>4.1.2. Web Style Guidelines.<br/>4.2. Information Architecture.<br/>4.2.1. Organization Systems.<br/>4.2.2. Labeling Systems.<br/>4.2.3. SEO Tags and Meta Tags<br/>4.2.4. Searching Systems.<br/>4.2.5. Navigation Systems.<br/>4.3. Landing Page UI Design.<br/>4.3.1. Landing Page Wireframe.<br/>4.3.2. Landing Page Mock-up.<br/>4.4. Web Applications UX/UI Design.<br/>4.4.1. Web Applications Wireframes.<br/>4.4.2. Web Applications Wireflow Diagrams.<br/>4.4.2. Web Applications Mock-ups.<br/>4.4.3. Web Applications User Flow Diagrams.<br/>4.5. Web Applications Prototyping.<br/>4.6. Domain-Driven Software Architecture.<br/>4.6.1. Software Architecture Context Diagram.<br/>4.6.2. Software Architecture Container Diagrams.<br/>4.6.3. Software Architecture Components Diagrams.<br/>4.7. Software Object-Oriented Design.<br/>4.7.1. Class Diagrams.<br/>4.7.2. Class Dictionary.<br/>4.8. Database Design.<br/>4.8.1. Database Diagram.<br/><br/>**Capítulo V: Product Implementation, Validation & Deployment.**<br/>5.1. Software Configuration Management.<br/>5.1.1. Software Development Environment Configuration.<br/>5.1.2. Source Code Management.<br/>5.1.3. Source Code Style Guide & Conventions.<br/>5.1.4. Software Deployment Configuration.<br/>5.2. Landing Page, Services & Applications Implementation.<br/>5.2.1. Sprint 1<br/>5.2.1.1. Sprint Planning 1.<br/>5.2.1.2. Sprint Backlog 1.<br/>5.2.1.3. Development Evidence for Sprint Review.<br/>5.2.1.4. Testing Suite Evidence for Sprint Review. |
+|Entrega X      | Celda 6    | - Erick Gabriel Urbizagastegui Alvarez<br>- Erick Hernan Ruiz Torres<br>- Lynn Jeeferzon Meza Camayo<br>- Samuel Rolando Chamorro Torres<br>   | Celda 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
 # Project Report Collaboration Insights
 
 ## URL del repositorio del Project Report
 [https://github.com/Grupo-2-Open-Source/Informe_de_trabajo](https://github.com/Grupo-2-Open-Source/Informe_de_trabajo)
 ## Insights
-INSERTAR IMÁGENES CON FECHA
-## Commits
-INSERTAR IMÁGENES CON FECHA
+
+**TB1**
+
+
+Para la elaboración del informe se utilizó un documento Markdown, el cual fue editado por todos los integrantes del equipo. Cada integrante primero hacía sus modificaciones en su respectiva rama en el repositorio para luego hacer un merge de su rama con la rama main. De esta forma nos aseguramos de que los avances de todos estuvieran incluidos en el informe final y que todos participaran.
+
+![Imgur](https://i.imgur.com/6pYbsw5.png)
 
 # Contenido
 
@@ -49,7 +53,6 @@ INSERTAR IMÁGENES CON FECHA
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
   - [URL del repositorio del Project Report](#url-del-repositorio-del-project-report)
   - [Insights](#insights)
-  - [Commits](#commits)
 - [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
@@ -80,6 +83,8 @@ INSERTAR IMÁGENES CON FECHA
     - [As-is Scenario Mapping](#as-is-scenario-mapping)
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
   - [To-Be Scenario Mapping](#to-be-scenario-mapping)
+      - [**Usuario: Propietario**](#usuario-propietario)
+      - [**Usuario: Arrendatario**](#usuario-arrendatario)
     - [User Stories](#user-stories)
     - [Impact Mapping](#impact-mapping)
     - [Product Backlog](#product-backlog)
@@ -102,6 +107,7 @@ INSERTAR IMÁGENES CON FECHA
     - [Web Applications Mock-ups](#web-applications-mock-ups)
     - [Web Applications User Flow Diagrams](#web-applications-user-flow-diagrams)
   - [Web Applications Prototyping](#web-applications-prototyping)
+    - [Desktop Prototyping](#desktop-prototyping)
   - [Domain-Driven Software Architecture](#domain-driven-software-architecture)
     - [Software Architecture Context Diagram](#software-architecture-context-diagram)
     - [Software Architecture Container Diagrams](#software-architecture-container-diagrams)
@@ -141,9 +147,9 @@ INSERTAR IMÁGENES CON FECHA
 # Student Outcome
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
-|--------------|--------------|--------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Celda 2      | Celda 3      |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.     | Celda 5      | Celda 6      |
+|---------------------|---------------------|--------------|
+| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **Chamorro Torres, Samuel Rolando**<br/>**TB1**<br/>1.1.2. Perfiles de integrantes del equipo<br/>2.2.2. Registro de entrevistas.<br/>4.1. Style Guidelines.<br/>4.1.1. General Style Guidelines.<br/>4.1.2. Web Style Guidelines.<br/>4.2. Information Architecture.<br/>4.2.1. Organization Systems.<br/>4.2.2. Labeling Systems.<br/>4.2.3. SEO Tags and Meta Tags<br/>4.2.4. Searching Systems.<br/>4.2.5. Navigation Systems.<br/>4.3. Landing Page UI Design.<br/>4.3.1. Landing Page Wireframe.<br/>4.3.2. Landing Page Mock-up. <br/>5.1. Software Configuration Management.<br/>5.1.1. Software Development Environment Configuration.<br/>5.1.2. Source Code Management<br><br>**Meza Camayo, Lynn Jefferson**<br>1.1.2. Perfiles de integrantes del equipo<br>2.2.2. Registro de entrevistas.<br>2.2.3. Análisis de entrevistas.<br>3.1. To-Be Scenario Mapping.<br>3.2. User Stories.<br>3.3. Impact Mapping.<br>3.4. Product Backlog.<br><br>**Ruiz Torres, Erick Hernan**<br>1.1.2. Perfiles de integrantes del equipo<br>2.2.2. Registro de entrevistas.<br>2.2.3. Análisis de entrevistas.<br>4.4. Web Applications UX/UI Design.<br>4.4.1. Web Applications Wireframes.<br>4.4.2. Web Applications Wireflow Diagrams.<br>4.4.2. Web Applications Mock-ups.<br>4.4.3. Web Applications User Flow Diagrams.<br>4.5. Web Applications Prototyping.<br><br>**Urbizagástegui Alvarez, Erick Gabriel**<br>1.1. Startup Profile<br>1.1.1. Descripción de la Startup<br>1.1.2. Perfiles de integrantes del equipo<br>1.2. Solution Profile<br>1.2.1 Antecedentes y problemática<br>1.2.2 Lean UX Process.<br>1.2.2.1. Lean UX Problem Statements.<br>1.2.2.2. Lean UX Assumptions.<br>1.2.2.3. Lean UX Hypothesis Statements.<br>1.2.2.4. Lean UX Canvas.<br>1.3. Segmentos objetivo.<br>2.1. Competidores.<br>2.1.1. Análisis competitivo.<br>2.1.2. Estrategias y tácticas frente a competidores.<br>2.2. Entrevistas.<br>2.2.1. Diseño de entrevistas.<br>2.2.2. Registro de entrevistas.<br>2.2.3. Análisis de entrevistas.<br>2.3. Needfinding.<br>2.3.1. User Personas.<br>2.3.2. User Task Matrix.<br>2.3.3. User Journey Mapping.<br>2.3.4. Empathy Mapping.<br>2.3.5. As-is Scenario Mapping.<br> | **TB1**<br><br>Se realizaron lo capítulos del I al IV, esto nos permitió entender el problema a aboradar; saber quiénes se ven afectados por este problema; crear user personas para este problema; proponer soluciones para este problema; y crear un Landing Page que muestre nuestra propuesta de solución al problema. Finalmente, se utilizó GitHub para organizar los avances de cada integrante.|
+| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **Chamorro Torres, Samuel Rolando**<br/>**TB1**<br/>1.1.2. Perfiles de integrantes del equipo<br/>2.2.2. Registro de entrevistas.<br/>4.1. Style Guidelines.<br/>4.1.1. General Style Guidelines.<br/>4.1.2. Web Style Guidelines.<br/>4.2. Information Architecture.<br/>4.2.1. Organization Systems.<br/>4.2.2. Labeling Systems.<br/>4.2.3. SEO Tags and Meta Tags<br/>4.2.4. Searching Systems.<br/>4.2.5. Navigation Systems.<br/>4.3. Landing Page UI Design.<br/>4.3.1. Landing Page Wireframe.<br/>4.3.2. Landing Page Mock-up. <br/>5.1. Software Configuration Management.<br/>5.1.1. Software Development Environment Configuration.<br/>5.1.2. Source Code Management<br><br>**Meza Camayo, Lynn Jefferson**<br>1.1.2. Perfiles de integrantes del equipo<br>2.2.2. Registro de entrevistas.<br>2.2.3. Análisis de entrevistas.<br>3.1. To-Be Scenario Mapping.<br>3.2. User Stories.<br>3.3. Impact Mapping.<br>3.4. Product Backlog.<br><br>**Ruiz Torres, Erick Hernan**<br>1.1.2. Perfiles de integrantes del equipo<br>2.2.2. Registro de entrevistas.<br>2.2.3. Análisis de entrevistas.<br>4.4. Web Applications UX/UI Design.<br>4.4.1. Web Applications Wireframes.<br>4.4.2. Web Applications Wireflow Diagrams.<br>4.4.2. Web Applications Mock-ups.<br>4.4.3. Web Applications User Flow Diagrams.<br>4.5. Web Applications Prototyping.<br><br>**Urbizagástegui Alvarez, Erick Gabriel**<br>1.1. Startup Profile<br>1.1.1. Descripción de la Startup<br>1.1.2. Perfiles de integrantes del equipo<br>1.2. Solution Profile<br>1.2.1 Antecedentes y problemática<br>1.2.2 Lean UX Process.<br>1.2.2.1. Lean UX Problem Statements.<br>1.2.2.2. Lean UX Assumptions.<br>1.2.2.3. Lean UX Hypothesis Statements.<br>1.2.2.4. Lean UX Canvas.<br>1.3. Segmentos objetivo.<br>2.1. Competidores.<br>2.1.1. Análisis competitivo.<br>2.1.2. Estrategias y tácticas frente a competidores.<br>2.2. Entrevistas.<br>2.2.1. Diseño de entrevistas.<br>2.2.2. Registro de entrevistas.<br>2.2.3. Análisis de entrevistas.<br>2.3. Needfinding.<br>2.3.1. User Personas.<br>2.3.2. User Task Matrix.<br>2.3.3. User Journey Mapping.<br>2.3.4. Empathy Mapping.<br>2.3.5. As-is Scenario Mapping.<br> | **TB1**<br><br>Identificar un problema y las personas a las que afecta nos permitió determinar segmentos objetivos en base a los cuales se realizaron entrevistas para su posterior análisis. Esto, a su vez, nos ayudo a recolectar datos para la creación de los User Persona, Empathy Maps, Impact Maps, As-Is Scenario Maps y To-Be Scenario Maps. Adicionalmente, haber creado un Landing Page y sus respectivos Wireframes y Mockups para nuestra propuesta nos ayudó y sigue ayudando a poder visualizar de mejor forma el aspecto que deseamos que tenga la solución que proponemos. Finalmente, hacer uso de GitHub nos permitió organizarnos mejor como equipo y  |
 
 <div style="text-align: justify;">
 
@@ -750,14 +756,38 @@ A continuación se muestran los User Journey Maps elaborados para los segmentos 
 
 ### Empathy Mapping
 
+A continuación, se muestran los Empathy Maps desarrollados para cada segmento objetivo, los cuales son Arrendatario y Arrendador.
+
+**Arrendatario**
+
+![Imgur](https://i.imgur.com/ygILuUf.png)
+
+**Arrendador**
+
+![Imgur](https://i.imgur.com/6fJybYV.png)
+
 ### As-is Scenario Mapping
+
+**Arrendatario**
+
+![Imgur](https://i.imgur.com/O694ILj.png)
+
+**Arrendador**
+
+![Imgur](https://i.imgur.com/6s4JvlH.png)
 
 # Capítulo III: Requirements Specification
 
 ## To-Be Scenario Mapping
 
-### User Stories
 
+#### **Usuario: Propietario**
+![Propietario](https://imgur.com/vCcO43a.png)
+
+#### **Usuario: Arrendatario**
+![Imgur](https://imgur.com/qy7Fts1.png)
+
+### User Stories
 <table>
   <tr>
     <td align="center"><strong>Epic / Story ID</strong></td>
@@ -767,47 +797,222 @@ A continuación se muestran los User Journey Maps elaborados para los segmentos 
     <td align="center"><strong>Relacionado con (Epic ID)</strong></td>
   </tr>
   <tr>
-    <td colspan="5" align="center"><strong>EP01: __TextoEpic01__</strong></td>
-  </tr>
-  <tr>
     <td align="center"><strong>US01</strong></td>
-    <td align="center">Fila 3, Columna 2</td>
-    <td align="center">Fila 3, Columna 3</td>
-    <td align="center">Fila 3, Columna 4</td>
-    <td align="center">Fila 3, Columna 5</td>
+    <td align="center">Registro del Arrendatario</td>
+    <td align="center">Como Arrendatario, deseo registrarme dentro del app para poder alquilar un auto según mi presupuesto.</td>
+    <td align="center">
+    Escenario 1: El arrendatario desea crear una cuenta <br>
+    Dado que el arrendatario se encuentra en sección de inicio <br>
+    Cuando el arrendatario no se encuentra registrado en el aplicativo y
+    al seleccionar “Crear una Cuenta” <br> 
+    Entonces el sistema le redireccionará al registro. <br>  
+    Escenario 2: El arrendatario rellena sus datos correctamente <br>
+    Dado que el arrendatario se encuentra en la sección de registro y selecciona la sección "Arrendatario" <br>
+    Cuando el arrendatario rellena todos los datos correctamente. <br>
+    Entonces el sistema registra los datos ingresados a la base de datos correctamente y mostrará "Usted se ha registrado de manera exitosa".
+    Escenario 3: El arrendatario rellena sus datos incorrectamente. <br>
+    Dado que el arrendatario se encuentra en la sección de registro y selecciona la sección "Arrendatario" <br>
+    Cuando el arrendatario ingresa los datos incorrectamente o no están completos, <br>
+    Entonces el sistema le indicará que “Está incorrecto “o “Falta rellenar este dato.
+
+</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><strong>US02</strong></td>
-    <td align="center">Fila 4, Columna 2</td>
-    <td align="center">Fila 4, Columna 3</td>
-    <td align="center">Fila 4, Columna 4</td>
-    <td align="center">Fila 4, Columna 5</td>
+    <td align="center">Registro del Propietario</td>
+    <td align="center">Como Propietario deseo registrarme dentro del app para ofrecer en alquiler mi auto </td>
+    <td align="center">
+        Escenario 1: crear una cuenta  <br>
+        Dado que el Propietario se encuentra en sección de "inicio" <br>
+        Cuando el arrendador no se encuentra registrado en la aplicación <br>
+        Entonces al seleccionar “Crear Cuenta” el sistema le redireccionará al registro. <br>
+        <br>
+        Escenario 2: rellenado de datos correctamente. <br>
+        Dado que el Propietario se encuentra en la sección de registro y selecciona la sección "propietario" <br>
+        Cuando el propietario rellene todos los datos correctamente <br>
+        Entonces el sistema registra sus datos ingresados a la base de datos y mostrará "Usted se ha registrado de manera exitosa". <br>
+        Escenario 3: rellenado de datos incorrectamente. <br>
+        Dado que el Propietario se encuentra en la sección de registro y selecciona la sección "propietario" <br>
+        Cuando el propietario ingresa los datos incorrectamente o no están completos <br>
+        Entonces el sistema le indicará que “Está incorrecto “o “Falta rellenar este dato. <br>
+</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><strong>US03</strong></td>
-    <td align="center">Fila 5, Columna 2</td>
-    <td align="center">Fila 5, Columna 3</td>
-    <td align="center">Fila 5, Columna 4</td>
-    <td align="center">Fila 5, Columna 5</td>
+    <td align="center">Actualización de datos</td>
+    <td align="center">Como Usuario deseo actualizar mis datos guardados en la aplicación para asi tener todo al día</td>
+    <td align="center">
+  Escenario 1: Acceso a pestaña Información Personal <br>
+  Dado que el usuario quiere actualizar sus datos <br>
+  Cuando el usuario seleccione el icono de su imag de perfil <br>
+  Entonces la aplicación le mostrará toda la Información Personal que ingreso al crear la cuenta <br>
+  <br>
+  Escenario 2: Actualización de los datos <br>
+  Dado que el usuario se encuentra en la sección información Personal <br>
+  Cuando el usuario haya actualizado todos los datos que desee <br>
+  Y el usuario al seleccionar el botón “Aceptar” <br>
+  Entonces la aplicación le muestra un mensaje indicando "Datos actualizados correctamente" <br>
+
+</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><strong>US04</strong></td>
-    <td align="center">Fila 5, Columna 2</td>
-    <td align="center">Fila 5, Columna 3</td>
-    <td align="center">Fila 5, Columna 4</td>
-    <td align="center">Fila 5, Columna 5</td>
+    <td align="center">Búsqueda de autos según características</td>
+    <td align="center">Como Arrendatario deseo poder buscar autos según datos específicos para asi descartar otros tipos de autos/td>
+    <td align="center">
+Escenario 1: El Arrendatario visualiza cuando existen datos específicos que desee. <br>
+Dado que el Arrendatario este en la sección "Buscar Autos" <br>
+Cuando ingrese los datos en cada sección específica y encuentre información de estos. <br>
+Entonces el sistema mostrará todos los autos que tenga estos en su informe. <br>
+<br>
+Escenario 2: El Arrendatario visualiza cuando no existen datos específicos que desee. <br>
+Dado que el Arrendatario este en la sección "Buscar Autos" <br>
+Cuando ingrese los datos en cada sección específica y encuentre información de estos. <br>
+Entonces el sistema mostrará que "no hay contratos con esos datos". <br>
+</td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><strong>US05</strong></td>
-    <td align="center">Fila 6, Columna 2</td>
-    <td align="center">Fila 6, Columna 3</td>
-    <td align="center">Fila 6, Columna 4</td>
-    <td align="center">Fila 6, Columna 5</td>
+    <td align="center">Inicio de Sesión</td>
+    <td align="center">Como usuario registrado, quiero poder iniciar sesión en la aplicación con mi correo electrónico y contraseña.</td>
+    <td align="center">
+Escenario 1: Inicio de sesión correctamente<br>
+Dado que el usuario se encuentre en Inicio de Sesión <br>
+Cuando ingrese su correo y contraseña correctamente <br>
+Entonces el Sistema le mandará al inicio de la aplicación <br>
+<br>
+Escenario 2: Inicio de sesión incorrectamente  <br>
+Dado que el usuario se encuentre en Inicio de Sesión <br>
+Cuando ingrese su correo o contraseña incorrectamente <br>
+Entonces el Sistema debe mostrar un mensaje de error <br>
+</td>
+    <td align="center"></td>
   </tr>
+<tr>
+    <td align="center"><strong>US06</strong></td>
+    <td align="center">Publicación de anuncio de alquiler de auto</td>
+    <td align="center">Como propietario de un automóvil, quiero poder crear un anuncio para alquilar mi auto</td>
+    <td align="center">
+Escenario 1: Publicación de anuncio correctamente <br>
+Dado que el propietario se encuentre en sección "Registro de Vehículo" <br>
+Cuando rellene los detalles del automóvil, las tarifas de alquiler y seleccione "Registrar"<br>
+Entonces el sistema lo guardará en la base de datos y móstrara en pantalla el contrato de alquiler. <br>
+
+Escenario 1: Publicación de anuncio incorrectamente <br>
+Dado que el propietario se encuentre en sección "Registro de Vehículo" <br>
+Cuando no termina de rellenar los detalles del automóvil o las tarifas de alquiler <br>
+Entonces el sistema mostrara un mensaje de error <br>
+
+  </td>
+    <td align="center"></td>
+  </tr>
+<tr>
+    <td align="center"><strong>US07</strong></td>
+    <td align="center">Autos disponibles en una área</td>
+    <td align="center">Como arrendatario que busca alquilar un auto, quiero poder visualizar todos los autos disponibles de una área para elegir los que se ubican en mi zona</td>
+    <td align="center">
+Escenario 1: Visualización de autos correctamente <br>
+Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
+Cuando rellene la opción de "Ubicación"<br>
+Entonces el sistema mostrará todos los autos disponibles de la areá seleccionada <br>
+
+Escenario 1: Visualización de autos incorrectamente <br>
+Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
+Cuando rellene la opción de "Ubicación" y no encuentre ningún auto en esa zona<br>
+Entonces el sistema mostrará un mensaje indicando que "no se encontró ningún auto en esa zona"<br>
+</td>
+    <td align="center"></td>
+  </tr>
+<tr>
+    <td align="center"><strong>US08</strong></td>
+    <td align="center">Registro de mantenimientos del Auto</td>
+    <td align="center">Como propietario, Deseo publicar el registro de mantenimiento de mi auto para que el usuario este al tanto del estado del auto</td>
+    <td align="center">
+Escenario 1: Registro de Mantenimiento correctamente <br>
+Dado que el propietario se encuentre en sección "Mantenimiento" <br>
+Cuando rellene el registro de mantenimiento de su auto y seleccione "Registrar"<br>
+Entonces el sistema mostrará "Se Registró correctamente" <br>
+
+Escenario 1: Registro de Mantenimiento incorrectamente<br>
+Dado que el propietario se encuentre en sección "Mantenimiento" <br>
+Cuando no termina de rellenar el registro de mantenimiento de su auto y seleccione "Registrar"<br>
+Entonces el sistema mostrará un mensaje de error <br>
+</td>
+    <td align="center"></td>
+  </tr>
+<tr>
+    <td align="center"><strong>US09</strong></td>
+    <td align="center">Visualización de registro de mantenimiento</td>
+    <td align="center">Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber el estado de este</td>
+    <td align="center">
+Escenario 1: Visualización de registro de Mantenimiento correctamente <br>
+Dado que el arrendatario se encuentre en sección "Mantenimiento" <br>
+Cuando ingrese el auto que desea visualizar con el propietario<br>
+Entonces el sistema mostrará el registro de mantenimiento del auto elegido <br>
+
+Escenario 2: Visualización de registro de Mantenimiento incorrectamente <br>
+Dado que el arrendatario se encuentre en sección "Mantenimiento" <br>
+Cuando ingrese el auto que desea visualizar o el nombre del propietario incorrectamente<br>
+Entonces el sistema mostrará un mensaje indicando "No se encontró el registro del auto seleccionado" <br>
+</td>
+    <td align="center"></td>
+  </tr>
+<tr>
+    <td align="center"><strong>US10</strong></td>
+    <td align="center"> Solicitud de Alquiler de auto</td>
+    <td align="center">Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto</td>
+    <td align="center">
+Escenario 1: Solicitud de contrato del auto correctamente <br>
+Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
+Cuando firma el documento y seleccione "Solicitar alquiler" <br>
+Entonces el sistema mandará un mensaje de envío correctamente y mandará la solicitud al propietario<br>
+
+Escenario 2: Solicitud de contrato del auto incorrectamente <br>
+Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
+Cuando no firma el documento y seleccione "Solicitar alquiler" <br>
+Entonces el sistema mandara un mensaje de error<br>
+</td>
+    <td align="center"></td>
+  </tr>
+<tr>
+    <td align="center"><strong>US11</strong></td>
+    <td align="center">Visualización de solicitudes</td>
+    <td align="center">Como propietario, Deseo visualizar las solicitudes de los arrendatarios interesados para asi poder realizar el contrato</td>
+    <td align="center">
+Escenario 1: Visualización de Solicitudes de auto existentes <br>
+Dado que el propietario se encuentre en sección "Solicitud" <br>
+Cuando seleccione una solicitud <br>
+Entonces el sistema mostrará la información del arrendatario interesado<br>
+
+Escenario 2: Visualización de Solicitudes de auto cuando no existe ni un solicitúd <br>
+Dado que el propietario se encuentre en sección "Solicitud" <br>
+Cuando sno existe ni un solicitúd existente<br>
+Entonces el sistema mostrará de fondo un mensaje indicando "No hay solicitúdes recibidas" <br>
+</td>
+    <td align="center"></td>
+  </tr>
+<tr>
+    <td align="center"><strong>US12</strong></td>
+    <td align="center">Visualización de un sitio web de información de la aplicación</td>
+    <td align="center">Como un invitado, deseo visualizar una publicidad de la aplicación </td>
+    <td align="center">
+Escenario 1: Visualización de la lending page <br>
+Dado que el invitado es nuevo y busca información de la aplicación <br>
+Cuando ingrese al link de la lending page <br>
+Entonces el sistema mostrará la landing page de la aplicación<br>
+</td>
+    <td align="center"></td>
+  </tr>
+
 </table>
 
-
 ### Impact Mapping
+
+![Imgur](https://imgur.com/a4cGTDw.png)
 
 ### Product Backlog
 
@@ -821,31 +1026,87 @@ A continuación se muestran los User Journey Maps elaborados para los segmentos 
   </tr>
   <tr>
     <td align="center">1</td>
-    <td align="center">Fila 2, Columna 2</td>
-    <td align="center">Fila 2, Columna 3</td>
-    <td align="center">Fila 2, Columna 4</td>
-    <td align="center">Fila 2, Columna 5</td>
+    <td align="center">US06</td>
+    <td align="center">Publicación de anuncio de alquiler de auto </td>
+    <td align="center">Como propietario de un automóvil, quiero poder crear un anuncio para alquilar mi auto</td>
+    <td align="center">5</td>
   </tr>
   <tr>
     <td align="center">2</td>
-    <td align="center">Fila 3, Columna 2</td>
-    <td align="center">Fila 3, Columna 3</td>
-    <td align="center">Fila 3, Columna 4</td>
-    <td align="center">Fila 3, Columna 5</td>
+    <td align="center">US08</td>
+    <td align="center">Registro de mantenimientos del Auto</td>
+    <td align="center">Como propietario, Deseo publicar el registro de mantenimiento de mi auto para que el usuario este al tanto del estado del auto.</td>
+    <td align="center">5</td>
   </tr>
   <tr>
     <td align="center">3</td>
-    <td align="center">Fila 4, Columna 2</td>
-    <td align="center">Fila 4, Columna 3</td>
-    <td align="center">Fila 4, Columna 4</td>
-    <td align="center">Fila 4, Columna 5</td>
+    <td align="center">US09</td>
+    <td align="center">Visualización de registro de mantenimiento</td>
+    <td align="center">Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber el estado de este</td>
+    <td align="center">5</td>
   </tr>
   <tr>
     <td align="center">4</td>
-    <td align="center">Fila 5, Columna 2</td>
-    <td align="center">Fila 5, Columna 3</td>
-    <td align="center">Fila 5, Columna 4</td>
-    <td align="center">Fila 5, Columna 5</td>
+    <td align="center">US10</td>
+    <td align="center">Solicitud de Alquiler de auto</td>
+    <td align="center">Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto</td>
+    <td align="center">5</td>
+  </tr>
+<tr>
+    <td align="center">5</td>
+    <td align="center">US11</td>
+    <td align="center">Visualización de solicitudes</td>
+    <td align="center">Como propietario, Deseo visualizar las solicitudes de los arrendatarios interesados para asi poder realizar el contrato</td>
+    <td align="center">3</td>
+  </tr>
+<tr>
+    <td align="center">6</td>
+    <td align="center">US04</td>
+    <td align="center">Búsqueda de autos según características</td>
+    <td align="center">Como Arrendatario, deseo poder buscar autos según datos específicos para asi descartar otros tipos de autos</td>
+    <td align="center">3</td>
+  </tr>
+<tr>
+    <td align="center">7</td>
+    <td align="center">US07</td>
+    <td align="center">Autos disponibles en una área</td>
+    <td align="center">Como arrendatario, que busca alquilar un auto, quiero poder visualizar todos los autos disponibles de una área para elegir los que se ubican en mi zona</td>
+    <td align="center">3</td>
+  </tr>
+<tr>
+    <td align="center">8</td>
+    <td align="center">US01</td>
+    <td align="center">Registro del Arrendatario</td>
+    <td align="center">Como arrendatario, deseo registrarme dentro del app para poder alquilar un auto según mi presupuesto.</td>
+    <td align="center">3</td>
+  </tr>
+<tr>
+    <td align="center">9</td>
+    <td align="center">US02</td>
+    <td align="center">Registro del Propietario</td>
+    <td align="center">Como Propietario deseo registrarme dentro del app para ofrecer en alquiler mi auto </td>
+    <td align="center">2</td>
+  </tr>
+<tr>
+    <td align="center">10</td>
+    <td align="center">US03</td>
+    <td align="center">Actualización de datos</td>
+    <td align="center">Como Usuario, deseo actualizar mis datos guardados en la aplicación para asi tener todo al día</td>
+    <td align="center">2</td>
+  </tr>
+<tr>
+    <td align="center">11</td>
+    <td align="center">US05</td>
+    <td align="center">Inicio de Sesión</td>
+    <td align="center">Como usuario registrado, quiero poder iniciar sesión en la aplicación con mi correo electrónico y contraseña.</td>
+    <td align="center">2</td>
+  </tr>
+<tr>
+    <td align="center">12</td>
+    <td align="center">US12</td>
+    <td align="center">Visualización de un sitio web de información de la aplicación</td>
+    <td align="center">Como un invitado, deseo visualizar una publicidad de la aplicación </td>
+    <td align="center">2</td>
   </tr>
 </table>
 
@@ -1344,14 +1605,15 @@ Link de Prototipo Interactivo en Figma:
 **ALQUILER**
 
 ![impur](./imagenes/img_mockup/arrendatario/alqui1.png)
+
 ![impur](./imagenes/img_mockup/arrendatario/alqui2.png)
+
 
 ![impur](./imagenes/img_mockup/arrendatario/pago_efectivo.png)
 ![impur](./imagenes/img_mockup/arrendatario/pago_efectivo2.png)
-
 ![impur](./imagenes/img_mockup/arrendatario/pago_online.png)
-
 ![impur](./imagenes/img_mockup/arrendatario/pago_online2.png)
+
 
 **SOLICITUDES**
 
@@ -2025,4 +2287,6 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
 - El Comercio. (2023). _Alquiler de autos: ciudadano denunció pérdida de 7.600 soles por la retención de garantía y empresa responde._ Recuperado de [https://elcomercio.pe/pasa-en-la-calle/alquiler-de-autos-ciudadano-denuncio-perdida-de-7600-soles-por-la-retencion-de-garantia-y-empresa-responde-automoviles-venta-renta-noticia/](https://elcomercio.pe/pasa-en-la-calle/alquiler-de-autos-ciudadano-denuncio-perdida-de-7600-soles-por-la-retencion-de-garantia-y-empresa-responde-automoviles-venta-renta-noticia/) [Consulta: 1 de setiembre de 2023].
 
 # Anexos
-* Landing Page: https://grupo-2-open-source.github.io/Landing_Page/
+- Repositorio del Informe del Trabajo: [https://github.com/Grupo-2-Open-Source/Informe_de_trabajo](https://github.com/Grupo-2-Open-Source/Informe_de_trabajo)
+- Registro de entrevistas 1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+- Landing Page: [https://grupo-2-open-source.github.io/Landing_Page/](https://grupo-2-open-source.github.io/Landing_Page/)
