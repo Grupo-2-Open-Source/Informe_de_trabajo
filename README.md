@@ -1347,6 +1347,7 @@ Link de Prototipo Interactivo en Figma:
 ![impur](./imagenes/img_mockup/arrendatario/alqui2.png)
 
 ![impur](./imagenes/img_mockup/arrendatario/pago_efectivo.png)
+![impur](./imagenes/img_mockup/arrendatario/pago_online-1.png)
 ![impur](./imagenes/img_mockup/arrendatario/pago_efectivo2.png)
 
 ![impur](./imagenes/img_mockup/arrendatario/pago_online.png)
