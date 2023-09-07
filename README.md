@@ -39,9 +39,13 @@
 ## URL del repositorio del Project Report
 [https://github.com/Grupo-2-Open-Source/Informe_de_trabajo](https://github.com/Grupo-2-Open-Source/Informe_de_trabajo)
 ## Insights
-INSERTAR IMÁGENES CON FECHA
-## Commits
-INSERTAR IMÁGENES CON FECHA
+
+**TB1**
+
+
+Para la elaboración del informe se utilizó un documento Markdown, el cual fue editado por todos los integrantes del equipo. Cada integrante primero hacía sus modificaciones en su respectiva rama en el repositorio para luego hacer un merge de su rama con la rama main. De esta forma nos aseguramos de que los avances de todos estuvieran incluidos en el informe final y que todos participaran.
+
+![Imgur](https://i.imgur.com/6pYbsw5.png)
 
 # Contenido
 
@@ -49,7 +53,6 @@ INSERTAR IMÁGENES CON FECHA
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
   - [URL del repositorio del Project Report](#url-del-repositorio-del-project-report)
   - [Insights](#insights)
-  - [Commits](#commits)
 - [Contenido](#contenido)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
