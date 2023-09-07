@@ -2267,44 +2267,114 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
     <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
   </tr>
   <tr>
-    <td align="center">US01</td>
-    <td align="center">Fila 4, Columna 2</td>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
     <td align="center">WI01</td>
-    <td align="center">Fila 4, Columna 4</td>
-    <td align="center">Fila 4, Columna 5</td>
-    <td align="center">Fila 4, Columna 6</td>
-    <td align="center">Fila 4, Columna 7</td>
-    <td align="center">Fila 4, Columna 8</td>
+    <td align="center">Capítulo 1</td>
+    <td align="center">Completar el capítulo 1</td>
+    <td align="center">24</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">Done</td>
   </tr>
   <tr>
-    <td align="center">US02, Columna 1</td>
-    <td align="center">Fila 5, Columna 2</td>
-    <td align="center">WI02, Columna 3</td>
-    <td align="center">Fila 5, Columna 4</td>
-    <td align="center">Fila 5, Columna 5</td>
-    <td align="center">Fila 5, Columna 6</td>
-    <td align="center">Fila 5, Columna 7</td>
-    <td align="center">Fila 5, Columna 8</td>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI02</td>
+    <td align="center">Capítulo 2</td>
+    <td align="center">Completar el capítulo 2</td>
+    <td align="center">48</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">Done</td>
   </tr>
   <tr>
-    <td align="center">US03, Columna 1</td>
-    <td align="center">Fila 6, Columna 2</td>
-    <td align="center">WI03, Columna 3</td>
-    <td align="center">Fila 6, Columna 4</td>
-    <td align="center">Fila 6, Columna 5</td>
-    <td align="center">Fila 6, Columna 6</td>
-    <td align="center">Fila 6, Columna 7</td>
-    <td align="center">Fila 6, Columna 8</td>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI03</td>
+    <td align="center">Entrevista Samuel</td>
+    <td align="center">Realizar entrevista a segmento objetivo</td>
+    <td align="center">2</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">In-Process</td>
   </tr>
   <tr>
-    <td align="center">US04, Columna 1</td>
-    <td align="center">Fila 6, Columna 2</td>
-    <td align="center">WI04, Columna 3</td>
-    <td align="center">Fila 6, Columna 4</td>
-    <td align="center">Fila 6, Columna 5</td>
-    <td align="center">Fila 6, Columna 6</td>
-    <td align="center">Fila 6, Columna 7</td>
-    <td align="center">Fila 6, Columna 8</td>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI04</td>
+    <td align="center">Entrevista Erick Ruiz</td>
+    <td align="center">Realizar entrevista a segmento objetivo</td>
+    <td align="center">2</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI05</td>
+    <td align="center">Entrevista Lynn</td>
+    <td align="center">Realizar entrevista a segmento objetivo</td>
+    <td align="center">2</td>
+    <td align="center">Meza Camayo, Lynn Jefferson</td>
+    <td align="center">In-Process</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI06</td>
+    <td align="center">Capítulo 3</td>
+    <td align="center">Completar el capítulo 3</td>
+    <td align="center">36</td>
+    <td align="center">Meza Camayo, Lynn Jefferson</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI07</td>
+    <td align="center">Style Guidelines, Information Architecture, Landing Page UI Design</td>
+    <td align="center">Completar los Style Guidelines, Information Architecture, Landing Page UI Design</td>
+    <td align="center">240</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI08</td>
+    <td align="center">Web Applications UX/UI Design, Web Applications Prototyping</td>
+    <td align="center">Completar los Web Applications UX/UI Design, Web Applications Prototyping</td>
+    <td align="center">192</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Domain-Driven Software Architecture</td>
+    <td align="center">Completar el Domain-Driven Software Architecture</td>
+    <td align="center">4</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI10</td>
+    <td align="center">Software Object-Oriented Design</td>
+    <td align="center">Completar el Software Object-Oriented Design</td>
+    <td align="center">4</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">In-Proggres</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI11</td>
+    <td align="center">Database Design</td>
+    <td align="center">Completar el Database Design</td>
+    <td align="center">4</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
   </tr>
 </table>
 
