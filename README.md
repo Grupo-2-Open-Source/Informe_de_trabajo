@@ -1395,8 +1395,6 @@ El Landing Page se desarrolló utilizando un prototipo de fidelidad intermedia e
 
 ### Web Applications Wireframes
 
-![impur](./imagenes/erick_ruiz.png)
-
 **NOTA:El usuario puede decidir el tipo de registro, ya sea Arrendatario o Propietario:**
 
 **ARRENDATARIO (Persona que va a alquilar un auto):**
