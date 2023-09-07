@@ -2190,6 +2190,8 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
 
 #### Sprint Planning 1
 
+Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Cada integrante del equipo estuvo presente en dicha convresación y acordó cumplir con la tarea asignada.
+
 <table>
   <tr>
     <td align="center"><strong>Sprint #</strong></td>
@@ -2200,46 +2202,46 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
   </tr>
   <tr>
     <td align="center">Date</td>
-    <td align="center">YYYY-MM-DD</td>
+    <td align="center">2023-08-28</td>
   </tr>
   <tr>
     <td align="center">Time</td>
-    <td align="center">HH:MM AM/PM</td>
+    <td align="center">3:00 PM</td>
   </tr>
   <tr>
     <td align="center">Location</td>
-    <td align="center">(Descripción de la ubicación de la reunión, física o virtual)</td>
+    <td align="center">Reunión virtual por WhatsApp</td>
   </tr>
   <tr>
     <td align="center">Prepared By</td>
-    <td align="center">Jiménez Rosas, Arturo Eduardo</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
   </tr>
   <tr>
     <td align="center">Attendees (to planning meeting)</td>
-    <td align="center">Jiménez Rosas, Arturo Eduardo / Rodríguez Peña, Jorge Andrés / …</td>
+    <td align="center">Chamorro Torres, Samuel Rolando<br>Meza Camayo, Lynn Jefferson<br>Ruiz Torres, Erick Hernan<br>Urbizagastegui Alvarez, Erick Gabriel</td>
   </tr>
   <tr>
-    <td align="center">Sprint n – 1 Review Summary</td>
-    <td align="center">(Resumen del Sprint anterior, en términos de resultados alcanzados a nivel de productos de software, opiniones de miembros y feedback de product owner.)</td>
+    <td align="center">Sprint 1 – 1 Review Summary</td>
+    <td align="center">No aplica</td>
   </tr>
   <tr>
-    <td align="center">Sprint n – 1 Retrospective Summary</td>
-    <td align="center">(Resumen del Sprint anterior, en términos de opiniones de miembros del equipo sobre aciertos u oportunidades de mejora en su forma de trabajo)</td>
+    <td align="center">Sprint 1 – 1 Retrospective Summary</td>
+    <td align="center">No aplica</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
   </tr>
   <tr>
     <td align="center">Sprint 1 Goal</td>
-    <td align="center">(Definir el Goal del Sprint n y la métrica de cumplimiento.)</td>
+    <td align="center">Se debe completar el 75% del total del informe del proyecto</td>
   </tr>
   <tr>
     <td align="center">Sprint n Velocity</td>
-    <td align="center">(Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.)</td>
+    <td align="center">No aplica</td>
   </tr>
   <tr>
     <td align="center">Sum of Story Points</td>
-    <td align="center">(Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.)</td>
+    <td align="center">No aplica</td>
   </tr>
 </table>
 
