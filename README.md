@@ -1969,6 +1969,9 @@ Enlace explicación: [clic al link](https://upcedupe-my.sharepoint.com/:v:/g/per
 
 Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA---web-application?type=design&node-id=0%3A1&mode=design&t=Df2V7wxJv7P3rjx9-1)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## Domain-Driven Software Architecture
 
@@ -1984,11 +1987,19 @@ Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA--
 
 ![Imgur](https://i.imgur.com/rHUOdiX.png)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## Software Object-Oriented Design
 
 ### Class Diagrams
 
 ### Class Dictionary
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## Database Design
 
