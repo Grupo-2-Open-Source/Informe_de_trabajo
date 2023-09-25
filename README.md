@@ -27,12 +27,19 @@
 **<h3>Agosto, 2023</h3>**
 </div>
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 # Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Versión | Fecha      | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |--------------|------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Entrega 1     | 06-09-2023 | - Erick Gabriel Urbizagastegui Alvarez<br>- Erick Hernan Ruiz Torres<br>- Lynn Jeeferzon Meza Camayo<br>- Samuel Rolando Chamorro Torres<br>     | **Project Report Collaboration Insights**<br/><br/>**Contenido**<br/>Tabla de contenidos<br/><br/>**Student Outcome**<br/><br/>**Capitulo I:Introduccion**<br/>1.1. Startup Profile<br/>1.1.1. Descripción de la Startup<br/>1.1.2. Perfiles de integrantes del equipo<br/>1.2. Solution Profile<br/>1.2.1 Antecedentes y problemática<br/>1.2.2 Lean UX Process.<br/>1.2.2.1. Lean UX Problem Statements.<br/>1.2.2.2. Lean UX Assumptions.<br/>1.2.2.3. Lean UX Hypothesis Statements.<br/>1.2.2.4. Lean UX Canvas.<br/>1.3. Segmentos objetivo.<br/><br/>**Capítulo II: Requirements Elicitation & Analysis**<br/>2.1. Competidores.<br/>2.1.1. Análisis competitivo.<br/>2.1.2. Estrategias y tácticas frente a competidores.<br/>2.2. Entrevistas.<br/>2.2.1. Diseño de entrevistas.<br/>2.2.2. Registro de entrevistas.<br/>2.2.3. Análisis de entrevistas.<br/>2.3. Needfinding.<br/>2.3.1. User Personas.<br/>2.3.2. User Task Matrix.<br/>2.3.3. User Journey Mapping.<br/>2.3.4. Empathy Mapping.<br/>2.3.5. As-is Scenario Mapping.<br/><br/>**Capítulo III: Requirements Specification**<br/>3.1. To-Be Scenario Mapping.<br/>3.2. User Stories.<br/>3.3. Impact Mapping.<br/>3.4. Product Backlog.<br/><br/>**Capítulo IV: Product Design**<br/>4.1. Style Guidelines.<br/>4.1.1. General Style Guidelines.<br/>4.1.2. Web Style Guidelines.<br/>4.2. Information Architecture.<br/>4.2.1. Organization Systems.<br/>4.2.2. Labeling Systems.<br/>4.2.3. SEO Tags and Meta Tags<br/>4.2.4. Searching Systems.<br/>4.2.5. Navigation Systems.<br/>4.3. Landing Page UI Design.<br/>4.3.1. Landing Page Wireframe.<br/>4.3.2. Landing Page Mock-up.<br/>4.4. Web Applications UX/UI Design.<br/>4.4.1. Web Applications Wireframes.<br/>4.4.2. Web Applications Wireflow Diagrams.<br/>4.4.2. Web Applications Mock-ups.<br/>4.4.3. Web Applications User Flow Diagrams.<br/>4.5. Web Applications Prototyping.<br/>4.6. Domain-Driven Software Architecture.<br/>4.6.1. Software Architecture Context Diagram.<br/>4.6.2. Software Architecture Container Diagrams.<br/>4.6.3. Software Architecture Components Diagrams.<br/>4.7. Software Object-Oriented Design.<br/>4.7.1. Class Diagrams.<br/>4.7.2. Class Dictionary.<br/>4.8. Database Design.<br/>4.8.1. Database Diagram.<br/><br/>**Capítulo V: Product Implementation, Validation & Deployment.**<br/>5.1. Software Configuration Management.<br/>5.1.1. Software Development Environment Configuration.<br/>5.1.2. Source Code Management.<br/>5.1.3. Source Code Style Guide & Conventions.<br/>5.1.4. Software Deployment Configuration.<br/>5.2. Landing Page, Services & Applications Implementation.<br/>5.2.1. Sprint 1<br/>5.2.1.1. Sprint Planning 1.<br/>5.2.1.2. Sprint Backlog 1.<br/>5.2.1.3. Development Evidence for Sprint Review.<br/>5.2.1.4. Testing Suite Evidence for Sprint Review. |
 |Entrega X      | Celda 6    | - Erick Gabriel Urbizagastegui Alvarez<br>- Erick Hernan Ruiz Torres<br>- Lynn Jeeferzon Meza Camayo<br>- Samuel Rolando Chamorro Torres<br>   | Celda 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # Project Report Collaboration Insights
 
@@ -46,6 +53,10 @@
 Para la elaboración del informe se utilizó un documento Markdown, el cual fue editado por todos los integrantes del equipo. Cada integrante primero hacía sus modificaciones en su respectiva rama en el repositorio para luego hacer un merge de su rama con la rama main. De esta forma nos aseguramos de que los avances de todos estuvieran incluidos en el informe final y que todos participaran.
 
 ![Imgur](https://i.imgur.com/6pYbsw5.png)
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # Contenido
 
@@ -153,6 +164,10 @@ Para la elaboración del informe se utilizó un documento Markdown, el cual fue 
 
 <div style="text-align: justify;">
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 # Capítulo I: Introducción
 
 ## Startup Profile
@@ -187,6 +202,10 @@ Nuestra visión es tener una aplicación dedicada al nicho de la renta de autos 
 
 ![Imgur](https://i.imgur.com/swEGu4x.png)
 
+</div>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
 </div>
 
 ## Solution Profile
@@ -273,6 +292,10 @@ Creemos que AutoYa! tendrá problemas luego de su lanzamiento. Sabremos que esto
 **Hipótesis 3**  
 Creemos que la visualización de la documentación de los vehículos en la aplicación será un agregado importante. Sabremos que esto es cierto si el 65% de las reseñas de autos en esta son positivas.
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 #### Lean UX Canvas
 
 <table align="center">
@@ -298,6 +321,10 @@ Se han identificado dos segmentos objetivos.
 
 1. Personas mayores de 18 años que cuenten con licencia de conducir y deseen alquilar uno o más autos de forma segura y a un menor precio que los servicios de alquiler de autos más populares.
 2. Personas mayores de 18 años que posean uno o más autos en regla junto con todos los documentos que esto conlleva y deseen poner en alquiler estos mismos de forma segura mediante plataformas digitales.
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -554,6 +581,10 @@ Manuel Mavila es un estudiante universitario de 20 años. Reside en el distrito 
 
 ![Imgur](https://i.imgur.com/W8kC7BA.png)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## Needfinding
 
 ### User Personas
@@ -568,6 +599,9 @@ A continuación se presentarán los User Persona elaborados en base al análisis
 
 ![Imgur](https://i.imgur.com/2gIrr7u.png)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### User Task Matrix
 
@@ -766,6 +800,10 @@ A continuación, se muestran los Empathy Maps desarrollados para cada segmento o
 
 ![Imgur](https://i.imgur.com/6fJybYV.png)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### As-is Scenario Mapping
 
 **Arrendatario**
@@ -775,6 +813,11 @@ A continuación, se muestran los Empathy Maps desarrollados para cada segmento o
 **Arrendador**
 
 ![Imgur](https://i.imgur.com/6s4JvlH.png)
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 
 # Capítulo III: Requirements Specification
 
@@ -786,6 +829,10 @@ A continuación, se muestran los Empathy Maps desarrollados para cada segmento o
 
 #### **Usuario: Arrendatario**
 ![Imgur](https://imgur.com/qy7Fts1.png)
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### User Stories
 <table>
@@ -1010,9 +1057,17 @@ Entonces el sistema mostrará la landing page de la aplicación<br>
 
 </table>
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### Impact Mapping
 
 ![Imgur](https://imgur.com/a4cGTDw.png)
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### Product Backlog
 
@@ -1109,6 +1164,10 @@ Entonces el sistema mostrará la landing page de la aplicación<br>
     <td align="center">2</td>
   </tr>
 </table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # Capítulo IV: Product Design
 
@@ -1362,6 +1421,10 @@ Nuestro sistema de navegación en AutoYa! se ha diseñado pensando en la comodid
 <br>
 <br>
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## Landing Page UI Design
 
 ### Landing Page Wireframe
@@ -1379,6 +1442,10 @@ Hemos creado una representación inicial en forma de bosquejo de baja fidelidad 
 <br>
 <br>
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### Landing Page Mock-up
 
 <div style="text-align: justify;">
@@ -1390,6 +1457,10 @@ El Landing Page se desarrolló utilizando un prototipo de fidelidad intermedia e
 <p align="center">
   <img src="https://i.imgur.com/AkW3hUg.png" alt="Patrón de Diseño en Z de AutoYa!" width="400">
 </p>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## Web Applications UX/UI Design
 
@@ -1477,7 +1548,10 @@ EL usuario debe verificar el contrato de Alquiler  que el propietario del vehíc
 ![impur](./imagenes/img_wireframe/arrendatario/pagoon1.png)
 ![impur](./imagenes/img_wireframe/arrendatario/pagoon2.png)
 
----------------------------------------------------------
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 **PROPIETARIO (Persona que comparte su auto para alquiler):**
 
 **PERFIL DE USUARIO:** El usuario podra ver sus datos como Nombre , Apellido, Celular, Correo y Cantidad de vehículos Compartidos . El usuario  podrá cambiar su foto de perfil presionando el botón **Cambiar foto de perfil** ,también podra actualizar sus datos presionando el botón **Actualizar Datos** y también podra cerrar sesión en la cuenta presionando el botón **Cerrar Sesión**.
@@ -1556,6 +1630,9 @@ En esta ventana también estará disponible los boton de **Aceptar Alquiler** y 
 ![impur](./imagenes/img_wireframe/propietario/proalqui7.png)
 ![impur](./imagenes/img_wireframe/propietario/proalqui8.png)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### Web Applications Wireflow Diagrams
 
@@ -1569,6 +1646,9 @@ Link de Prototipo Interactivo en Figma:
 
 ![impur](./imagenes/img_wireflow/wireflow2.svg)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### Web Applications Mock-ups
 
@@ -1641,7 +1721,9 @@ Link de Prototipo Interactivo en Figma:
 ![impur](./imagenes/img_mockup/arrendatario/perfi7.png)
 ![impur](./imagenes/img_mockup/arrendatario/perfi8.png)
 
---------------------------------------------------------------------------------------------------------------------
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 **Mock-up de interfaz de usuario propietario**
 
@@ -1704,6 +1786,9 @@ Link de Prototipo Interactivo en Figma:
 ![impur](./imagenes/img_mockup/propietario/properfi4.png)
 ![impur](./imagenes/img_mockup/propietario/properfi5.png)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### Web Applications User Flow Diagrams
 
@@ -1792,7 +1877,9 @@ Link para mejor visualización
 
 **Unhappy paths:** El arrendatario debe subir sus documentos de antecedente penales.
 
-------------------------------------------
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 **USUARIO (Propietario)**
 
@@ -1865,6 +1952,10 @@ Link para mejor visualización
 
 **Unhappy paths:** El propietario puede cerrar sesión presionando el botón CERRAR SESIÓN.
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## Web Applications Prototyping
 
 ### Desktop Prototyping
@@ -1907,6 +1998,9 @@ Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA--
 
 Link de Vertabelo: [clic al link](https://my.vertabelo.com/doc/OzQPFOH2UjXuWwvhpU1pYXPdOKOahJum)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -2010,6 +2104,10 @@ En esta sección, el equipo establece las decisiones y convenciones para mantene
 <br>
 <br>
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### Source Code Management
 
 <div style="text-align: justify;">
@@ -2079,7 +2177,16 @@ utilizaremos para este proyecto son los siguientes:
 <br>
 <br>
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### Source Code Style Guide & Conventions
+
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 * HTML:
   
@@ -2159,6 +2266,7 @@ font-family: Arial, sans-serif;
 
 
 
+
 ### Software Deployment Configuration
 
 <div style="text-align: justify;">
@@ -2183,6 +2291,10 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
 
 <br>
 <br>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## Landing Page, Services & Applications Implementation
 
@@ -2244,6 +2356,10 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
     <td align="center">No aplica</td>
   </tr>
 </table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 #### Sprint Backlog 1
 
@@ -2378,6 +2494,10 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
   </tr>
 </table>
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 #### Development Evidence for Sprint Review
 
 <table>
@@ -2399,6 +2519,10 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
   </tr>
 </table>
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 #### Testing Suite Evidence for Sprint Review
 
 <table>
@@ -2419,6 +2543,10 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
     <td align="center">04/09/2021</td>
   </tr>
 </table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 #### Execution Evidence for Sprint Review
 
@@ -2444,9 +2572,17 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
 
 ## Video About-the-Team
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 # Bibliografía
 
 - El Comercio. (2023). _Alquiler de autos: ciudadano denunció pérdida de 7.600 soles por la retención de garantía y empresa responde._ Recuperado de [https://elcomercio.pe/pasa-en-la-calle/alquiler-de-autos-ciudadano-denuncio-perdida-de-7600-soles-por-la-retencion-de-garantia-y-empresa-responde-automoviles-venta-renta-noticia/](https://elcomercio.pe/pasa-en-la-calle/alquiler-de-autos-ciudadano-denuncio-perdida-de-7600-soles-por-la-retencion-de-garantia-y-empresa-responde-automoviles-venta-renta-noticia/) [Consulta: 1 de setiembre de 2023].
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # Anexos
 - Repositorio del Informe del Trabajo: [https://github.com/Grupo-2-Open-Source/Informe_de_trabajo](https://github.com/Grupo-2-Open-Source/Informe_de_trabajo)
