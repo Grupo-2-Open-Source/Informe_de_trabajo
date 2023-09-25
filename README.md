@@ -126,7 +126,7 @@ Para la elaboración del informe se utilizó un documento Markdown, el cual fue 
   - [Software Object-Oriented Design](#software-object-oriented-design)
     - [Class Diagrams](#class-diagrams)
     - [Class Dictionary](#class-dictionary)
-  - [Databse Design](#databse-design)
+  - [Database Design](#database-design)
     - [Database Diagram](#database-diagram)
 - [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
   - [Software Configuration Management](#software-configuration-management)
@@ -174,7 +174,7 @@ Para la elaboración del informe se utilizó un documento Markdown, el cual fue 
 
 ### Descripción de la Startup
 
-TechVerse es una startup que busca solucionar problemas en la renta de autos por medio de aplicaciones tecnológicas. Fue fundada por los alumnos universitarios: Alonso Robles, Erick Urbizagastegui, Johan Moreno, Luis Isla y Nicolás Zagal en Lima, Perú.
+AutoYa! es una startup que busca solucionar problemas en la renta de autos por medio de aplicaciones tecnológicas. Fue fundada por los alumnos universitarios: Alonso Robles, Erick Urbizagastegui, Johan Moreno, Luis Isla y Nicolás Zagal en Lima, Perú.
 
 **Misión**
 
@@ -1974,9 +1974,15 @@ Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA--
 
 ### Software Architecture Context Diagram
 
+![Imgur](https://i.imgur.com/0PttzRE.png)
+
 ### Software Architecture Container Diagrams
 
+![Imgur](https://i.imgur.com/CwMYSiU.png)
+
 ### Software Architecture Components Diagrams
+
+![Imgur](https://i.imgur.com/rHUOdiX.png)
 
 ## Software Object-Oriented Design
 
@@ -2177,9 +2183,89 @@ utilizaremos para este proyecto son los siguientes:
 
 ### Source Code Style Guide & Conventions
 
+
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
 </div>
+
+* HTML:
+  
+  Index.html: este source code en HTML establecerá la estructura del Landing Page. 
+
+* CSS:
+  
+  Main.css: este source code en CSS se integrará al source code de HTML en el diseño del
+  Landing Page
+    
+  Base.css: este source code en CSS se integrará al source code de HTML en el diseño del
+    Landing Page
+
+  Fonts.css: este source code en CSS se integrará al source code de HTML en el diseño del
+  Landing Page
+
+  Vendor.css: este source code en CSS se integrará al source code de HTML en el diseño del
+  Landing Page
+
+
+* JavaScript:
+
+  Jquery-2.1.3.min.js: Este archivo mejora la experiencia del usuario en el Landing Page.
+  
+  main.js: main.js es un archivo de código fuente fundamental para el funcionamiento del Landing Page en AutoYa!.
+
+  modernizr.js: modernizr.js garantiza una experiencia coherente y eficiente en diferentes navegadores.
+
+  pace.min.js: Esto ayuda a los usuarios a comprender cuándo se ha completado la carga del sitio web. En AutoYa!, pace.min.js mejora la percepción del rendimiento del sitio y la experiencia de usuario.
+
+  plugins.js: Este archivo contiene plugins y extensiones de JavaScript que se utilizan en diversas partes del Landing Page.
+
+
+**Convenciones generales**
+
+* Sangría: tendrá 2 espacios a la vez<br/>
+    .example {<br/>
+      Color: red;<br/>
+    }
+* Códificación: para las plantillas HTML se usará UTF-8 <br/>
+< meta charset="utf-8" >
+
+**Convenciones del formato HTML**
+
+* General: para cada lista, elemento o tabla se usará una nueva línea con doble espaciado<br/>
+< ul><br/>
+ < li> Elemento 1 < /li><br/>
+ < li> Elemento 2 < /li><br/>
+ < li> Elemento 3 < /li><br/>
+ < li> Elemento 4 < /li><br/>
+< /ul>
+
+
+* Comillas: citaremos los valore y atributos a través de comillas<br/>
+< img src="images/firefox-icon.png" alt="My test image" />
+
+**Convenciones del formato CSS**
+
+* Nomenclatura: se usarán nombres que reflejan en elementos en genéricos y cuestión<br/><br/>
+.menu {}<br/>
+.login {}<br/>
+.image{}<br/>
+
+* Estilo de nombre: los nombres serán cortos para mayor brevedad<br/><br/>
+-- Box<br/>
+.box {}<br/>
+.image {}<br/>
+.title {}
+
+* Propiedades de tipografía: se usará las propiedades de tipografía para el tipo de letra a usar, tamaño,
+entre otros.<br/><br/>
+font-style: italic;<br/>
+font-weight: bold;<br/>
+font-size: .8em;<br/>
+line-height: 1.2;<br/>
+font-family: Arial, sans-serif;
+
+
+
 
 ### Software Deployment Configuration
 
@@ -2216,6 +2302,8 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
 
 #### Sprint Planning 1
 
+Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Cada integrante del equipo estuvo presente en dicha convresación y acordó cumplir con la tarea asignada.
+
 <table>
   <tr>
     <td align="center"><strong>Sprint #</strong></td>
@@ -2226,46 +2314,46 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
   </tr>
   <tr>
     <td align="center">Date</td>
-    <td align="center">YYYY-MM-DD</td>
+    <td align="center">2023-08-28</td>
   </tr>
   <tr>
     <td align="center">Time</td>
-    <td align="center">HH:MM AM/PM</td>
+    <td align="center">3:00 PM</td>
   </tr>
   <tr>
     <td align="center">Location</td>
-    <td align="center">(Descripción de la ubicación de la reunión, física o virtual)</td>
+    <td align="center">Reunión virtual por WhatsApp</td>
   </tr>
   <tr>
     <td align="center">Prepared By</td>
-    <td align="center">Jiménez Rosas, Arturo Eduardo</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
   </tr>
   <tr>
     <td align="center">Attendees (to planning meeting)</td>
-    <td align="center">Jiménez Rosas, Arturo Eduardo / Rodríguez Peña, Jorge Andrés / …</td>
+    <td align="center">Chamorro Torres, Samuel Rolando<br>Meza Camayo, Lynn Jefferson<br>Ruiz Torres, Erick Hernan<br>Urbizagastegui Alvarez, Erick Gabriel</td>
   </tr>
   <tr>
-    <td align="center">Sprint n – 1 Review Summary</td>
-    <td align="center">(Resumen del Sprint anterior, en términos de resultados alcanzados a nivel de productos de software, opiniones de miembros y feedback de product owner.)</td>
+    <td align="center">Sprint 1 – 1 Review Summary</td>
+    <td align="center">No aplica</td>
   </tr>
   <tr>
-    <td align="center">Sprint n – 1 Retrospective Summary</td>
-    <td align="center">(Resumen del Sprint anterior, en términos de opiniones de miembros del equipo sobre aciertos u oportunidades de mejora en su forma de trabajo)</td>
+    <td align="center">Sprint 1 – 1 Retrospective Summary</td>
+    <td align="center">No aplica</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
   </tr>
   <tr>
     <td align="center">Sprint 1 Goal</td>
-    <td align="center">(Definir el Goal del Sprint n y la métrica de cumplimiento.)</td>
+    <td align="center">Se debe completar el 75% del total del informe del proyecto</td>
   </tr>
   <tr>
     <td align="center">Sprint n Velocity</td>
-    <td align="center">(Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.)</td>
+    <td align="center">No aplica</td>
   </tr>
   <tr>
     <td align="center">Sum of Story Points</td>
-    <td align="center">(Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.)</td>
+    <td align="center">No aplica</td>
   </tr>
 </table>
 
@@ -2295,44 +2383,114 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
     <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
   </tr>
   <tr>
-    <td align="center">US01</td>
-    <td align="center">Fila 4, Columna 2</td>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
     <td align="center">WI01</td>
-    <td align="center">Fila 4, Columna 4</td>
-    <td align="center">Fila 4, Columna 5</td>
-    <td align="center">Fila 4, Columna 6</td>
-    <td align="center">Fila 4, Columna 7</td>
-    <td align="center">Fila 4, Columna 8</td>
+    <td align="center">Capítulo 1</td>
+    <td align="center">Completar el capítulo 1</td>
+    <td align="center">24</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">Done</td>
   </tr>
   <tr>
-    <td align="center">US02, Columna 1</td>
-    <td align="center">Fila 5, Columna 2</td>
-    <td align="center">WI02, Columna 3</td>
-    <td align="center">Fila 5, Columna 4</td>
-    <td align="center">Fila 5, Columna 5</td>
-    <td align="center">Fila 5, Columna 6</td>
-    <td align="center">Fila 5, Columna 7</td>
-    <td align="center">Fila 5, Columna 8</td>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI02</td>
+    <td align="center">Capítulo 2</td>
+    <td align="center">Completar el capítulo 2</td>
+    <td align="center">48</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">Done</td>
   </tr>
   <tr>
-    <td align="center">US03, Columna 1</td>
-    <td align="center">Fila 6, Columna 2</td>
-    <td align="center">WI03, Columna 3</td>
-    <td align="center">Fila 6, Columna 4</td>
-    <td align="center">Fila 6, Columna 5</td>
-    <td align="center">Fila 6, Columna 6</td>
-    <td align="center">Fila 6, Columna 7</td>
-    <td align="center">Fila 6, Columna 8</td>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI03</td>
+    <td align="center">Entrevista Samuel</td>
+    <td align="center">Realizar entrevista a segmento objetivo</td>
+    <td align="center">2</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">In-Process</td>
   </tr>
   <tr>
-    <td align="center">US04, Columna 1</td>
-    <td align="center">Fila 6, Columna 2</td>
-    <td align="center">WI04, Columna 3</td>
-    <td align="center">Fila 6, Columna 4</td>
-    <td align="center">Fila 6, Columna 5</td>
-    <td align="center">Fila 6, Columna 6</td>
-    <td align="center">Fila 6, Columna 7</td>
-    <td align="center">Fila 6, Columna 8</td>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI04</td>
+    <td align="center">Entrevista Erick Ruiz</td>
+    <td align="center">Realizar entrevista a segmento objetivo</td>
+    <td align="center">2</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI05</td>
+    <td align="center">Entrevista Lynn</td>
+    <td align="center">Realizar entrevista a segmento objetivo</td>
+    <td align="center">2</td>
+    <td align="center">Meza Camayo, Lynn Jefferson</td>
+    <td align="center">In-Process</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI06</td>
+    <td align="center">Capítulo 3</td>
+    <td align="center">Completar el capítulo 3</td>
+    <td align="center">36</td>
+    <td align="center">Meza Camayo, Lynn Jefferson</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI07</td>
+    <td align="center">Style Guidelines, Information Architecture, Landing Page UI Design</td>
+    <td align="center">Completar los Style Guidelines, Information Architecture, Landing Page UI Design</td>
+    <td align="center">240</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI08</td>
+    <td align="center">Web Applications UX/UI Design, Web Applications Prototyping</td>
+    <td align="center">Completar los Web Applications UX/UI Design, Web Applications Prototyping</td>
+    <td align="center">192</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI09</td>
+    <td align="center">Domain-Driven Software Architecture</td>
+    <td align="center">Completar el Domain-Driven Software Architecture</td>
+    <td align="center">4</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI10</td>
+    <td align="center">Software Object-Oriented Design</td>
+    <td align="center">Completar el Software Object-Oriented Design</td>
+    <td align="center">4</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">In-Proggres</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI11</td>
+    <td align="center">Database Design</td>
+    <td align="center">Completar el Database Design</td>
+    <td align="center">4</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
   </tr>
 </table>
 
@@ -2430,3 +2588,4 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
 - Repositorio del Informe del Trabajo: [https://github.com/Grupo-2-Open-Source/Informe_de_trabajo](https://github.com/Grupo-2-Open-Source/Informe_de_trabajo)
 - Registro de entrevistas 1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 - Landing Page: [https://grupo-2-open-source.github.io/Landing_Page/](https://grupo-2-open-source.github.io/Landing_Page/)
+- Video exposición TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EY7cdO5wZqhBvSf_dC9jlwMBXzwTh79Dvg-GuT3xUL_hMA?e=q37khB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EY7cdO5wZqhBvSf_dC9jlwMBXzwTh79Dvg-GuT3xUL_hMA?e=q37khB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
