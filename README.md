@@ -2643,7 +2643,7 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
   </tr>
   <tr>
     <td align="center">Sprint 1 Goal</td>
-    <td align="center">Se debe completar las vistas del Frontend en Webstorm</td>
+    <td align="center">Se debe completar las vistas del Frontend en Webstorm y completar el Sprint 2</td>
   </tr>
   <tr>
     <td align="center">Sprint n Velocity</td>
@@ -2654,6 +2654,14 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
     <td align="center">No aplica</td>
   </tr>
 </table>
+
+
+![impur](https://i.postimg.cc/13t9f3RT/Captura-de-pantalla-2023-09-26-145302.png)
+
+Link en Trello: https://trello.com/invite/b/rJnnrgx7/ATTIefea3ec5c3ec614f28c015d2a7017aeeD2E218A3/autoya
+
+
+
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -2784,12 +2792,36 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
     <td align="center"><strong>Commited on (Date)</strong></td>
   </tr>
   <tr>
-    <td align="center">user/repositoryname</td>
-    <td align="center">feature/loremipsum</td>
-    <td align="center">14ca4e3</td>
-    <td align="center">feat: consectetur adipiscing elit</td>
-    <td align="center">Curabitur quis placerat nulla. Fusce malesuada faucibus quam, ut condimentumvelit rutrum ut.</td>
-    <td align="center">04/09/2021</td>
+    <td align="center">login/Frontend-Web-Application-G2</td>
+    <td align="center">main</td>
+    <td align="center">f3596e9c43c1e22b0826e4165f1b4a119ae7853a</td>
+    <td align="center">style: estilos de login-tenant.component and login-owner.component</td>
+    <td align="center">estructura y estilo de componente login-tenant y login owner</td>
+    <td align="center">23/09/2023</td>
+  </tr>
+    <tr>
+    <td align="center">login/Frontend-Web-Application-G2</td>
+    <td align="center">main</td>
+    <td align="center">b4f999a61797d7e62acc7e5166bb20ce0494e2c5</td>
+    <td align="center">shore: agregado de componente recover-password </td>
+    <td align="center">estructura y estilo de componente recover-password para tenant y owner.</td>
+    <td align="center">23/09/2023</td>
+  </tr>
+   <tr>
+    <td align="center">main-page/Frontend-Web-Application-G2</td>
+    <td align="center">main</td>
+    <td align="center">08ada3d64613a2a51c71646367d500378db28700</td>
+    <td align="center">Style: Estructura de main-page-tenant and main-page.owner</td>
+    <td align="center">estructura y estilo de componente main-page-tenant y main-page-owner</td>
+    <td align="center">23/09/2023</td>
+  </tr>
+     <tr>
+    <td align="center">main-page/notifications/Frontend-Web-Application-G2</td>
+    <td align="center">main</td>
+    <td align="center">c3bfe20f9d2fbdf5d2d49b406712d882bfcba7ba</td>
+    <td align="center">shore and style: estructura y estilos de notifications-owner</td>
+    <td align="center">estructura y estilo de componente notifications</td>
+    <td align="center">24/09/2023</td>
   </tr>
 </table>
 
@@ -2824,7 +2856,22 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
 
 #### Execution Evidence for Sprint Review
 
+En esta entrega nos enfocamos en el desarrollo del Frontend de nuestra Aplicacion Web , dentro de ella estara implementada las vistas con las cuales el usuario podra interactuar. El frontend se creo a partir del prototipo planteado en los mockup y siguiendo los user stories.
+
+EVICENCIA--colocar fotos de ejecucion
+
 #### Services Documentation Evidence for Sprint Review
+
+Para la creación de la plataforma,en esta caso para el desarrollo del Fronted se utilizo lo siguiente.
+
+**Webstorm (IDE DE DESARROLLO)**: Hemos utilizado Webstorm como IDE para el desarrollo de nuestro Frontend.
+
+**ANGULAR (Frameworks)**: Utilizamos Angular como Frameworks de trabajo.
+
+**TypeScript**: Typescript se ha implementado para agregar interactividad y logica a los componentes de la plataforma. 
+
+**GitHub** :Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código. 
+
 
 #### Software Deployment Evidence for Sprint Review
 
