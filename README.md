@@ -2558,25 +2558,42 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
 
 #### Execution Evidence for Sprint Review
 
+En esta entrega nos enfocamos del desarrollo del Landing Page desplegado. La landing page se enfoca en lo que ofrecemos como negocio, el alquiler de autos no  solo para personas que deseen alquilar un auto sino tambien para personas que deseen compartir su auto. A partir de esto se planteo el desarrollo del landing page , para informar a los usuario como funciona ese este servicio mediante una interfaz llamativa .
+
+![impur](https://i.postimg.cc/50nL6PbB/Captura-de-pantalla-2023-09-26-122912.png)
+![impur](https://i.postimg.cc/5yyvvw2Z/Captura-de-pantalla-2023-09-26-122944.png)
+![impur](https://i.postimg.cc/G2cv30w3/Captura-de-pantalla-2023-09-26-122959.png)
+![impur](https://i.postimg.cc/mr3QGLn6/Captura-de-pantalla-2023-09-26-123022.png)
+![impur](https://i.postimg.cc/cJGQjgFn/Captura-de-pantalla-2023-09-26-123034.png)
+![impur](https://i.postimg.cc/MpQ7dbmw/Captura-de-pantalla-2023-09-26-123047.png)
+
 #### Services Documentation Evidence for Sprint Review
+
+Nuestra aplicacion AUTOYA! es una plataforma  que permite el alquiler de vehículos entre propietarios y arrendatarios. Para el desarrollo de este proyecto hemos utilizado muchas herracmientas como por ejemplo.
+
+*HTML (HyperText Markup Language)* : Usamos  HTML para la estructura del contenido del landing page. 
+
+*CSS (Cascading Style Sheets)* :CSS se uso para dar estilo a la plataforma y mejorar la presentación visual y la experiencia del usuario.
+
+*JavaScript* :JavaScript se ha implementado para agregar dinamismo a la plataforma. 
+
+*GitHub*: Hemos creado un repositorio en GitHub para realizar un seguimiento de los cambios en el código. 
+
+*GitHub Pages*: GitHub Pages se ha utilizado para alojar y publicar nuestra página web de manera gratuita. 
 
 #### Software Deployment Evidence for Sprint Review
 
+Para esta primera entrega se logro  implementar el landing Page donde se encuentra la información detallada de nuestra StartUp.
+Presentamos:
+
+URL (Link desplegado de Landing Page(AUTOYA!)):
+
+ https://grupo-2-open-source.github.io/Landing_Page/index.html#download
+
 #### Team Collaboration Insights during Sprint
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![impur](https://i.postimg.cc/wBMjXJRp/Captura-de-pantalla-2023-09-26-131808.png)
+![impur](https://i.postimg.cc/rwQpRgmj/Captura-de-pantalla-2023-09-26-131939.png)
 
 
 ### Sprint 2
