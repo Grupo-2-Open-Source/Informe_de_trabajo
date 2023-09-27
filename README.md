@@ -2949,21 +2949,17 @@ Para la creación de la plataforma,en esta caso para el desarrollo del Fronted s
 
 **GitHub** :Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código. 
 
-
 #### Software Deployment Evidence for Sprint Review
+
+Para esta primera entrega se logro implementar el Fron-end de la aplicación.
+<br>
+Presentamos:URL (Link desplegado de Landing Page(AUTOYA!)):
+https://frontend-autoya.web.app/login-tenant
 
 #### Team Collaboration Insights during Sprint
 
-
-
-
-
-
-
-
-
-
-
+![Imgur](https://imgur.com/t4XDAz7.png)
+![Imgur](https://imgur.com/YOLqu04.png)
 
 ## Validation Interviews
 
