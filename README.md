@@ -2373,7 +2373,7 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
 
 <table>
   <tr>
-    <td align="center"><strong>Sprint #</td>
+    <td align="center"><strong>Sprint</td>
     <td colspan="7" align="center"><strong>1</strong></td>
   </tr>
   <tr>
