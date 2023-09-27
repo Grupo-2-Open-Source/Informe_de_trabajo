@@ -2446,7 +2446,7 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
 
 <table>
   <tr>
-    <td align="center"><strong>Sprint #</td>
+    <td align="center"><strong>Sprint</td>
     <td colspan="7" align="center"><strong>1</strong></td>
   </tr>
   <tr>
@@ -2678,7 +2678,7 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
 <table>
   <tr>
     <td align="center"><strong>Sprint #</strong></td>
-    <td align="center"><strong>1</strong></td>
+    <td align="center"><strong>2</strong></td>
   </tr>
   <tr>
   <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
@@ -2744,8 +2744,8 @@ Link en Trello: https://trello.com/invite/b/rJnnrgx7/ATTIefea3ec5c3ec614f28c015d
 
 <table>
   <tr>
-    <td align="center"><strong>Sprint #</td>
-    <td colspan="7" align="center"><strong>1</strong></td>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>2</strong></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>User Story</strong></td>
@@ -2931,7 +2931,6 @@ Link en Trello: https://trello.com/invite/b/rJnnrgx7/ATTIefea3ec5c3ec614f28c015d
 
 En esta entrega nos enfocamos en el desarrollo del Frontend de nuestra Aplicacion Web , dentro de ella estara implementada las vistas con las cuales el usuario podra interactuar. El frontend se creo a partir del prototipo planteado en los mockup y siguiendo los user stories.
 
-EVICENCIA--colocar fotos de ejecucion
 
 #### Services Documentation Evidence for Sprint Review
 
