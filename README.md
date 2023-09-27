@@ -2802,58 +2802,50 @@ Link en Trello: https://trello.com/invite/b/rJnnrgx7/ATTIefea3ec5c3ec614f28c015d
   </tr>
   <tr>
     <td align="center">No aplica</td>
-    <td align="center">Entrevista Lynn</td>
-    <td align="center">Realizar entrevista a segmento objetivo</td>
+    <td align="center">Implementación de Perfil</td>
+    <td align="center">Se implementó el apartado de perfil en el frontend para el usuario arrendatario y propietario</td>
     <td align="center">2</td>
     <td align="center">Meza Camayo, Lynn Jefferson</td>
-    <td align="center">In-Process</td>
+    <td align="center">Done</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
-    <td align="center">Capítulo 3</td>
-    <td align="center">Completar el capítulo 3</td>
+    <td align="center">Implementación de Solicitudes</td>
+    <td align="center">Se implementó el apartado de solicitudes para el usuario arrendatario</td>
     <td align="center">36</td>
     <td align="center">Meza Camayo, Lynn Jefferson</td>
     <td align="center">Done</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
-    <td align="center">Style Guidelines, Information Architecture, Landing Page UI Design</td>
-    <td align="center">Completar los Style Guidelines, Information Architecture, Landing Page UI Design</td>
+    <td align="center">Implementación de Búsqueda de Autos</td>
+    <td align="center">Se implementó el apartado de Búsuqeda de Autos para el arrendatario</td>
     <td align="center">240</td>
     <td align="center">Chamorro Torres, Samuel Rolando</td>
     <td align="center">Done</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
-    <td align="center">Web Applications UX/UI Design, Web Applications Prototyping</td>
-    <td align="center">Completar los Web Applications UX/UI Design, Web Applications Prototyping</td>
-    <td align="center">192</td>
-    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Implementación de Mantenimiento</td>
+    <td align="center">Se implementó el apartado de Mantenimiento de Autos para el arrendatario</td>
+    <td align="center">240</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
     <td align="center">Done</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
-    <td align="center">Domain-Driven Software Architecture</td>
-    <td align="center">Completar el Domain-Driven Software Architecture</td>
+    <td align="center">Implementación de Registro Vehicular</td>
+    <td align="center">Se implementó el apartado de Registro Vehicular para el propietario</td>
     <td align="center">4</td>
     <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
     <td align="center">Done</td>
   </tr>
   <tr>
     <td align="center">No aplica</td>
-    <td align="center">Software Object-Oriented Design</td>
-    <td align="center">Completar el Software Object-Oriented Design</td>
+    <td align="center">Implementación de Alquiler</td>
+    <td align="center">Se implementó el apartado de Alquiler para el arrendatario y el propietario</td>
     <td align="center">4</td>
     <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
-    <td align="center">In-Proggres</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">Database Design</td>
-    <td align="center">Completar el Database Design</td>
-    <td align="center">4</td>
-    <td align="center">Ruiz Torres, Erick Hernan</td>
     <td align="center">Done</td>
   </tr>
 </table>
