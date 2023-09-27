@@ -1170,78 +1170,118 @@ Entonces el sistema le redireccionará a la sección de "Contacto" y mostrará l
   <tr>
     <td align="center">2</td>
     <td align="center">US08</td>
-    <td align="center">Registro de mantenimientos del Auto</td>
-    <td align="center">Como propietario, Deseo publicar el registro de mantenimiento de mi auto para que el usuario este al tanto del estado del auto.</td>
+    <td align="center">Solicitud de alquiler de auto</td>
+    <td align="center">Como arrendatario, Deseo poder solicitar el alquiler del auto para asi poder"</td>
     <td align="center">5</td>
   </tr>
-  <tr>
+
+<tr>
     <td align="center">3</td>
     <td align="center">US09</td>
+    <td align="center">Registro de mantenimientos del Auto</td>
+    <td align="center">Como propietario, Deseo publicar el registro de mantenimiento de mi auto para que el usuario este al tanto del estado del auto</td>
+    <td align="center">5</td>  
+</tr>
+  <tr>
+    <td align="center">4</td>
+    <td align="center">US10</td>
     <td align="center">Visualización de registro de mantenimiento</td>
     <td align="center">Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber el estado de este</td>
     <td align="center">5</td>
   </tr>
   <tr>
-    <td align="center">4</td>
-    <td align="center">US10</td>
+    <td align="center">5</td>
+    <td align="center">US11</td>
     <td align="center">Solicitud de Alquiler de auto</td>
     <td align="center">Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto</td>
     <td align="center">5</td>
   </tr>
+
 <tr>
-    <td align="center">5</td>
-    <td align="center">US11</td>
+    <td align="center">6</td>
+    <td align="center">US12</td>
     <td align="center">Visualización de solicitudes</td>
     <td align="center">Como propietario, Deseo visualizar las solicitudes de los arrendatarios interesados para asi poder realizar el contrato</td>
     <td align="center">3</td>
   </tr>
 <tr>
-    <td align="center">6</td>
+    <td align="center">7</td>
     <td align="center">US04</td>
     <td align="center">Búsqueda de autos según características</td>
     <td align="center">Como Arrendatario, deseo poder buscar autos según datos específicos para asi descartar otros tipos de autos</td>
     <td align="center">3</td>
   </tr>
 <tr>
-    <td align="center">7</td>
+    <td align="center">8</td>
     <td align="center">US07</td>
     <td align="center">Autos disponibles en una área</td>
     <td align="center">Como arrendatario, que busca alquilar un auto, quiero poder visualizar todos los autos disponibles de una área para elegir los que se ubican en mi zona</td>
     <td align="center">3</td>
   </tr>
 <tr>
-    <td align="center">8</td>
+    <td align="center">9</td>
     <td align="center">US01</td>
     <td align="center">Registro del Arrendatario</td>
     <td align="center">Como arrendatario, deseo registrarme dentro del app para poder alquilar un auto según mi presupuesto.</td>
     <td align="center">3</td>
   </tr>
 <tr>
-    <td align="center">9</td>
+    <td align="center">10</td>
     <td align="center">US02</td>
     <td align="center">Registro del Propietario</td>
     <td align="center">Como Propietario deseo registrarme dentro del app para ofrecer en alquiler mi auto </td>
     <td align="center">2</td>
   </tr>
 <tr>
-    <td align="center">10</td>
+    <td align="center">11</td>
     <td align="center">US03</td>
     <td align="center">Actualización de datos</td>
     <td align="center">Como Usuario, deseo actualizar mis datos guardados en la aplicación para asi tener todo al día</td>
     <td align="center">2</td>
   </tr>
 <tr>
-    <td align="center">11</td>
+    <td align="center">12</td>
     <td align="center">US05</td>
     <td align="center">Inicio de Sesión</td>
     <td align="center">Como usuario registrado, quiero poder iniciar sesión en la aplicación con mi correo electrónico y contraseña.</td>
     <td align="center">2</td>
   </tr>
 <tr>
-    <td align="center">12</td>
-    <td align="center">US12</td>
+    <td align="center">13</td>
+    <td align="center">US13</td>
     <td align="center">Visualización de un sitio web de información de la aplicación</td>
     <td align="center">Como un invitado, deseo visualizar una publicidad de la aplicación </td>
+    <td align="center">2</td>
+  </tr>
+
+<tr>
+    <td align="center">14</td>
+    <td align="center">US14</td>
+    <td align="center">Visualización de Quienes Somos en el landing page</td>
+    <td align="center">Como un invitado, deseo visualizar una breve información acerca dela aplicación  </td>
+    <td align="center">2</td>
+  </tr>
+
+<tr>
+    <td align="center">15</td>
+    <td align="center">US15</td>
+    <td align="center">Visualización de los beneficios o compromíso de la aplicación/td>
+    <td align="center">Como un invitado, deseo visualizar los compromisos que ofrece la aplicación </td>
+    <td align="center">2</td>
+  </tr>
+
+<tr>
+    <td align="center">16</td>
+    <td align="center">US16</td>
+    <td align="center">Visualización de los testimonios acerca de la aplicación/td>
+    <td align="center">Como un invitado, deseo visualizar los testimonios de usuarios que utilizaron la aplicación</td>
+    <td align="center">2</td>
+  </tr>
+<tr>
+    <td align="center">17</td>
+    <td align="center">US17</td>
+    <td align="center">Call to action/td>
+    <td align="center">Como un invitado, deseo contactarme con la aplicación</td>
     <td align="center">2</td>
   </tr>
 </table>
