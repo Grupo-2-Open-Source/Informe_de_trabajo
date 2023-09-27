@@ -2938,8 +2938,12 @@ Link en Trello: https://trello.com/invite/b/rJnnrgx7/ATTIefea3ec5c3ec614f28c015d
 
 #### Execution Evidence for Sprint Review
 
-En esta entrega nos enfocamos en el desarrollo del Frontend de nuestra Aplicacion Web , dentro de ella estara implementada las vistas con las cuales el usuario podra interactuar. El frontend se creo a partir del prototipo planteado en los mockup y siguiendo los user stories.
+En esta entrega nos enfocamos en el desarrollo del Frontend de nuestra Aplicacion Web, dentro de ella estara implementada las vistas con las cuales el usuario podra interactuar. El frontend se creo a partir del prototipo planteado en los mockup y siguiendo los user stories.
 
+![Imgur](https://i.imgur.com/67Zycjy.jpg)
+![Imgur](https://i.imgur.com/ydhvOkM.jpg)
+![Imgur](https://i.imgur.com/96O6m7g.jpg)
+![Imgur](https://i.imgur.com/ZjFpVnt.jpg)
 
 #### Services Documentation Evidence for Sprint Review
 
