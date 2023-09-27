@@ -927,8 +927,27 @@ Entonces el sistema mostrará un mensaje indicando que "no se encontró ningún 
 </td>
     <td align="center"></td>
   </tr>
+
+tr>
+<td align="center"><strong>US08</strong></td>
+<td align="center">Solicitud de alquiler de auto</td>
+<td align="center">Como arrendatario, Deseo poder solicitar el alquiler del auto para asi poder </td>
+<td align="center">
+Escenario 1: Registro de Mantenimiento correctamente <br>
+Dado que el propietario se encuentre en sección "Mantenimiento" <br>
+Cuando rellene el registro de mantenimiento de su auto y seleccione "Registrar"<br>
+Entonces el sistema mostrará "Se Registró correctamente" <br>
+
+Escenario 2: Registro de Mantenimiento incorrectamente<br>
+Dado que el propietario se encuentre en sección "Mantenimiento" <br>
+Cuando no termina de rellenar el registro de mantenimiento de su auto y seleccione "Registrar"<br>
+Entonces el sistema mostrará un mensaje de error <br>
+</td>
+    <td align="center"></td>
+  </tr>
+
 <tr>
-    <td align="center"><strong>US08</strong></td>
+    <td align="center"><strong>US09</strong></td>
     <td align="center">Registro de mantenimientos del Auto</td>
     <td align="center">Como propietario, Deseo publicar el registro de mantenimiento de mi auto para que el usuario este al tanto del estado del auto</td>
     <td align="center">
@@ -937,15 +956,16 @@ Dado que el propietario se encuentre en sección "Mantenimiento" <br>
 Cuando rellene el registro de mantenimiento de su auto y seleccione "Registrar"<br>
 Entonces el sistema mostrará "Se Registró correctamente" <br>
 
-Escenario 1: Registro de Mantenimiento incorrectamente<br>
+Escenario 2: Registro de Mantenimiento incorrectamente<br>
 Dado que el propietario se encuentre en sección "Mantenimiento" <br>
 Cuando no termina de rellenar el registro de mantenimiento de su auto y seleccione "Registrar"<br>
 Entonces el sistema mostrará un mensaje de error <br>
 </td>
     <td align="center"></td>
   </tr>
+
 <tr>
-    <td align="center"><strong>US09</strong></td>
+    <td align="center"><strong>US10</strong></td>
     <td align="center">Visualización de registro de mantenimiento</td>
     <td align="center">Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber el estado de este</td>
     <td align="center">
@@ -962,7 +982,7 @@ Entonces el sistema mostrará un mensaje indicando "No se encontró el registro 
     <td align="center"></td>
   </tr>
 <tr>
-    <td align="center"><strong>US10</strong></td>
+    <td align="center"><strong>US11</strong></td>
     <td align="center"> Solicitud de Alquiler de auto</td>
     <td align="center">Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto</td>
     <td align="center">
@@ -979,7 +999,7 @@ Entonces el sistema mandara un mensaje de error<br>
     <td align="center"></td>
   </tr>
 <tr>
-    <td align="center"><strong>US11</strong></td>
+    <td align="center"><strong>US12</strong></td>
     <td align="center">Visualización de solicitudes</td>
     <td align="center">Como propietario, Deseo visualizar las solicitudes de los arrendatarios interesados para asi poder realizar el contrato</td>
     <td align="center">
@@ -996,7 +1016,7 @@ Entonces el sistema mostrará de fondo un mensaje indicando "No hay solicitúdes
     <td align="center"></td>
   </tr>
 <tr>
-    <td align="center"><strong>US12</strong></td>
+    <td align="center"><strong>US13</strong></td>
     <td align="center">Visualización de un sitio web de información de la aplicación</td>
     <td align="center">Como un invitado, deseo visualizar una publicidad de la aplicación </td>
     <td align="center">
@@ -1007,6 +1027,59 @@ Entonces el sistema mostrará la landing page de la aplicación<br>
 </td>
     <td align="center"></td>
   </tr>
+
+<tr>
+    <td align="center"><strong>US14</strong></td>
+    <td align="center">Visualización de Quienes Somos en el landing page</td>
+    <td align="center">Como un invitado, deseo visualizar una breve información acerca dela aplicación </td>
+    <td align="center">
+Escenario 1: Visualización de la sección de Acerca de <br>
+Dado que el invitado se encuentra en la landing page <br>
+Cuando selección "Acerca de" en la navegación <br>
+Entonces el sistema le redireccionará a la sección de "Acerca de"<br>
+</td>
+    <td align="center"></td>
+  </tr>
+
+<tr>
+ <td align="center"><strong>US15</strong></td>
+    <td align="center">Visualización de los beneficios o compromíso de la aplicación</td>
+    <td align="center">Como un invitado, deseo visualizar los compromisos que ofrece la aplicación </td>
+    <td align="center">
+Escenario 1: Visualización de la sección compromiso <br>
+Dado que el invitado se encuentra en la landing page <br>
+Cuando selecciona "Acerca de" en la navegación <br>
+Entonces el sistema le redireccionará a la sección de "Acerca de" y mostrará la sección "Compromiso"<br>
+</td>
+    <td align="center"></td>
+  </tr>
+
+<tr>
+ <td align="center"><strong>US16</strong></td>
+    <td align="center">Visualización de los testimonios acerca de la aplicación</td>
+    <td align="center">Como un invitado, deseo visualizar los testimonios de usuarios que utilizaron la aplicación</td>
+    <td align="center">
+Escenario 1: Visualización de la sección de testimonios <br>
+Dado que el invitado se encuentra en la landing page <br>
+Cuando selecciona "Testimonios" en la navegación <br>
+Entonces el sistema le redireccionará a la sección de "testimonios" y mostrará los testimonios de otros usuarios<br>
+</td>
+    <td align="center"></td>
+  </tr>
+
+<tr>
+ <td align="center"><strong>US17</strong></td>
+    <td align="center">Call to action</td>
+    <td align="center">Como un invitado, deseo contactarme con la aplicación</td>
+    <td align="center">
+Escenario 1: Visualización de la sección Contacto <br>
+Dado que el invitado se encuentra en la landing page <br>
+Cuando selecciona "Contacto" en la navegación <br>
+Entonces el sistema le redireccionará a la sección de "Contacto" y mostrará los testimonios de otros usuarios<br>
+</td>
+    <td align="center"></td>
+  </tr>
+
 
 </table>
 
@@ -1033,21 +1106,21 @@ Entonces el sistema mostrará la landing page de la aplicación<br>
   </tr>
   <tr>
     <td align="center">2</td>
-    <td align="center">US08</td>
+    <td align="center">US09</td>
     <td align="center">Registro de mantenimientos del Auto</td>
     <td align="center">Como propietario, Deseo publicar el registro de mantenimiento de mi auto para que el usuario este al tanto del estado del auto.</td>
     <td align="center">5</td>
   </tr>
   <tr>
     <td align="center">3</td>
-    <td align="center">US09</td>
+    <td align="center">US10</td>
     <td align="center">Visualización de registro de mantenimiento</td>
     <td align="center">Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber el estado de este</td>
     <td align="center">5</td>
   </tr>
   <tr>
     <td align="center">4</td>
-    <td align="center">US10</td>
+    <td align="center">US08</td>
     <td align="center">Solicitud de Alquiler de auto</td>
     <td align="center">Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto</td>
     <td align="center">5</td>
@@ -1055,8 +1128,8 @@ Entonces el sistema mostrará la landing page de la aplicación<br>
 <tr>
     <td align="center">5</td>
     <td align="center">US11</td>
-    <td align="center">Visualización de solicitudes</td>
-    <td align="center">Como propietario, Deseo visualizar las solicitudes de los arrendatarios interesados para asi poder realizar el contrato</td>
+    <td align="center">Solicitud de Alquiler de auto</td>
+    <td align="center">Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto</td>
     <td align="center">3</td>
   </tr>
 <tr>
@@ -1104,8 +1177,43 @@ Entonces el sistema mostrará la landing page de la aplicación<br>
 <tr>
     <td align="center">12</td>
     <td align="center">US12</td>
+    <td align="center">Visualización de solicitudes</td>
+    <td align="center">Como propietario, Deseo visualizar las solicitudes de los arrendatarios interesados para asi poder realizar el contrato</td>
+    <td align="center">2</td>
+  </tr>
+<tr>
+    <td align="center">13</td>
+    <td align="center">US13</td>
     <td align="center">Visualización de un sitio web de información de la aplicación</td>
     <td align="center">Como un invitado, deseo visualizar una publicidad de la aplicación </td>
+    <td align="center">2</td>
+  </tr>
+<tr>
+    <td align="center">14</td>
+    <td align="center">US14</td>
+    <td align="center">Visualización de un sitio web de información de la aplicación</td>
+    <td align="center">Como un invitado, deseo visualizar una publicidad de la aplicación </td>
+    <td align="center">2</td>
+  </tr>
+<tr>
+    <td align="center">15</td>
+    <td align="center">US15</td>
+    <td align="center">Visualización de los beneficios o compromíso de la aplicación</td>
+    <td align="center">Como un invitado, deseo visualizar los compromisos que ofrece la aplicación </td>
+    <td align="center">2</td>
+  </tr>
+<tr>
+    <td align="center">16</td>
+    <td align="center">US16</td>
+    <td align="center">Visualización de los testimonios acerca de la aplicación</td>
+    <td align="center">Como un invitado, deseo visualizar los testimonios de usuarios que utilizaron la aplicación </td>
+    <td align="center">2</td>
+  </tr>
+<tr>
+    <td align="center">17</td>
+    <td align="center">US17</td>
+    <td align="center">Call to action</td>
+    <td align="center">Como un invitado, deseo contactarme con la aplicación </td>
     <td align="center">2</td>
   </tr>
 </table>
