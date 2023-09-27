@@ -844,6 +844,7 @@ A continuación, se muestran los Empathy Maps desarrollados para cada segmento o
 </div>
 
 ### User Stories
+
 <table>
   <tr>
     <td align="center"><strong>Epic / Story ID</strong></td>
@@ -869,9 +870,7 @@ A continuación, se muestran los Empathy Maps desarrollados para cada segmento o
     Escenario 3: El arrendatario rellena sus datos incorrectamente. <br>
     Dado que el arrendatario se encuentra en la sección de registro y selecciona la sección "Arrendatario" <br>
     Cuando el arrendatario ingresa los datos incorrectamente o no están completos, <br>
-    Entonces el sistema le indicará que “Está incorrecto “o “Falta rellenar este dato.
-
-</td>
+    Entonces el sistema le indicará que “Está incorrecto “o “Falta rellenar este dato.</td>
     <td align="center"></td>
   </tr>
   <tr>
@@ -1135,6 +1134,7 @@ Entonces el sistema le redireccionará a la sección de "Contacto" y mostrará l
 </td>
     <td align="center"></td>
   </tr>
+</table>
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
