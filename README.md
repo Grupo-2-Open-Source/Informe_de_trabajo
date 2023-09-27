@@ -144,6 +144,15 @@ Para la elaboración del informe se utilizó un documento Markdown, el cual fue 
       - [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review)
       - [Software Deployment Evidence for Sprint Review](#software-deployment-evidence-for-sprint-review)
       - [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint)
+    - [Sprint 2](#sprint-2)
+      - [Sprint Planning 2](#sprint-planning-2)
+      - [Sprint Backlog 2](#sprint-backlog-2)
+      - [Development Evidence for Sprint Review](#development-evidence-for-sprint-review-1)
+      - [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review-1)
+      - [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review-1)
+      - [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review-1)
+      - [Software Deployment Evidence for Sprint Review](#software-deployment-evidence-for-sprint-review-1)
+      - [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint-1)
   - [Validation Interviews](#validation-interviews)
     - [Diseño de Entrevistas](#diseño-de-entrevistas-1)
     - [Registro de Entrevistas](#registro-de-entrevistas-1)
@@ -2921,8 +2930,12 @@ Link en Trello: https://trello.com/invite/b/rJnnrgx7/ATTIefea3ec5c3ec614f28c015d
 
 #### Execution Evidence for Sprint Review
 
-En esta entrega nos enfocamos en el desarrollo del Frontend de nuestra Aplicacion Web , dentro de ella estara implementada las vistas con las cuales el usuario podra interactuar. El frontend se creo a partir del prototipo planteado en los mockup y siguiendo los user stories.
+En esta entrega nos enfocamos en el desarrollo del Frontend de nuestra Aplicacion Web, dentro de ella estara implementada las vistas con las cuales el usuario podra interactuar. El frontend se creo a partir del prototipo planteado en los mockup y siguiendo los user stories.
 
+![Imgur](https://i.imgur.com/67Zycjy.jpg)
+![Imgur](https://i.imgur.com/ydhvOkM.jpg)
+![Imgur](https://i.imgur.com/96O6m7g.jpg)
+![Imgur](https://i.imgur.com/ZjFpVnt.jpg)
 
 #### Services Documentation Evidence for Sprint Review
 
@@ -2985,3 +2998,4 @@ Para la creación de la plataforma,en esta caso para el desarrollo del Fronted s
 - Registro de entrevistas 1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 - Landing Page: [https://grupo-2-open-source.github.io/Landing_Page/](https://grupo-2-open-source.github.io/Landing_Page/)
 - Video exposición TB1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EY7cdO5wZqhBvSf_dC9jlwMBXzwTh79Dvg-GuT3xUL_hMA?e=q37khB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EY7cdO5wZqhBvSf_dC9jlwMBXzwTh79Dvg-GuT3xUL_hMA?e=q37khB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+- Video exposición TP: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ERfDD2XbCyhBjKJPD5FWP10Bks0jjjPf9xZuaSxkK56Rvw?e=CLQTeQ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ERfDD2XbCyhBjKJPD5FWP10Bks0jjjPf9xZuaSxkK56Rvw?e=CLQTeQ)
