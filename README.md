@@ -2923,12 +2923,12 @@ Link en Trello: https://trello.com/invite/b/rJnnrgx7/ATTIefea3ec5c3ec614f28c015d
     <td align="center"><strong>Commited on (Date)</strong></td>
   </tr>
   <tr>
-    <td align="center">user/repositoryname</td>
-    <td align="center">feature/loremipsum</td>
-    <td align="center">14ca4e3</td>
-    <td align="center">feat: consectetur adipiscing elit</td>
-    <td align="center">Curabitur quis placerat nulla. Fusce malesuada faucibus quam, ut condimentumvelit rutrum ut.</td>
-    <td align="center">04/09/2021</td>
+    <td align="center">ErickUrbizagastegui/Informe_de_trabajo</td>
+    <td align="center">main</td>
+    <td align="center">5dd3029e0020d914503effd7c81db14d01754c8b</td>
+    <td align="center">Agregados acceptance tests gherkin</td>
+    <td align="center">Agregados los archivos .feature con los acceptance tests en gherkin.</td>
+    <td align="center">26/09/2021</td>
   </tr>
 </table>
 
