@@ -27,12 +27,19 @@
 **<h3>Agosto, 2023</h3>**
 </div>
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 # Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Versión | Fecha      | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |--------------|------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Entrega 1     | 06-09-2023 | - Erick Gabriel Urbizagastegui Alvarez<br>- Erick Hernan Ruiz Torres<br>- Lynn Jeeferzon Meza Camayo<br>- Samuel Rolando Chamorro Torres<br>     | **Project Report Collaboration Insights**<br/><br/>**Contenido**<br/>Tabla de contenidos<br/><br/>**Student Outcome**<br/><br/>**Capitulo I:Introduccion**<br/>1.1. Startup Profile<br/>1.1.1. Descripción de la Startup<br/>1.1.2. Perfiles de integrantes del equipo<br/>1.2. Solution Profile<br/>1.2.1 Antecedentes y problemática<br/>1.2.2 Lean UX Process.<br/>1.2.2.1. Lean UX Problem Statements.<br/>1.2.2.2. Lean UX Assumptions.<br/>1.2.2.3. Lean UX Hypothesis Statements.<br/>1.2.2.4. Lean UX Canvas.<br/>1.3. Segmentos objetivo.<br/><br/>**Capítulo II: Requirements Elicitation & Analysis**<br/>2.1. Competidores.<br/>2.1.1. Análisis competitivo.<br/>2.1.2. Estrategias y tácticas frente a competidores.<br/>2.2. Entrevistas.<br/>2.2.1. Diseño de entrevistas.<br/>2.2.2. Registro de entrevistas.<br/>2.2.3. Análisis de entrevistas.<br/>2.3. Needfinding.<br/>2.3.1. User Personas.<br/>2.3.2. User Task Matrix.<br/>2.3.3. User Journey Mapping.<br/>2.3.4. Empathy Mapping.<br/>2.3.5. As-is Scenario Mapping.<br/><br/>**Capítulo III: Requirements Specification**<br/>3.1. To-Be Scenario Mapping.<br/>3.2. User Stories.<br/>3.3. Impact Mapping.<br/>3.4. Product Backlog.<br/><br/>**Capítulo IV: Product Design**<br/>4.1. Style Guidelines.<br/>4.1.1. General Style Guidelines.<br/>4.1.2. Web Style Guidelines.<br/>4.2. Information Architecture.<br/>4.2.1. Organization Systems.<br/>4.2.2. Labeling Systems.<br/>4.2.3. SEO Tags and Meta Tags<br/>4.2.4. Searching Systems.<br/>4.2.5. Navigation Systems.<br/>4.3. Landing Page UI Design.<br/>4.3.1. Landing Page Wireframe.<br/>4.3.2. Landing Page Mock-up.<br/>4.4. Web Applications UX/UI Design.<br/>4.4.1. Web Applications Wireframes.<br/>4.4.2. Web Applications Wireflow Diagrams.<br/>4.4.2. Web Applications Mock-ups.<br/>4.4.3. Web Applications User Flow Diagrams.<br/>4.5. Web Applications Prototyping.<br/>4.6. Domain-Driven Software Architecture.<br/>4.6.1. Software Architecture Context Diagram.<br/>4.6.2. Software Architecture Container Diagrams.<br/>4.6.3. Software Architecture Components Diagrams.<br/>4.7. Software Object-Oriented Design.<br/>4.7.1. Class Diagrams.<br/>4.7.2. Class Dictionary.<br/>4.8. Database Design.<br/>4.8.1. Database Diagram.<br/><br/>**Capítulo V: Product Implementation, Validation & Deployment.**<br/>5.1. Software Configuration Management.<br/>5.1.1. Software Development Environment Configuration.<br/>5.1.2. Source Code Management.<br/>5.1.3. Source Code Style Guide & Conventions.<br/>5.1.4. Software Deployment Configuration.<br/>5.2. Landing Page, Services & Applications Implementation.<br/>5.2.1. Sprint 1<br/>5.2.1.1. Sprint Planning 1.<br/>5.2.1.2. Sprint Backlog 1.<br/>5.2.1.3. Development Evidence for Sprint Review.<br/>5.2.1.4. Testing Suite Evidence for Sprint Review. |
 |Entrega X      | Celda 6    | - Erick Gabriel Urbizagastegui Alvarez<br>- Erick Hernan Ruiz Torres<br>- Lynn Jeeferzon Meza Camayo<br>- Samuel Rolando Chamorro Torres<br>   | Celda 8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # Project Report Collaboration Insights
 
@@ -46,6 +53,10 @@
 Para la elaboración del informe se utilizó un documento Markdown, el cual fue editado por todos los integrantes del equipo. Cada integrante primero hacía sus modificaciones en su respectiva rama en el repositorio para luego hacer un merge de su rama con la rama main. De esta forma nos aseguramos de que los avances de todos estuvieran incluidos en el informe final y que todos participaran.
 
 ![Imgur](https://i.imgur.com/6pYbsw5.png)
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # Contenido
 
@@ -153,6 +164,10 @@ Para la elaboración del informe se utilizó un documento Markdown, el cual fue 
 
 <div style="text-align: justify;">
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 # Capítulo I: Introducción
 
 ## Startup Profile
@@ -187,6 +202,10 @@ Nuestra visión es tener una aplicación dedicada al nicho de la renta de autos 
 
 ![Imgur](https://i.imgur.com/swEGu4x.png)
 
+</div>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
 </div>
 
 ## Solution Profile
@@ -273,6 +292,10 @@ Creemos que AutoYa! tendrá problemas luego de su lanzamiento. Sabremos que esto
 **Hipótesis 3**  
 Creemos que la visualización de la documentación de los vehículos en la aplicación será un agregado importante. Sabremos que esto es cierto si el 65% de las reseñas de autos en esta son positivas.
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 #### Lean UX Canvas
 
 <table align="center">
@@ -298,6 +321,10 @@ Se han identificado dos segmentos objetivos.
 
 1. Personas mayores de 18 años que cuenten con licencia de conducir y deseen alquilar uno o más autos de forma segura y a un menor precio que los servicios de alquiler de autos más populares.
 2. Personas mayores de 18 años que posean uno o más autos en regla junto con todos los documentos que esto conlleva y deseen poner en alquiler estos mismos de forma segura mediante plataformas digitales.
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -554,6 +581,10 @@ Manuel Mavila es un estudiante universitario de 20 años. Reside en el distrito 
 
 ![Imgur](https://i.imgur.com/W8kC7BA.png)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## Needfinding
 
 ### User Personas
@@ -568,6 +599,9 @@ A continuación se presentarán los User Persona elaborados en base al análisis
 
 ![Imgur](https://i.imgur.com/2gIrr7u.png)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### User Task Matrix
 
@@ -766,6 +800,10 @@ A continuación, se muestran los Empathy Maps desarrollados para cada segmento o
 
 ![Imgur](https://i.imgur.com/6fJybYV.png)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### As-is Scenario Mapping
 
 **Arrendatario**
@@ -775,6 +813,11 @@ A continuación, se muestran los Empathy Maps desarrollados para cada segmento o
 **Arrendador**
 
 ![Imgur](https://i.imgur.com/6s4JvlH.png)
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 
 # Capítulo III: Requirements Specification
 
@@ -786,6 +829,10 @@ A continuación, se muestran los Empathy Maps desarrollados para cada segmento o
 
 #### **Usuario: Arrendatario**
 ![Imgur](https://imgur.com/qy7Fts1.png)
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### User Stories
 <table>
@@ -814,7 +861,6 @@ A continuación, se muestran los Empathy Maps desarrollados para cada segmento o
     Dado que el arrendatario se encuentra en la sección de registro y selecciona la sección "Arrendatario" <br>
     Cuando el arrendatario ingresa los datos incorrectamente o no están completos, <br>
     Entonces el sistema le indicará que “Está incorrecto “o “Falta rellenar este dato.
-
 </td>
     <td align="center"></td>
   </tr>
@@ -835,7 +881,7 @@ A continuación, se muestran los Empathy Maps desarrollados para cada segmento o
         Escenario 3: rellenado de datos incorrectamente. <br>
         Dado que el Propietario se encuentra en la sección de registro y selecciona la sección "propietario" <br>
         Cuando el propietario ingresa los datos incorrectamente o no están completos <br>
-        Entonces el sistema le indicará que “Está incorrecto “o “Falta rellenar este dato. <br>
+        Entonces el sistema le indicará que “Está incorrecto “o “Falta rellenar este dato. 
 </td>
     <td align="center"></td>
   </tr>
@@ -844,17 +890,16 @@ A continuación, se muestran los Empathy Maps desarrollados para cada segmento o
     <td align="center">Actualización de datos</td>
     <td align="center">Como Usuario deseo actualizar mis datos guardados en la aplicación para asi tener todo al día</td>
     <td align="center">
-  Escenario 1: Acceso a pestaña Información Personal <br>
-  Dado que el usuario quiere actualizar sus datos <br>
-  Cuando el usuario seleccione el icono de su imag de perfil <br>
-  Entonces la aplicación le mostrará toda la Información Personal que ingreso al crear la cuenta <br>
-  <br>
-  Escenario 2: Actualización de los datos <br>
-  Dado que el usuario se encuentra en la sección información Personal <br>
-  Cuando el usuario haya actualizado todos los datos que desee <br>
-  Y el usuario al seleccionar el botón “Aceptar” <br>
-  Entonces la aplicación le muestra un mensaje indicando "Datos actualizados correctamente" <br>
-
+     Escenario 1: Acceso a pestaña Información Personal <br>
+      Dado que el usuario quiere actualizar sus datos <br>
+      Cuando el usuario seleccione el icono de su imag de perfil <br>
+      Entonces la aplicación le mostrará toda la Información Personal que ingreso al crear la cuenta <br>
+     <br>
+     Escenario 2: Actualización de los datos <br>
+     Dado que el usuario se encuentra en la sección información Personal <br>
+     Cuando el usuario haya actualizado todos los datos que desee <br>
+     Y el usuario al seleccionar el botón “Aceptar” <br>
+     Entonces la aplicación le muestra un mensaje indicando "Datos actualizados correctamente" 
 </td>
     <td align="center"></td>
   </tr>
@@ -863,15 +908,15 @@ A continuación, se muestran los Empathy Maps desarrollados para cada segmento o
     <td align="center">Búsqueda de autos según características</td>
     <td align="center">Como Arrendatario deseo poder buscar autos según datos específicos para asi descartar otros tipos de autos/td>
     <td align="center">
-Escenario 1: El Arrendatario visualiza cuando existen datos específicos que desee. <br>
-Dado que el Arrendatario este en la sección "Buscar Autos" <br>
-Cuando ingrese los datos en cada sección específica y encuentre información de estos. <br>
-Entonces el sistema mostrará todos los autos que tenga estos en su informe. <br>
-<br>
-Escenario 2: El Arrendatario visualiza cuando no existen datos específicos que desee. <br>
-Dado que el Arrendatario este en la sección "Buscar Autos" <br>
-Cuando ingrese los datos en cada sección específica y encuentre información de estos. <br>
-Entonces el sistema mostrará que "no hay contratos con esos datos". <br>
+    Escenario 1: El Arrendatario visualiza cuando existen datos específicos que desee. <br>
+    Dado que el Arrendatario este en la sección "Buscar Autos" <br>
+    Cuando ingrese los datos en cada sección específica y encuentre información de estos. <br>
+    Entonces el sistema mostrará todos los autos que tenga estos en su informe. <br>
+   <br>
+    Escenario 2: El Arrendatario visualiza cuando no existen datos específicos que desee. <br>
+    Dado que el Arrendatario este en la sección "Buscar Autos" <br>
+    Cuando ingrese los datos en cada sección específica y encuentre información de estos. <br>
+    Entonces el sistema mostrará que "no hay contratos con esos datos". 
 </td>
     <td align="center"></td>
   </tr>
@@ -880,15 +925,15 @@ Entonces el sistema mostrará que "no hay contratos con esos datos". <br>
     <td align="center">Inicio de Sesión</td>
     <td align="center">Como usuario registrado, quiero poder iniciar sesión en la aplicación con mi correo electrónico y contraseña.</td>
     <td align="center">
-Escenario 1: Inicio de sesión correctamente<br>
-Dado que el usuario se encuentre en Inicio de Sesión <br>
-Cuando ingrese su correo y contraseña correctamente <br>
-Entonces el Sistema le mandará al inicio de la aplicación <br>
-<br>
-Escenario 2: Inicio de sesión incorrectamente  <br>
-Dado que el usuario se encuentre en Inicio de Sesión <br>
-Cuando ingrese su correo o contraseña incorrectamente <br>
-Entonces el Sistema debe mostrar un mensaje de error <br>
+    Escenario 1: Inicio de sesión correctamente<br>
+    Dado que el usuario se encuentre en Inicio de Sesión <br>
+    Cuando ingrese su correo y contraseña correctamente <br>
+    Entonces el Sistema le mandará al inicio de la aplicación <br>
+   <br>
+   Escenario 2: Inicio de sesión incorrectamente  <br>
+   Dado que el usuario se encuentre en Inicio de Sesión <br>
+   Cuando ingrese su correo o contraseña incorrectamente <br>
+   Entonces el Sistema debe mostrar un mensaje de error 
 </td>
     <td align="center"></td>
   </tr>
@@ -897,17 +942,16 @@ Entonces el Sistema debe mostrar un mensaje de error <br>
     <td align="center">Publicación de anuncio de alquiler de auto</td>
     <td align="center">Como propietario de un automóvil, quiero poder crear un anuncio para alquilar mi auto</td>
     <td align="center">
-Escenario 1: Publicación de anuncio correctamente <br>
-Dado que el propietario se encuentre en sección "Registro de Vehículo" <br>
-Cuando rellene los detalles del automóvil, las tarifas de alquiler y seleccione "Registrar"<br>
-Entonces el sistema lo guardará en la base de datos y móstrara en pantalla el contrato de alquiler. <br>
-
-Escenario 1: Publicación de anuncio incorrectamente <br>
-Dado que el propietario se encuentre en sección "Registro de Vehículo" <br>
-Cuando no termina de rellenar los detalles del automóvil o las tarifas de alquiler <br>
-Entonces el sistema mostrara un mensaje de error <br>
-
-  </td>
+    Escenario 1: Publicación de anuncio correctamente <br>
+    Dado que el propietario se encuentre en sección "Registro de Vehículo" <br>
+    Cuando rellene los detalles del automóvil, las tarifas de alquiler y seleccione "Registrar"<br>
+    Entonces el sistema lo guardará en la base de datos y móstrara en pantalla el contrato de alquiler. 
+   <br>
+    Escenario 1: Publicación de anuncio incorrectamente <br>
+    Dado que el propietario se encuentre en sección "Registro de Vehículo" <br>
+    Cuando no termina de rellenar los detalles del automóvil o las tarifas de alquiler <br>
+    Entonces el sistema mostrara un mensaje de error 
+</td>
     <td align="center"></td>
   </tr>
 <tr>
@@ -915,177 +959,112 @@ Entonces el sistema mostrara un mensaje de error <br>
     <td align="center">Autos disponibles en una área</td>
     <td align="center">Como arrendatario que busca alquilar un auto, quiero poder visualizar todos los autos disponibles de una área para elegir los que se ubican en mi zona</td>
     <td align="center">
-Escenario 1: Visualización de autos correctamente <br>
-Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
-Cuando rellene la opción de "Ubicación"<br>
-Entonces el sistema mostrará todos los autos disponibles de la areá seleccionada <br>
-
-Escenario 1: Visualización de autos incorrectamente <br>
-Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
-Cuando rellene la opción de "Ubicación" y no encuentre ningún auto en esa zona<br>
-Entonces el sistema mostrará un mensaje indicando que "no se encontró ningún auto en esa zona"<br>
+    Escenario 1: Visualización de autos correctamente <br>
+    Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
+   Cuando rellene la opción de "Ubicación"<br>
+   Entonces el sistema mostrará todos los autos disponibles de la areá seleccionada 
+   <br>
+   Escenario 1: Visualización de autos incorrectamente <br>
+   Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
+   Cuando rellene la opción de "Ubicación" y no encuentre ningún auto en esa zona<br>
+   Entonces el sistema mostrará un mensaje indicando que "no se encontró ningún auto en esa zona"
 </td>
     <td align="center"></td>
   </tr>
-
-tr>
-<td align="center"><strong>US08</strong></td>
-<td align="center">Solicitud de alquiler de auto</td>
-<td align="center">Como arrendatario, Deseo poder solicitar el alquiler del auto para asi poder </td>
-<td align="center">
-Escenario 1: Registro de Mantenimiento correctamente <br>
-Dado que el propietario se encuentre en sección "Mantenimiento" <br>
-Cuando rellene el registro de mantenimiento de su auto y seleccione "Registrar"<br>
-Entonces el sistema mostrará "Se Registró correctamente" <br>
-
-Escenario 2: Registro de Mantenimiento incorrectamente<br>
-Dado que el propietario se encuentre en sección "Mantenimiento" <br>
-Cuando no termina de rellenar el registro de mantenimiento de su auto y seleccione "Registrar"<br>
-Entonces el sistema mostrará un mensaje de error <br>
-</td>
-    <td align="center"></td>
-  </tr>
-
 <tr>
-    <td align="center"><strong>US09</strong></td>
+    <td align="center"><strong>US08</strong></td>
     <td align="center">Registro de mantenimientos del Auto</td>
     <td align="center">Como propietario, Deseo publicar el registro de mantenimiento de mi auto para que el usuario este al tanto del estado del auto</td>
     <td align="center">
-Escenario 1: Registro de Mantenimiento correctamente <br>
-Dado que el propietario se encuentre en sección "Mantenimiento" <br>
-Cuando rellene el registro de mantenimiento de su auto y seleccione "Registrar"<br>
-Entonces el sistema mostrará "Se Registró correctamente" <br>
-
-Escenario 2: Registro de Mantenimiento incorrectamente<br>
-Dado que el propietario se encuentre en sección "Mantenimiento" <br>
-Cuando no termina de rellenar el registro de mantenimiento de su auto y seleccione "Registrar"<br>
-Entonces el sistema mostrará un mensaje de error <br>
+    Escenario 1: Registro de Mantenimiento correctamente <br>
+   Dado que el propietario se encuentre en sección "Mantenimiento" <br>
+   Cuando rellene el registro de mantenimiento de su auto y seleccione "Registrar"<br>
+   Entonces el sistema mostrará "Se Registró correctamente" 
+   <br>
+   Escenario 1: Registro de Mantenimiento incorrectamente<br>
+   Dado que el propietario se encuentre en sección "Mantenimiento" <br>
+   Cuando no termina de rellenar el registro de mantenimiento de su auto y seleccione "Registrar"<br>
+   Entonces el sistema mostrará un mensaje de error 
 </td>
     <td align="center"></td>
   </tr>
-
 <tr>
-    <td align="center"><strong>US10</strong></td>
+    <td align="center"><strong>US09</strong></td>
     <td align="center">Visualización de registro de mantenimiento</td>
     <td align="center">Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber el estado de este</td>
     <td align="center">
-Escenario 1: Visualización de registro de Mantenimiento correctamente <br>
-Dado que el arrendatario se encuentre en sección "Mantenimiento" <br>
-Cuando ingrese el auto que desea visualizar con el propietario<br>
-Entonces el sistema mostrará el registro de mantenimiento del auto elegido <br>
-
-Escenario 2: Visualización de registro de Mantenimiento incorrectamente <br>
-Dado que el arrendatario se encuentre en sección "Mantenimiento" <br>
-Cuando ingrese el auto que desea visualizar o el nombre del propietario incorrectamente<br>
-Entonces el sistema mostrará un mensaje indicando "No se encontró el registro del auto seleccionado" <br>
+    Escenario 1: Visualización de registro de Mantenimiento correctamente <br>
+    Dado que el arrendatario se encuentre en sección "Mantenimiento" <br>
+    Cuando ingrese el auto que desea visualizar con el propietario<br>
+    Entonces el sistema mostrará el registro de mantenimiento del auto elegido 
+    <br>
+    Escenario 2: Visualización de registro de Mantenimiento incorrectamente <br>
+    Dado que el arrendatario se encuentre en sección "Mantenimiento" <br>
+    Cuando ingrese el auto que desea visualizar o el nombre del propietario incorrectamente<br>
+    Entonces el sistema mostrará un mensaje indicando "No se encontró el registro del auto seleccionado"
+</td>
+    <td align="center"></td>
+  </tr>
+<tr>
+    <td align="center"><strong>US10</strong></td>
+    <td align="center"> Solicitud de Alquiler de auto</td>
+    <td align="center">Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto</td>
+    <td align="center">
+    Escenario 1: Solicitud de contrato del auto correctamente <br>
+    Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
+    Cuando firma el documento y seleccione "Solicitar alquiler" <br>
+    Entonces el sistema mandará un mensaje de envío correctamente y mandará la solicitud al propietario
+    <br>
+   Escenario 2: Solicitud de contrato del auto incorrectamente <br>
+   Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
+   Cuando no firma el documento y seleccione "Solicitar alquiler" <br>
+   Entonces el sistema mandara un mensaje de error.
 </td>
     <td align="center"></td>
   </tr>
 <tr>
     <td align="center"><strong>US11</strong></td>
-    <td align="center"> Solicitud de Alquiler de auto</td>
-    <td align="center">Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto</td>
+    <td align="center">Visualización de solicitudes</td>
+    <td align="center">Como propietario, Deseo visualizar las solicitudes de los arrendatarios interesados para asi poder realizar el contrato</td>
     <td align="center">
-Escenario 1: Solicitud de contrato del auto correctamente <br>
-Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
-Cuando firma el documento y seleccione "Solicitar alquiler" <br>
-Entonces el sistema mandará un mensaje de envío correctamente y mandará la solicitud al propietario<br>
-
-Escenario 2: Solicitud de contrato del auto incorrectamente <br>
-Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
-Cuando no firma el documento y seleccione "Solicitar alquiler" <br>
-Entonces el sistema mandara un mensaje de error<br>
+    Escenario 1: Visualización de Solicitudes de auto existentes <br>
+    Dado que el propietario se encuentre en sección "Solicitud" <br>
+    Cuando seleccione una solicitud <br>
+    Entonces el sistema mostrará la información del arrendatario interesado
+    <br>
+    Escenario 2: Visualización de Solicitudes de auto cuando no existe ni un solicitúd <br>
+    Dado que el propietario se encuentre en sección "Solicitud" <br>
+    Cuando sno existe ni un solicitúd existente<br>
+    Entonces el sistema mostrará de fondo un mensaje indicando "No hay solicitúdes recibidas".
 </td>
     <td align="center"></td>
   </tr>
 <tr>
     <td align="center"><strong>US12</strong></td>
-    <td align="center">Visualización de solicitudes</td>
-    <td align="center">Como propietario, Deseo visualizar las solicitudes de los arrendatarios interesados para asi poder realizar el contrato</td>
-    <td align="center">
-Escenario 1: Visualización de Solicitudes de auto existentes <br>
-Dado que el propietario se encuentre en sección "Solicitud" <br>
-Cuando seleccione una solicitud <br>
-Entonces el sistema mostrará la información del arrendatario interesado<br>
-
-Escenario 2: Visualización de Solicitudes de auto cuando no existe ni un solicitúd <br>
-Dado que el propietario se encuentre en sección "Solicitud" <br>
-Cuando sno existe ni un solicitúd existente<br>
-Entonces el sistema mostrará de fondo un mensaje indicando "No hay solicitúdes recibidas" <br>
-</td>
-    <td align="center"></td>
-  </tr>
-<tr>
-    <td align="center"><strong>US13</strong></td>
     <td align="center">Visualización de un sitio web de información de la aplicación</td>
     <td align="center">Como un invitado, deseo visualizar una publicidad de la aplicación </td>
     <td align="center">
-Escenario 1: Visualización de la lending page <br>
-Dado que el invitado es nuevo y busca información de la aplicación <br>
-Cuando ingrese al link de la lending page <br>
-Entonces el sistema mostrará la landing page de la aplicación<br>
+    Escenario 1: Visualización de la lending page <br>
+    Dado que el invitado es nuevo y busca información de la aplicación <br>
+    Cuando ingrese al link de la lending page <br>
+    Entonces el sistema mostrará la landing page de la aplicación
 </td>
     <td align="center"></td>
   </tr>
-
-<tr>
-    <td align="center"><strong>US14</strong></td>
-    <td align="center">Visualización de Quienes Somos en el landing page</td>
-    <td align="center">Como un invitado, deseo visualizar una breve información acerca dela aplicación </td>
-    <td align="center">
-Escenario 1: Visualización de la sección de Acerca de <br>
-Dado que el invitado se encuentra en la landing page <br>
-Cuando selección "Acerca de" en la navegación <br>
-Entonces el sistema le redireccionará a la sección de "Acerca de"<br>
-</td>
-    <td align="center"></td>
-  </tr>
-
-<tr>
- <td align="center"><strong>US15</strong></td>
-    <td align="center">Visualización de los beneficios o compromíso de la aplicación</td>
-    <td align="center">Como un invitado, deseo visualizar los compromisos que ofrece la aplicación </td>
-    <td align="center">
-Escenario 1: Visualización de la sección compromiso <br>
-Dado que el invitado se encuentra en la landing page <br>
-Cuando selecciona "Acerca de" en la navegación <br>
-Entonces el sistema le redireccionará a la sección de "Acerca de" y mostrará la sección "Compromiso"<br>
-</td>
-    <td align="center"></td>
-  </tr>
-
-<tr>
- <td align="center"><strong>US16</strong></td>
-    <td align="center">Visualización de los testimonios acerca de la aplicación</td>
-    <td align="center">Como un invitado, deseo visualizar los testimonios de usuarios que utilizaron la aplicación</td>
-    <td align="center">
-Escenario 1: Visualización de la sección de testimonios <br>
-Dado que el invitado se encuentra en la landing page <br>
-Cuando selecciona "Testimonios" en la navegación <br>
-Entonces el sistema le redireccionará a la sección de "testimonios" y mostrará los testimonios de otros usuarios<br>
-</td>
-    <td align="center"></td>
-  </tr>
-
-<tr>
- <td align="center"><strong>US17</strong></td>
-    <td align="center">Call to action</td>
-    <td align="center">Como un invitado, deseo contactarme con la aplicación</td>
-    <td align="center">
-Escenario 1: Visualización de la sección Contacto <br>
-Dado que el invitado se encuentra en la landing page <br>
-Cuando selecciona "Contacto" en la navegación <br>
-Entonces el sistema le redireccionará a la sección de "Contacto" y mostrará los testimonios de otros usuarios<br>
-</td>
-    <td align="center"></td>
-  </tr>
-
 
 </table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### Impact Mapping
 
 ![Imgur](https://imgur.com/a4cGTDw.png)
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### Product Backlog
 
@@ -1106,21 +1085,21 @@ Entonces el sistema le redireccionará a la sección de "Contacto" y mostrará l
   </tr>
   <tr>
     <td align="center">2</td>
-    <td align="center">US09</td>
+    <td align="center">US08</td>
     <td align="center">Registro de mantenimientos del Auto</td>
     <td align="center">Como propietario, Deseo publicar el registro de mantenimiento de mi auto para que el usuario este al tanto del estado del auto.</td>
     <td align="center">5</td>
   </tr>
   <tr>
     <td align="center">3</td>
-    <td align="center">US10</td>
+    <td align="center">US09</td>
     <td align="center">Visualización de registro de mantenimiento</td>
     <td align="center">Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber el estado de este</td>
     <td align="center">5</td>
   </tr>
   <tr>
     <td align="center">4</td>
-    <td align="center">US08</td>
+    <td align="center">US10</td>
     <td align="center">Solicitud de Alquiler de auto</td>
     <td align="center">Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto</td>
     <td align="center">5</td>
@@ -1128,8 +1107,8 @@ Entonces el sistema le redireccionará a la sección de "Contacto" y mostrará l
 <tr>
     <td align="center">5</td>
     <td align="center">US11</td>
-    <td align="center">Solicitud de Alquiler de auto</td>
-    <td align="center">Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto</td>
+    <td align="center">Visualización de solicitudes</td>
+    <td align="center">Como propietario, Deseo visualizar las solicitudes de los arrendatarios interesados para asi poder realizar el contrato</td>
     <td align="center">3</td>
   </tr>
 <tr>
@@ -1177,46 +1156,15 @@ Entonces el sistema le redireccionará a la sección de "Contacto" y mostrará l
 <tr>
     <td align="center">12</td>
     <td align="center">US12</td>
-    <td align="center">Visualización de solicitudes</td>
-    <td align="center">Como propietario, Deseo visualizar las solicitudes de los arrendatarios interesados para asi poder realizar el contrato</td>
-    <td align="center">2</td>
-  </tr>
-<tr>
-    <td align="center">13</td>
-    <td align="center">US13</td>
     <td align="center">Visualización de un sitio web de información de la aplicación</td>
     <td align="center">Como un invitado, deseo visualizar una publicidad de la aplicación </td>
-    <td align="center">2</td>
-  </tr>
-<tr>
-    <td align="center">14</td>
-    <td align="center">US14</td>
-    <td align="center">Visualización de un sitio web de información de la aplicación</td>
-    <td align="center">Como un invitado, deseo visualizar una publicidad de la aplicación </td>
-    <td align="center">2</td>
-  </tr>
-<tr>
-    <td align="center">15</td>
-    <td align="center">US15</td>
-    <td align="center">Visualización de los beneficios o compromíso de la aplicación</td>
-    <td align="center">Como un invitado, deseo visualizar los compromisos que ofrece la aplicación </td>
-    <td align="center">2</td>
-  </tr>
-<tr>
-    <td align="center">16</td>
-    <td align="center">US16</td>
-    <td align="center">Visualización de los testimonios acerca de la aplicación</td>
-    <td align="center">Como un invitado, deseo visualizar los testimonios de usuarios que utilizaron la aplicación </td>
-    <td align="center">2</td>
-  </tr>
-<tr>
-    <td align="center">17</td>
-    <td align="center">US17</td>
-    <td align="center">Call to action</td>
-    <td align="center">Como un invitado, deseo contactarme con la aplicación </td>
     <td align="center">2</td>
   </tr>
 </table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # Capítulo IV: Product Design
 
@@ -1470,6 +1418,10 @@ Nuestro sistema de navegación en AutoYa! se ha diseñado pensando en la comodid
 <br>
 <br>
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## Landing Page UI Design
 
 ### Landing Page Wireframe
@@ -1487,6 +1439,10 @@ Hemos creado una representación inicial en forma de bosquejo de baja fidelidad 
 <br>
 <br>
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### Landing Page Mock-up
 
 <div style="text-align: justify;">
@@ -1498,6 +1454,10 @@ El Landing Page se desarrolló utilizando un prototipo de fidelidad intermedia e
 <p align="center">
   <img src="https://i.imgur.com/AkW3hUg.png" alt="Patrón de Diseño en Z de AutoYa!" width="400">
 </p>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## Web Applications UX/UI Design
 
@@ -1585,7 +1545,10 @@ EL usuario debe verificar el contrato de Alquiler  que el propietario del vehíc
 ![impur](./imagenes/img_wireframe/arrendatario/pagoon1.png)
 ![impur](./imagenes/img_wireframe/arrendatario/pagoon2.png)
 
----------------------------------------------------------
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 **PROPIETARIO (Persona que comparte su auto para alquiler):**
 
 **PERFIL DE USUARIO:** El usuario podra ver sus datos como Nombre , Apellido, Celular, Correo y Cantidad de vehículos Compartidos . El usuario  podrá cambiar su foto de perfil presionando el botón **Cambiar foto de perfil** ,también podra actualizar sus datos presionando el botón **Actualizar Datos** y también podra cerrar sesión en la cuenta presionando el botón **Cerrar Sesión**.
@@ -1664,6 +1627,9 @@ En esta ventana también estará disponible los boton de **Aceptar Alquiler** y 
 ![impur](./imagenes/img_wireframe/propietario/proalqui7.png)
 ![impur](./imagenes/img_wireframe/propietario/proalqui8.png)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### Web Applications Wireflow Diagrams
 
@@ -1677,6 +1643,9 @@ Link de Prototipo Interactivo en Figma:
 
 ![impur](./imagenes/img_wireflow/wireflow2.svg)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### Web Applications Mock-ups
 
@@ -1749,7 +1718,9 @@ Link de Prototipo Interactivo en Figma:
 ![impur](./imagenes/img_mockup/arrendatario/perfi7.png)
 ![impur](./imagenes/img_mockup/arrendatario/perfi8.png)
 
---------------------------------------------------------------------------------------------------------------------
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 **Mock-up de interfaz de usuario propietario**
 
@@ -1812,6 +1783,9 @@ Link de Prototipo Interactivo en Figma:
 ![impur](./imagenes/img_mockup/propietario/properfi4.png)
 ![impur](./imagenes/img_mockup/propietario/properfi5.png)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ### Web Applications User Flow Diagrams
 
@@ -1900,7 +1874,9 @@ Link para mejor visualización
 
 **Unhappy paths:** El arrendatario debe subir sus documentos de antecedente penales.
 
-------------------------------------------
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 **USUARIO (Propietario)**
 
@@ -1973,6 +1949,10 @@ Link para mejor visualización
 
 **Unhappy paths:** El propietario puede cerrar sesión presionando el botón CERRAR SESIÓN.
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## Web Applications Prototyping
 
 ### Desktop Prototyping
@@ -1986,6 +1966,9 @@ Enlace explicación: [clic al link](https://upcedupe-my.sharepoint.com/:v:/g/per
 
 Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA---web-application?type=design&node-id=0%3A1&mode=design&t=Df2V7wxJv7P3rjx9-1)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## Domain-Driven Software Architecture
 
@@ -2001,11 +1984,19 @@ Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA--
 
 ![Imgur](https://i.imgur.com/rHUOdiX.png)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ## Software Object-Oriented Design
 
 ### Class Diagrams
 
 ### Class Dictionary
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## Database Design
 
@@ -2015,6 +2006,9 @@ Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA--
 
 Link de Vertabelo: [clic al link](https://my.vertabelo.com/doc/OzQPFOH2UjXuWwvhpU1pYXPdOKOahJum)
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -2118,6 +2112,10 @@ En esta sección, el equipo establece las decisiones y convenciones para mantene
 <br>
 <br>
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### Source Code Management
 
 <div style="text-align: justify;">
@@ -2187,7 +2185,16 @@ utilizaremos para este proyecto son los siguientes:
 <br>
 <br>
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 ### Source Code Style Guide & Conventions
+
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 * HTML:
   
@@ -2267,6 +2274,7 @@ font-family: Arial, sans-serif;
 
 
 
+
 ### Software Deployment Configuration
 
 <div style="text-align: justify;">
@@ -2291,6 +2299,10 @@ Para implementar el despliegue de la página de inicio del proyecto, optaremos p
 
 <br>
 <br>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 ## Landing Page, Services & Applications Implementation
 
@@ -2352,6 +2364,10 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
     <td align="center">No aplica</td>
   </tr>
 </table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 #### Sprint Backlog 1
 
@@ -2486,6 +2502,10 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
   </tr>
 </table>
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 #### Development Evidence for Sprint Review
 
 <table>
@@ -2506,6 +2526,10 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
     <td align="center">04/09/2021</td>
   </tr>
 </table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 #### Testing Suite Evidence for Sprint Review
 
@@ -2528,13 +2552,341 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
   </tr>
 </table>
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 #### Execution Evidence for Sprint Review
 
+En esta entrega nos enfocamos del desarrollo del Landing Page desplegado. La landing page se enfoca en lo que ofrecemos como negocio, el alquiler de autos no  solo para personas que deseen alquilar un auto sino tambien para personas que deseen compartir su auto. A partir de esto se planteo el desarrollo del landing page , para informar a los usuario como funciona ese este servicio mediante una interfaz llamativa .
+
+![impur](https://i.postimg.cc/50nL6PbB/Captura-de-pantalla-2023-09-26-122912.png)
+![impur](https://i.postimg.cc/5yyvvw2Z/Captura-de-pantalla-2023-09-26-122944.png)
+![impur](https://i.postimg.cc/G2cv30w3/Captura-de-pantalla-2023-09-26-122959.png)
+![impur](https://i.postimg.cc/mr3QGLn6/Captura-de-pantalla-2023-09-26-123022.png)
+![impur](https://i.postimg.cc/cJGQjgFn/Captura-de-pantalla-2023-09-26-123034.png)
+![impur](https://i.postimg.cc/MpQ7dbmw/Captura-de-pantalla-2023-09-26-123047.png)
+
 #### Services Documentation Evidence for Sprint Review
+
+Nuestra aplicacion AUTOYA! es una plataforma  que permite el alquiler de vehículos entre propietarios y arrendatarios. Para el desarrollo de este proyecto hemos utilizado muchas herracmientas como por ejemplo.
+
+*HTML (HyperText Markup Language)* : Usamos  HTML para la estructura del contenido del landing page. 
+
+*CSS (Cascading Style Sheets)* :CSS se uso para dar estilo a la plataforma y mejorar la presentación visual y la experiencia del usuario.
+
+*JavaScript* :JavaScript se ha implementado para agregar dinamismo a la plataforma. 
+
+*GitHub*: Hemos creado un repositorio en GitHub para realizar un seguimiento de los cambios en el código. 
+
+*GitHub Pages*: GitHub Pages se ha utilizado para alojar y publicar nuestra página web de manera gratuita. 
+
+#### Software Deployment Evidence for Sprint Review
+
+Para esta primera entrega se logro  implementar el landing Page donde se encuentra la información detallada de nuestra StartUp.
+Presentamos:
+
+URL (Link desplegado de Landing Page(AUTOYA!)):
+
+ https://grupo-2-open-source.github.io/Landing_Page/index.html#download
+
+#### Team Collaboration Insights during Sprint
+
+![impur](https://i.postimg.cc/wBMjXJRp/Captura-de-pantalla-2023-09-26-131808.png)
+![impur](https://i.postimg.cc/rwQpRgmj/Captura-de-pantalla-2023-09-26-131939.png)
+
+
+### Sprint 2
+
+#### Sprint Planning 2
+
+Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Cada integrante del equipo estuvo presente en dicha conversación y acordó cumplir con la tarea asignada.
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2023-09-24</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">7:00 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por WhatsApp</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Chamorro Torres, Samuel Rolando<br>Meza Camayo, Lynn Jefferson<br>Ruiz Torres, Erick Hernan<br>Urbizagastegui Alvarez, Erick Gabriel</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 – 1 Review Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 – 1 Retrospective Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 Goal</td>
+    <td align="center">Se debe completar las vistas del Frontend en Webstorm y completar el Sprint 2</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">4 dias</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table>
+
+
+![impur](https://i.postimg.cc/13t9f3RT/Captura-de-pantalla-2023-09-26-145302.png)
+
+Link en Trello: https://trello.com/invite/b/rJnnrgx7/ATTIefea3ec5c3ec614f28c015d2a7017aeeD2E218A3/autoya
+
+
+
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+#### Sprint Backlog 2
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</td>
+    <td colspan="7" align="center"><strong>1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">US05</td>
+    <td align="center">Implementacion de LOGIN</td>
+    <td align="center">Se implemento el login en el frontend para el usuario arrendatario y propietario</td>
+    <td align="center">24</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">US01/US02</td>
+    <td align="center">Implementacion de Registro</td>
+    <td align="center">Se implemento en el Frontend el registro para Arendatario y Propietario</td>
+    <td align="center">48</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">US011</td>
+    <td align="center">Implementacion de Notificaciones</td>
+    <td align="center">Se implemento en el Frontend la seccion de Notificaciones para el propietario</td>
+    <td align="center">2</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">Implementacion de Inicio Principal</td>
+    <td align="center">En el Frontend se implemento la Seccion de Inicio principal para el usuario Arrendatario y Propietario</td>
+    <td align="center">2</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">Entrevista Lynn</td>
+    <td align="center">Realizar entrevista a segmento objetivo</td>
+    <td align="center">2</td>
+    <td align="center">Meza Camayo, Lynn Jefferson</td>
+    <td align="center">In-Process</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">Capítulo 3</td>
+    <td align="center">Completar el capítulo 3</td>
+    <td align="center">36</td>
+    <td align="center">Meza Camayo, Lynn Jefferson</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">Style Guidelines, Information Architecture, Landing Page UI Design</td>
+    <td align="center">Completar los Style Guidelines, Information Architecture, Landing Page UI Design</td>
+    <td align="center">240</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">Web Applications UX/UI Design, Web Applications Prototyping</td>
+    <td align="center">Completar los Web Applications UX/UI Design, Web Applications Prototyping</td>
+    <td align="center">192</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">Domain-Driven Software Architecture</td>
+    <td align="center">Completar el Domain-Driven Software Architecture</td>
+    <td align="center">4</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">Software Object-Oriented Design</td>
+    <td align="center">Completar el Software Object-Oriented Design</td>
+    <td align="center">4</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">In-Proggres</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">Database Design</td>
+    <td align="center">Completar el Database Design</td>
+    <td align="center">4</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+</table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+#### Development Evidence for Sprint Review
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">login/Frontend-Web-Application-G2</td>
+    <td align="center">main</td>
+    <td align="center">f3596e9c43c1e22b0826e4165f1b4a119ae7853a</td>
+    <td align="center">style: estilos de login-tenant.component and login-owner.component</td>
+    <td align="center">estructura y estilo de componente login-tenant y login owner</td>
+    <td align="center">23/09/2023</td>
+  </tr>
+    <tr>
+    <td align="center">login/Frontend-Web-Application-G2</td>
+    <td align="center">main</td>
+    <td align="center">b4f999a61797d7e62acc7e5166bb20ce0494e2c5</td>
+    <td align="center">shore: agregado de componente recover-password </td>
+    <td align="center">estructura y estilo de componente recover-password para tenant y owner.</td>
+    <td align="center">23/09/2023</td>
+  </tr>
+   <tr>
+    <td align="center">main-page/Frontend-Web-Application-G2</td>
+    <td align="center">main</td>
+    <td align="center">08ada3d64613a2a51c71646367d500378db28700</td>
+    <td align="center">Style: Estructura de main-page-tenant and main-page.owner</td>
+    <td align="center">estructura y estilo de componente main-page-tenant y main-page-owner</td>
+    <td align="center">23/09/2023</td>
+  </tr>
+     <tr>
+    <td align="center">main-page/notifications/Frontend-Web-Application-G2</td>
+    <td align="center">main</td>
+    <td align="center">c3bfe20f9d2fbdf5d2d49b406712d882bfcba7ba</td>
+    <td align="center">shore and style: estructura y estilos de notifications-owner</td>
+    <td align="center">estructura y estilo de componente notifications</td>
+    <td align="center">24/09/2023</td>
+  </tr>
+</table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+#### Testing Suite Evidence for Sprint Review
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">user/repositoryname</td>
+    <td align="center">feature/loremipsum</td>
+    <td align="center">14ca4e3</td>
+    <td align="center">feat: consectetur adipiscing elit</td>
+    <td align="center">Curabitur quis placerat nulla. Fusce malesuada faucibus quam, ut condimentumvelit rutrum ut.</td>
+    <td align="center">04/09/2021</td>
+  </tr>
+</table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+#### Execution Evidence for Sprint Review
+
+En esta entrega nos enfocamos en el desarrollo del Frontend de nuestra Aplicacion Web , dentro de ella estara implementada las vistas con las cuales el usuario podra interactuar. El frontend se creo a partir del prototipo planteado en los mockup y siguiendo los user stories.
+
+EVICENCIA--colocar fotos de ejecucion
+
+#### Services Documentation Evidence for Sprint Review
+
+Para la creación de la plataforma,en esta caso para el desarrollo del Fronted se utilizo lo siguiente.
+
+**Webstorm (IDE DE DESARROLLO)**: Hemos utilizado Webstorm como IDE para el desarrollo de nuestro Frontend.
+
+**ANGULAR (Frameworks)**: Utilizamos Angular como Frameworks de trabajo.
+
+**TypeScript**: Typescript se ha implementado para agregar interactividad y logica a los componentes de la plataforma. 
+
+**GitHub** :Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código. 
+
 
 #### Software Deployment Evidence for Sprint Review
 
 #### Team Collaboration Insights during Sprint
+
+
+
+
+
+
+
+
+
+
+
 
 ## Validation Interviews
 
@@ -2552,9 +2904,17 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
 
 ## Video About-the-Team
 
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
 # Bibliografía
 
 - El Comercio. (2023). _Alquiler de autos: ciudadano denunció pérdida de 7.600 soles por la retención de garantía y empresa responde._ Recuperado de [https://elcomercio.pe/pasa-en-la-calle/alquiler-de-autos-ciudadano-denuncio-perdida-de-7600-soles-por-la-retencion-de-garantia-y-empresa-responde-automoviles-venta-renta-noticia/](https://elcomercio.pe/pasa-en-la-calle/alquiler-de-autos-ciudadano-denuncio-perdida-de-7600-soles-por-la-retencion-de-garantia-y-empresa-responde-automoviles-venta-renta-noticia/) [Consulta: 1 de setiembre de 2023].
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
 
 # Anexos
 - Repositorio del Informe del Trabajo: [https://github.com/Grupo-2-Open-Source/Informe_de_trabajo](https://github.com/Grupo-2-Open-Source/Informe_de_trabajo)
