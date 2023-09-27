@@ -2116,7 +2116,48 @@ Figma: [clic al link](https://www.figma.com/file/6r8jIOxrw6hVRB7F36QlH7/AUTOYA--
 
 ### Class Diagrams
 
+![Imgur](https://i.imgur.com/oaBQtRP.png)
+![Imgur](https://i.imgur.com/c9lCEFA.png)
+![Imgur](https://i.imgur.com/FAZJC3b.png)
+
 ### Class Dictionary
+
+- Usuario: Esta clase representa a los usuarios de la plataforma. Los usuarios pueden ser tanto arrendatarios que buscan alquilar un automóvil como propietarios que desean poner su automóvil en alquiler. Almacena información como nombre, correo electrónico, contraseña, datos de contacto, y otros detalles relevantes de la cuenta del usuario.
+- Vehiculo: Esta clase modela los vehículos que están disponibles para ser alquilados en la plataforma. Contiene información sobre el modelo del automóvil, año de fabricación, características técnicas, tarifas de alquiler y detalles relacionados con el vehículo.
+- Notificaciones: Esta clase gestiona las notificaciones que se envían a los usuarios. Puede incluir notificaciones sobre reservas, actualizaciones de estado del automóvil o cualquier otra información relevante para los usuarios.
+- Solicitud: Esta clase representa las solicitudes de alquiler realizadas por los arrendatarios para un vehículo en particular. Puede incluir detalles sobre las fechas de inicio y finalización del alquiler, la ubicación de recogida, el estado de la solicitud y otra información relacionada con la reserva.
+- Pago: Esta clase maneja la información de pagos realizados por los arrendatarios por el alquiler de vehículos. Puede incluir datos sobre los métodos de pago utilizados, montos pagados, fechas de pago y cualquier otro detalle financiero relevante.
+- Alquiler: Esta clase registra los alquileres de vehículos específicos. Contiene información sobre el vehículo alquilado, el arrendatario, las fechas de inicio y finalización del alquiler, el estado del alquiler y otros detalles relacionados con la transacción de alquiler.
+- Registro: Esta clase gestiona el registro y la autenticación de usuarios en la plataforma. Puede contener funciones relacionadas con la creación de cuentas de usuario, el inicio de sesión, la recuperación de contraseñas y la seguridad de las cuentas.
+- Cuenta: Esta clase representa la información de la cuenta de usuario, incluyendo detalles como el saldo, historial de transacciones, preferencias de notificación y otra información relacionada con la cuenta.
+- Contrato: Esta clase puede estar relacionada con los contratos legales entre arrendatarios y propietarios de vehículos. Puede contener información sobre los términos y condiciones del alquiler, responsabilidades legales y cualquier acuerdo específico entre las partes involucradas en la transacción de alquiler.
+- UsuarioRepository: Este repositorio proporciona métodos para acceder y gestionar los datos de los usuarios en la base de datos. Esto incluye la recuperación de información de usuario, la creación de nuevos usuarios y la actualización de detalles de usuario.
+- VehiculoRepository: Este repositorio maneja la persistencia de datos relacionados con los vehículos disponibles para alquiler. Ofrece operaciones para recuperar información sobre vehículos, crear nuevos registros de vehículos y actualizar detalles de vehículos existentes.
+- NotificacionesRepository: Este repositorio se encarga de almacenar y recuperar notificaciones que se envían a los usuarios. Puede incluir métodos para registrar nuevas notificaciones y recuperar notificaciones específicas para un usuario.
+- SolicitudRepository: Este repositorio administra las solicitudes de alquiler realizadas por los usuarios. Proporciona operaciones para crear solicitudes de alquiler, actualizar su estado y recuperar información relacionada con las solicitudes.
+- PagoRepository: Este repositorio gestiona los datos de pagos relacionados con los alquileres de vehículos. Ofrece métodos para registrar pagos, consultar historiales de pagos y actualizar información de transacciones financieras.
+- AlquilerRepository: Este repositorio se encarga de la gestión de los registros de alquiler de vehículos. Contiene métodos para crear registros de alquiler, actualizar su estado y recuperar información detallada sobre los alquileres.
+- RegistroRepository: Este repositorio administra la información relacionada con el registro y la autenticación de usuarios. Puede incluir operaciones para crear cuentas de usuario, autenticar usuarios y gestionar la seguridad de las cuentas.
+- CuentaRepository: Este repositorio almacena información sobre las cuentas de usuario, como saldos y registros de transacciones. Proporciona métodos para consultar saldos, realizar transacciones financieras y administrar preferencias de cuenta.
+- ContratoRepository: Este repositorio puede gestionar información relacionada con los contratos legales entre arrendatarios y propietarios. Puede incluir operaciones para crear y consultar contratos, así como para registrar los términos y condiciones acordados.
+- UsuarioService: Este servicio contiene la lógica de negocio relacionada con la gestión de usuarios, como el registro, la autenticación y la gestión de cuentas de usuario.
+- VehiculoService: Este servicio maneja las operaciones relacionadas con la gestión de vehículos, incluyendo la creación, actualización y búsqueda de vehículos disponibles.
+- NotificacionesService: Este servicio se encarga de la lógica relacionada con el envío y la gestión de notificaciones a los usuarios.
+- SolicitudService: Este servicio contiene la lógica para gestionar las solicitudes de alquiler, incluyendo la creación, actualización y procesamiento de las mismas.
+- PagoService: Este servicio maneja la lógica de procesamiento de pagos relacionados con los alquileres de vehículos.
+- AlquilerService: Este servicio gestiona la lógica relacionada con la creación y el seguimiento de los alquileres de vehículos.
+- RegistroService: Este servicio se encarga de la lógica de registro y autenticación de usuarios en la plataforma.
+- CuentaService: Este servicio contiene la lógica relacionada con la gestión de cuentas de usuario, incluyendo la consulta de saldos y la realización de transacciones.
+- ContratoService: Este servicio puede manejar la lógica relacionada con la gestión de contratos legales entre arrendatarios y propietarios de vehículos.
+- UsuarioController: Este controlador maneja las solicitudes HTTP relacionadas con la gestión de usuarios, como el registro, la autenticación y la actualización de cuentas.
+- VehiculoController: Este controlador se encarga de las solicitudes HTTP relacionadas con la gestión de vehículos, incluyendo la creación, actualización y búsqueda de vehículos disponibles.
+- NotificacionesController: Este controlador maneja las solicitudes HTTP relacionadas con el envío y la recepción de notificaciones a través de la plataforma.
+- SolicitudController: Este controlador gestiona las solicitudes HTTP relacionadas con las solicitudes de alquiler, incluyendo la creación, actualización y procesamiento de las mismas.
+- PagoController: Este controlador maneja las solicitudes HTTP relacionadas con el procesamiento de pagos en el sistema.
+- AlquilerController: Este controlador se encarga de las solicitudes HTTP relacionadas con la gestión de alquileres de vehículos.
+- RegistroController: Este controlador maneja las solicitudes HTTP relacionadas con el registro y la autenticación de usuarios.
+- CuentaController: Este controlador gestiona las solicitudes HTTP relacionadas con la consulta de saldos de cuentas y la realización de transacciones financieras.
+- ContratoController: Este controlador puede manejar las solicitudes HTTP relacionadas con la gestión de contratos legales entre arrendatarios y propietarios de vehículos.
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
