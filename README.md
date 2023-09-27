@@ -2931,7 +2931,6 @@ Link en Trello: https://trello.com/invite/b/rJnnrgx7/ATTIefea3ec5c3ec614f28c015d
 
 En esta entrega nos enfocamos en el desarrollo del Frontend de nuestra Aplicacion Web , dentro de ella estara implementada las vistas con las cuales el usuario podra interactuar. El frontend se creo a partir del prototipo planteado en los mockup y siguiendo los user stories.
 
-EVICENCIA--colocar fotos de ejecucion
 
 #### Services Documentation Evidence for Sprint Review
 
