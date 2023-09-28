@@ -3036,7 +3036,7 @@ Para la creación de la plataforma,en esta caso para el desarrollo del Fronted s
 
 Para esta primera entrega se logro implementar el Fron-end de la aplicación.
 <br>
-Presentamos:URL (Link desplegado de Landing Page(AUTOYA!)):
+Presentamos:URL (Link desplegado de Frontend(AUTOYA!)):
 https://frontend-autoya.web.app/login-tenant
 
 #### Team Collaboration Insights during Sprint
@@ -3081,6 +3081,11 @@ https://frontend-autoya.web.app/login-tenant
 
 # Anexos
 - Repositorio del Informe del Trabajo: [https://github.com/Grupo-2-Open-Source/Informe_de_trabajo](https://github.com/Grupo-2-Open-Source/Informe_de_trabajo)
+
+- Repositorio del Proyecto Frontend: [https://github.com/Grupo-2-Open-Source/Frontend-Web-Application-G2](https://github.com/Grupo-2-Open-Source/Frontend-Web-Application-G2)
+
+- Link de Frontend Desplegado: [https://frontend-autoya.web.app/login-tenant](https://frontend-autoya.web.app/login-tenant)
+
 - Registro de entrevistas 1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 - Landing Page: [https://grupo-2-open-source.github.io/Landing_Page/](https://grupo-2-open-source.github.io/Landing_Page/)
 - Frontend desplegado: [https://frontend-autoya.web.app/login-tenant](https://frontend-autoya.web.app/login-tenant)
