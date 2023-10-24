@@ -3061,9 +3061,175 @@ https://frontend-autoya.web.app/login-tenant
 
 ### Evaluaciones según heurísticas
 
+**Grupo # auditor - Grupo 2 Auditado**
+
+**SITE o APP A EVALUAR:**
+
+Nombre de App
+
+**TAREAS A EVALUAR:**
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. 
+2.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. 
+2.
+**ESCALA DE SEVERIDAD:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table>
+  <tr>
+    <td align="center"><strong>Nivel</strong></td>
+    <td align="center"><strong>Descricpion</strong></td>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td align="center">Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+  </tr>
+  <tr>
+    <td align="center">2</td>
+    <td align="center">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil desuperar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td align="center">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+  </tr>
+  <tr>
+    <td align="center">4</td>
+    <td align="center">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+  </tr>
+  
+</table>
+
+**TABLA RESUMEN:**
+<table>
+  <tr>
+    <td align="center"><strong>#</strong></td>
+    <td align="center"><strong>Problema</strong></td>
+    <td align="center"><strong>Escala de Severidad</strong></td>
+    <td align="center"><strong>Heurística/Principio violada(o)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td align="center">------</td>
+    <td align="center">---</td>
+    <td align="center">---</td>
+  </tr>
+    <tr>
+    <td align="center">2</td>
+    <td align="center">------</td>
+    <td align="center">---</td>
+    <td align="center">---</td>
+  </tr>
+    <tr>
+    <td align="center">3</td>
+    <td align="center">------</td>
+    <td align="center">---</td>
+    <td align="center">---</td>
+  </tr>
+    <tr>
+    <td align="center">4</td>
+    <td align="center">------</td>
+    <td align="center">---</td>
+    <td align="center">---</td>
+  </tr>
+  
+</table>
+
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+..............
+
+
+**Grupo 2 auditor - Grupo # Auditado**
+
+**SITE o APP A EVALUAR:**
+
+Nombre de App
+
+**TAREAS A EVALUAR:**
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. 
+2.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. 
+2.
+**ESCALA DE SEVERIDAD:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table>
+  <tr>
+    <td align="center"><strong>Nivel</strong></td>
+    <td align="center"><strong>Descricpion</strong></td>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td align="center">Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+  </tr>
+  <tr>
+    <td align="center">2</td>
+    <td align="center">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil desuperar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+  </tr>
+  <tr>
+    <td align="center">3</td>
+    <td align="center">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+  </tr>
+  <tr>
+    <td align="center">4</td>
+    <td align="center">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+  </tr>
+  
+</table>
+
+**TABLA RESUMEN:**
+<table>
+  <tr>
+    <td align="center"><strong>#</strong></td>
+    <td align="center"><strong>Problema</strong></td>
+    <td align="center"><strong>Escala de Severidad</strong></td>
+    <td align="center"><strong>Heurística/Principio violada(o)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">1</td>
+    <td align="center">------</td>
+    <td align="center">---</td>
+    <td align="center">---</td>
+  </tr>
+    <tr>
+    <td align="center">2</td>
+    <td align="center">------</td>
+    <td align="center">---</td>
+    <td align="center">---</td>
+  </tr>
+    <tr>
+    <td align="center">3</td>
+    <td align="center">------</td>
+    <td align="center">---</td>
+    <td align="center">---</td>
+  </tr>
+    <tr>
+    <td align="center">4</td>
+    <td align="center">------</td>
+    <td align="center">---</td>
+    <td align="center">---</td>
+  </tr>
+  
+</table>
+
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+..............
+
 ## Video About-the-Product
 
-# Conclusiones
+Link del Video: [colocar link](-----)
+
 
 ## Conclusiones y recomendaciones
 
@@ -3075,6 +3241,8 @@ https://frontend-autoya.web.app/login-tenant
 - Se concluyo con respecto al desarrollo del proyecto que el uso del Framework Angular fue de gran ayuda ya que se pudo hacer uso de componentes y esto ayudo a una mejor organización del proyecto.
   
 ## Video About-the-Team
+
+Link del Video: [colocar link](-----)
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
