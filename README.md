@@ -3237,12 +3237,12 @@ Link en Trello: PEGAR LINK
     <td align="center"><strong>Commited on (Date)</strong></td>
   </tr>
   <tr>
-    <td align="center">login/Frontend-Web-Application-G2</td>
+    <td align="center">domain/autoya/Backend-Web-Applications-1</td>
     <td align="center">main</td>
-    <td align="center">f3596e9c43c1e22b0826e4165f1b4a119ae7853a</td>
-    <td align="center">style: estilos de login-tenant.component and login-owner.component</td>
-    <td align="center">estructura y estilo de componente login-tenant y login owner</td>
-    <td align="center">23/09/2023</td>
+    <td align="center">8d370a1243e10562c6e2d8f0c92f53a9230b409f</td>
+    <td align="center">shore : cambios</td>
+    <td align="center">Cambios en Entidad clase Vehículo</td>
+    <td align="center">28/10/2023</td>
   </tr>
     <tr>
     <td align="center">login/Frontend-Web-Application-G2</td>
