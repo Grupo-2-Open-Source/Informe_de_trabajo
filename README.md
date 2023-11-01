@@ -3334,11 +3334,27 @@ User flow para las tareas asignadas
 
 ### Registro de Entrevistas
 
-**Entrevista 1** (Arrendatario)
+**Entrevista 1**
+
 *Captura de entrevista:*
+
 ![Imgur](https://i.postimg.cc/T1NqjW6y/Captura-de-pantalla-2023-10-30-182620.png)
 
-Valeria Nevado realizó la tarea de registrar un auto como propietario. La experiencia en general que tuvo fue buena, pero manifestó que el botón subir contrato en pdf no funcionaba y que eso debería arreglarse.
+**Entrevista 5**
+
+*Captura de entrevista*
+
+![Imgur](https://i.imgur.com/LxIYjbV.png)
+
+Valeria Nevado realizó la tarea de crear un contrato de alquiler. La experiencia en general que tuvo fue buena, pero manifestó que el botón subir contrato en pdf no funcionaba y que eso debería arreglarse.
+
+**Entrevista 6**
+
+*Captura de entrevista*
+
+![Imgur](https://i.imgur.com/DTPmX9I.png)
+
+Josty Tafur realizó la tarea de registrar un auto. La experiencia que él tuvo fue buena, pero mencionó que sería mejor que luego de crear una cuenta de algún tipo de usuario, se te redireccione al login de ese mismo tipo de usuario.
 
 **Entrevista 2** 
 ![Imgur](https://imgur.com/yGiVnFL.png)
