@@ -156,20 +156,19 @@ Para la elaboración del informe se utilizó un documento Markdown, el cual fue 
       - [Software Deployment Evidence for Sprint Review](#software-deployment-evidence-for-sprint-review-1)
       - [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint-1)
     - [Sprint 3](#sprint-3)
-      - [Sprint Planning 2](#sprint-planning-3)
-      - [Sprint Backlog 2](#sprint-backlog-3)
-      - [Development Evidence for Sprint Review](#development-evidence-for-sprint-review-3)
-      - [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review-3)
-      - [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review-3)
-      - [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review-3)
-      - [Software Deployment Evidence for Sprint Review](#software-deployment-evidence-for-sprint-review-3)
-      - [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint-3)
+      - [Sprint Planning 3](#sprint-planning-3)
+      - [Sprint Backlog 3](#sprint-backlog-3)
+      - [Development Evidence for Sprint Review](#development-evidence-for-sprint-review-2)
+      - [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review-2)
+      - [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review-2)
+      - [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review-2)
+      - [Software Deployment Evidence for Sprint Review](#software-deployment-evidence-for-sprint-review-2)
+      - [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint-2)
   - [Validation Interviews](#validation-interviews)
     - [Diseño de Entrevistas](#diseño-de-entrevistas-1)
     - [Registro de Entrevistas](#registro-de-entrevistas-1)
     - [Evaluaciones según heurísticas](#evaluaciones-según-heurísticas)
   - [Video About-the-Product](#video-about-the-product)
-- [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
@@ -3053,11 +3052,289 @@ https://frontend-autoya.web.app/login-tenant
 ![Imgur](https://imgur.com/t4XDAz7.png)
 ![Imgur](https://imgur.com/YOLqu04.png)
 
+### Sprint 3
+
+#### Sprint Planning 3
+
+Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Cada integrante del equipo estuvo presente en dicha conversación y acordó cumplir con la tarea asignada.
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>3</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2023-10-25</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">7:00 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por WhatsApp</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Chamorro Torres, Samuel Rolando<br>Meza Camayo, Lynn Jefferson<br>Ruiz Torres, Erick Hernan<br>Urbizagastegui Alvarez, Erick Gabriel</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 – 2 Review Summary</td>
+    <td align="center">Se implementó el frontend de la aplicación.</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 – 2 Retrospective Summary</td>
+    <td align="center">Se implementó el frontend de AutoYa! y se usó un fakeAPI para poder consumir datos.</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 Goal</td>
+    <td align="center">Se debe realizar un avance del backend de la aplicación.</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">7 días</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table>
+
+
+![impur](Link de la imagen de Trello)
+
+Link en Trello: PEGAR LINK
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+#### Sprint Backlog 3
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">US05</td>
+    <td align="center">Implementacion de LOGIN</td>
+    <td align="center">Se implemento el login en el frontend para el usuario arrendatario y propietario</td>
+    <td align="center">24</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">US01/US02</td>
+    <td align="center">Implementacion de Registro</td>
+    <td align="center">Se implemento en el Frontend el registro para Arendatario y Propietario</td>
+    <td align="center">48</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">US011</td>
+    <td align="center">Implementacion de Notificaciones</td>
+    <td align="center">Se implemento en el Frontend la seccion de Notificaciones para el propietario</td>
+    <td align="center">2</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">Implementacion de Inicio Principal</td>
+    <td align="center">En el Frontend se implemento la Seccion de Inicio principal para el usuario Arrendatario y Propietario</td>
+    <td align="center">2</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">Implementación de Perfil</td>
+    <td align="center">Se implementó el apartado de perfil en el frontend para el usuario arrendatario y propietario</td>
+    <td align="center">2</td>
+    <td align="center">Meza Camayo, Lynn Jefferson</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">Implementación de Solicitudes</td>
+    <td align="center">Se implementó el apartado de solicitudes para el usuario arrendatario</td>
+    <td align="center">36</td>
+    <td align="center">Meza Camayo, Lynn Jefferson</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">Implementación de Búsqueda de Autos</td>
+    <td align="center">Se implementó el apartado de Búsuqeda de Autos para el arrendatario</td>
+    <td align="center">240</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">Implementación de Mantenimiento</td>
+    <td align="center">Se implementó el apartado de Mantenimiento de Autos para el arrendatario</td>
+    <td align="center">240</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">Implementación de Registro Vehicular</td>
+    <td align="center">Se implementó el apartado de Registro Vehicular para el propietario</td>
+    <td align="center">4</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">Implementación de Alquiler</td>
+    <td align="center">Se implementó el apartado de Alquiler para el arrendatario y el propietario</td>
+    <td align="center">4</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">Done</td>
+  </tr>
+</table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+#### Development Evidence for Sprint Review
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">login/Frontend-Web-Application-G2</td>
+    <td align="center">main</td>
+    <td align="center">f3596e9c43c1e22b0826e4165f1b4a119ae7853a</td>
+    <td align="center">style: estilos de login-tenant.component and login-owner.component</td>
+    <td align="center">estructura y estilo de componente login-tenant y login owner</td>
+    <td align="center">23/09/2023</td>
+  </tr>
+    <tr>
+    <td align="center">login/Frontend-Web-Application-G2</td>
+    <td align="center">main</td>
+    <td align="center">b4f999a61797d7e62acc7e5166bb20ce0494e2c5</td>
+    <td align="center">shore: agregado de componente recover-password </td>
+    <td align="center">estructura y estilo de componente recover-password para tenant y owner.</td>
+    <td align="center">23/09/2023</td>
+  </tr>
+   <tr>
+    <td align="center">main-page/Frontend-Web-Application-G2</td>
+    <td align="center">main</td>
+    <td align="center">08ada3d64613a2a51c71646367d500378db28700</td>
+    <td align="center">Style: Estructura de main-page-tenant and main-page.owner</td>
+    <td align="center">estructura y estilo de componente main-page-tenant y main-page-owner</td>
+    <td align="center">23/09/2023</td>
+  </tr>
+     <tr>
+    <td align="center">main-page/notifications/Frontend-Web-Application-G2</td>
+    <td align="center">main</td>
+    <td align="center">c3bfe20f9d2fbdf5d2d49b406712d882bfcba7ba</td>
+    <td align="center">shore and style: estructura y estilos de notifications-owner</td>
+    <td align="center">estructura y estilo de componente notifications</td>
+    <td align="center">24/09/2023</td>
+  </tr>
+</table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+#### Testing Suite Evidence for Sprint Review
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">ErickUrbizagastegui/Informe_de_trabajo</td>
+    <td align="center">main</td>
+    <td align="center">5dd3029e0020d914503effd7c81db14d01754c8b</td>
+    <td align="center">Agregados acceptance tests gherkin</td>
+    <td align="center">Agregados los archivos .feature con los acceptance tests en gherkin.</td>
+    <td align="center">26/09/2021</td>
+  </tr>
+</table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+#### Execution Evidence for Sprint Review
+
+
+
+#### Services Documentation Evidence for Sprint Review
+
+
+
+#### Software Deployment Evidence for Sprint Review
+
+
+
+#### Team Collaboration Insights during Sprint
+
 ## Validation Interviews
 
 ### Diseño de Entrevistas
 
+Primero los entrevistadores se presentarán y preguntarán al entrevistado su información personal. Luego de esto, el entrevistador dará un pequeño resumen al entrevistado acerca de la aplicación, para luego explicarle la tarea que deberá realizar.
+
+Preguntas para los entrevistados (arrendatarios y propietarios)
+
+1. ¿Cuál es su nombre completo?
+2. ¿Cuántos años tiene?
+3. ¿Cuál es su ocupación?
+4. ¿Cuál es su distrito o departamento de residencia?
+
+User flow para las tareas asignadas
+
+- El entrevistado deberá comenzar creando una cuenta según el tipo de usuario que sea.
+- El entrevistado iniciará sesión.
+- El entrevistado seguirá la ruta definida por el entrevistador para poder realizar la tarea asignada.
+
 ### Registro de Entrevistas
+
+Valeria Nevado realizó la tarea de registrar un auto como propietario. La experiencia en general que tuvo fue buena, pero manifestó que el botón subir contrato en pdf no funcionaba y que eso debería arreglarse.
 
 ### Evaluaciones según heurísticas
 
