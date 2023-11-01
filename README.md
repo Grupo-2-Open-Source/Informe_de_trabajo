@@ -3340,6 +3340,17 @@ User flow para las tareas asignadas
 
 ![Imgur](https://i.postimg.cc/T1NqjW6y/Captura-de-pantalla-2023-10-30-182620.png)
 
+
+**Entrevista 2**
+*Captura de entrevista*
+![Imgur](https://imgur.com/yGiVnFL.png)
+Dennis Castañeda Vilcapoma, estudiante de la UPC, tiene 23 años. Realizó la tarea de visualización de autos alquilados, comento que la tarea fue sencilla y que no es confuso el interfaz con palabras puntuales, pero hay algunos puntos vacíos que falta sus funciones.
+
+**Entrevista 3**
+*Captura de entrevista*
+![Imgur](https://imgur.com/cVbwNcE.png)
+Pieero Ricaldi Solis, realizó la tarea de visualización de solicitudes de vehículos. La tarea y experiencia en general due sencilla, las secciones funcionan bien y no es nada confusa. 
+
 **Entrevista 5**
 
 *Captura de entrevista*
@@ -3355,6 +3366,8 @@ Valeria Nevado realizó la tarea de crear un contrato de alquiler. La experienci
 ![Imgur](https://i.imgur.com/DTPmX9I.png)
 
 Josty Tafur realizó la tarea de registrar un auto. La experiencia que él tuvo fue buena, pero mencionó que sería mejor que luego de crear una cuenta de algún tipo de usuario, se te redireccione al login de ese mismo tipo de usuario.
+
+
 
 ### Evaluaciones según heurísticas
 
