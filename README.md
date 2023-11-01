@@ -3329,7 +3329,11 @@ En esta entrega nos enfocamos en el desarrollo del Backend para nuestra Aplicaci
 
 #### Software Deployment Evidence for Sprint Review
 
-
+Para la creación del backend del proyecto se utilizó lo siguiente:
+- IntellIJ Ultimate (IDE de desarrollo): Hemos usado IntellIJ para el desarrollo de nuestro backend.
+- Spring Boot: Spring Boot simplifica el desarrollo de aplicaciones Java al proporcionar un marco eficiente y productivo para crear aplicaciones web y microservicios en nuestro proyecto.
+- MySQL: Se seleccionó MySQL para poder desarrollar la base de datos de nuestro proyecto.
+- Postman API: Se utilizó Postman API para realizar las pruebas de envío de datos de nuestro proyecto.
 
 #### Team Collaboration Insights during Sprint
 
@@ -3354,11 +3358,45 @@ User flow para las tareas asignadas
 
 ### Registro de Entrevistas
 
-**Entrevista 1** (Arrendatario)
+**Entrevista 1**
+
 *Captura de entrevista:*
+
 ![Imgur](https://i.postimg.cc/T1NqjW6y/Captura-de-pantalla-2023-10-30-182620.png)
 
-Valeria Nevado realizó la tarea de registrar un auto como propietario. La experiencia en general que tuvo fue buena, pero manifestó que el botón subir contrato en pdf no funcionaba y que eso debería arreglarse.
+
+**Entrevista 2**
+*Captura de entrevista*
+![Imgur](https://imgur.com/yGiVnFL.png)
+Dennis Castañeda Vilcapoma, estudiante de la UPC, tiene 23 años. Realizó la tarea de visualización de autos alquilados, comento que la tarea fue sencilla y que no es confuso el interfaz con palabras puntuales, pero hay algunos puntos vacíos que falta sus funciones.
+
+**Entrevista 3**
+*Captura de entrevista*
+![Imgur](https://imgur.com/cVbwNcE.png)
+Pieero Ricaldi Solis, realizó la tarea de visualización de solicitudes de vehículos. La tarea y experiencia en general due sencilla, las secciones funcionan bien y no es nada confusa. 
+
+**Entrevista 4**
+
+![Imgur](https://i.postimg.cc/pXjyqLF7/Interview-Arrendatario-frame-at-0m7s.jpg)
+Franco Chavez realizó la tarea de de enviar mensaje de mantenimiento. No tuvo ninguna observación y le le pareció que estaba realizado de una manera correcta y eficiente.
+
+**Entrevista 5**
+
+*Captura de entrevista*
+
+![Imgur](https://i.imgur.com/LxIYjbV.png)
+
+Valeria Nevado realizó la tarea de crear un contrato de alquiler. La experiencia en general que tuvo fue buena, pero manifestó que el botón subir contrato en pdf no funcionaba y que eso debería arreglarse.
+
+**Entrevista 6**
+
+*Captura de entrevista*
+
+![Imgur](https://i.imgur.com/DTPmX9I.png)
+
+Josty Tafur realizó la tarea de registrar un auto. La experiencia que él tuvo fue buena, pero mencionó que sería mejor que luego de crear una cuenta de algún tipo de usuario, se te redireccione al login de ese mismo tipo de usuario.
+
+
 
 ### Evaluaciones según heurísticas
 
@@ -3414,27 +3452,27 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
   </tr>
   <tr>
     <td align="center">1</td>
-    <td align="center">------</td>
-    <td align="center">---</td>
-    <td align="center">---</td>
+    <td align="center">Al crear una cuenta, no se redirige al login del mismo tipo de cuenta.</td>
+    <td align="center">1</td>
+    <td align="center">Usability: Consistencia y Estándares</td>
   </tr>
     <tr>
     <td align="center">2</td>
-    <td align="center">------</td>
-    <td align="center">---</td>
-    <td align="center">---</td>
+    <td align="center">El botón "Subir contrato de alquiler en PDF" no funciona.</td>
+    <td align="center">3</td>
+    <td align="center">Information Architecture: Is it usable?</td>
   </tr>
     <tr>
     <td align="center">3</td>
-    <td align="center">------</td>
-    <td align="center">---</td>
-    <td align="center">---</td>
+    <td align="center">El botón subir imagen en Mantenimiento no funciona.</td>
+    <td align="center">3</td>
+    <td align="center">Information Architecture: Is it usable?</td>
   </tr>
     <tr>
     <td align="center">4</td>
-    <td align="center">------</td>
-    <td align="center">---</td>
-    <td align="center">---</td>
+    <td align="center">La función buscar vehículo no funciona.</td>
+    <td align="center">4</td>
+    <td align="center">Information Architecture: Is it usable?</td>
   </tr>
   
 </table>
@@ -3442,7 +3480,65 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 **DESCRIPCIÓN DE PROBLEMAS:**
 
-..............
+**PROBLEMA #1**: Al crear una cuenta, no se redirige al login del mismo tipo de cuenta.
+
+Severidad: 1
+Heurística violada: Usability - Consistencia y Estándares
+
+Problema:
+
+Al momento de crear una nueva cuenta de algun tipo (arrendatario o propietario), el sitio web redirige al usuario al login de arrendatario pro defecto. Esto, en caso se cree una cuenta de propietario, puede resultar en que se inicie sesión de manera incorrecta.
+
+![Imgur](https://i.imgur.com/DyW4A0x.png)
+
+Recomendación:
+
+La solución más sencilla es seleccionar manualmente el tipo de login que deseamos.
+
+**PROBLEMA #2**: El botón "Subir contrato de alquiler en PDF" no funciona.
+
+Severidad: 3
+Heurística violada: Information Architecture - Is it usable?
+
+Problema:
+
+Al momento de querer subir un contrato de alquiler de auto propio haciendo uso del botón asignado, este no funciona.
+
+![Imgur](https://i.imgur.com/iwxOYTQ.png)
+
+Recomendación:
+
+Se debe implementar la funcionalidad de este botón.
+
+**PROBLEMA #3**: El botón subir imagen en Mantenimiento no funciona.
+
+Severidad: 3
+Heurística violada: Information Architecture - Is it usable?
+
+Problema:
+
+Al momento de querer subir una foto en el apartado mantenimiento para avisar de un problema al propietario del auto no sucede nada.
+
+![Imgur](https://i.imgur.com/varer4U.png)
+
+Recomendación:
+
+Se debe implementar la funcionalidad de este botón.
+
+**PROBLEMA #4**: La función buscar vehículo no funciona.
+
+Severidad: 3
+Heurística violada: Information Architecture - Is it usable?
+
+Problema:
+
+Al momento de buscar un auto, por más que se ingresen los datos de alguno, no se realiza ninguna búsqueda ni se actualiza la información.
+
+![Imgur](https://i.imgur.com/WKQ5HEA.png)
+
+Recomendación:
+
+Se debe implementar la funcionalidad de este botón.
 
 ## Video About-the-Product
 
