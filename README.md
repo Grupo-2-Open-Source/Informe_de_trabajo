@@ -3337,6 +3337,7 @@ Para la creación del backend del proyecto se utilizó lo siguiente:
 
 #### Team Collaboration Insights during Sprint
 
+
 ## Validation Interviews
 
 ### Diseño de Entrevistas
