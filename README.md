@@ -3307,15 +3307,17 @@ Link en Trello: PEGAR LINK
 
 #### Services Documentation Evidence for Sprint Review
 
-
-
-#### Software Deployment Evidence for Sprint Review
-
 Para la creación del backend del proyecto se utilizó lo siguiente:
 - IntellIJ Ultimate (IDE de desarrollo): Hemos usado IntellIJ para el desarrollo de nuestro backend.
 - Spring Boot: Spring Boot simplifica el desarrollo de aplicaciones Java al proporcionar un marco eficiente y productivo para crear aplicaciones web y microservicios en nuestro proyecto.
 - MySQL: Se seleccionó MySQL para poder desarrollar la base de datos de nuestro proyecto.
 - Postman API: Se utilizó Postman API para realizar las pruebas de envío de datos de nuestro proyecto.
+
+#### Software Deployment Evidence for Sprint Review
+
+Se mejoró el frontend aplicandole un fake API.
+
+Frontend desplegado: [https://autoyadeploy-324fd.firebaseapp.com/login-tenant](https://autoyadeploy-324fd.firebaseapp.com/login-tenant)
 
 #### Team Collaboration Insights during Sprint
 
@@ -3375,12 +3377,22 @@ Nombre de App
 **TAREAS A EVALUAR:**
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1. 
-2.
+- Registro de cuenta
+- Inicio de sesión
+- Recuperar contraseña
+- Enviar mensaje de mantenimiento (arrendatario)
+- Ver autos alquilados (arrendatario)
+- Ver solicitudes de alquiler (arrendatario)
+- Registrar vehículo (propietario)
+- Crear contrato de alquiler (propietario)
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
-1. 
-2.
+- Ver perfil de usuario
+- Ver autos puestos en alquiler (propietario)
+- Ver solicitudes de alquiler (propietario)
+- Buscar un auto (arrendatario)
+- Alquilar un auto (arrendatario)
+  
 **ESCALA DE SEVERIDAD:**
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
