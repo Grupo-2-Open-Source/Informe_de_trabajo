@@ -3237,36 +3237,54 @@ Link en Trello: PEGAR LINK
     <td align="center"><strong>Commited on (Date)</strong></td>
   </tr>
   <tr>
-    <td align="center">domain/autoya/Backend-Web-Applications-1</td>
+    <td align="center">autoya/Backend-Web-Applications</td>
     <td align="center">main</td>
-    <td align="center">8d370a1243e10562c6e2d8f0c92f53a9230b409f</td>
-    <td align="center">shore : cambios</td>
-    <td align="center">Cambios en Entidad clase Vehículo</td>
-    <td align="center">28/10/2023</td>
+    <td align="center">8a99a35af62547ebebe0d6e704ada758f7954b4b</td>
+    <td align="center">build:avance de implementacion de JWT para login y register</td>
+    <td align="center">implementacion de JWT para login y register  </td>
+    <td align="center">21/10/2023</td>
   </tr>
     <tr>
-    <td align="center">login/Frontend-Web-Application-G2</td>
+    <td align="center">autoya/Backend-Web-Applications</td>
     <td align="center">main</td>
-    <td align="center">b4f999a61797d7e62acc7e5166bb20ce0494e2c5</td>
-    <td align="center">shore: agregado de componente recover-password </td>
-    <td align="center">estructura y estilo de componente recover-password para tenant y owner.</td>
-    <td align="center">23/09/2023</td>
+    <td align="center">aa2a97f5eb05bf5dfca5b1b75dabf7389e463ff7</td>
+    <td align="center">build: última configuración de Jwt para login y register </td>
+    <td align="center">Configuración de Jwt para login y register</td>
+    <td align="center">21/10/2023</td>
   </tr>
    <tr>
-    <td align="center">main-page/Frontend-Web-Application-G2</td>
+    <td align="center">autoya/Backend-Web-Applications</td>
     <td align="center">main</td>
-    <td align="center">08ada3d64613a2a51c71646367d500378db28700</td>
-    <td align="center">Style: Estructura de main-page-tenant and main-page.owner</td>
-    <td align="center">estructura y estilo de componente main-page-tenant y main-page-owner</td>
-    <td align="center">23/09/2023</td>
+    <td align="center">fc9fc6b3b3caf5b28004e544e6a9b9788342b2d0</td>
+    <td align="center">build: estructura de domain, share y autoya</td>
+    <td align="center">estructura de domain, share y autoya</td>
+    <td align="center">26/10/2023</td>
   </tr>
      <tr>
-    <td align="center">main-page/notifications/Frontend-Web-Application-G2</td>
+    <td align="center">LoginRegister/autoya/Backend-Web-Applications</td>
     <td align="center">main</td>
-    <td align="center">c3bfe20f9d2fbdf5d2d49b406712d882bfcba7ba</td>
-    <td align="center">shore and style: estructura y estilos de notifications-owner</td>
-    <td align="center">estructura y estilo de componente notifications</td>
-    <td align="center">24/09/2023</td>
+    <td align="center">52e395a52eaf83324716e8592fe90696ee850577</td>
+    <td align="center">shore:cambios</td>
+    <td align="center">Cambios en estructura autoya</td>
+    <td align="center">27/10/2023</td>
+  </tr>
+
+ <tr>
+    <td align="center">LoginRegister/autoya/Backend-Web-Applications</td>
+    <td align="center">main</td>
+    <td align="center">26cc064c737a696a6aa9b2b6d984dd59d9c2df4b</td>
+    <td align="center">update</td>
+    <td align="center">Subir actualizaciones</td>
+    <td align="center">27/10/2023</td>
+  </tr>
+
+ <tr>
+    <td align="center">LoginRegister/autoya/Backend-Web-Applications</td>
+    <td align="center">main</td>
+    <td align="center">0ff1d7147d03289dcbd1f2bd721483630da28766</td>
+    <td align="center">shore:cambio Login Register</td>
+    <td align="center">Cambios en estructura Login Register</td>
+    <td align="center">27/10/2023</td>
   </tr>
 </table>
 
