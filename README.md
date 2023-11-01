@@ -3312,8 +3312,6 @@ Para esta entrega aun falta realizar los Testing respectivos para la Correcto Fu
 En esta entrega nos enfocamos en el desarrollo del Backend para nuestra Aplicacion Web. El backend se creo a partir del las necesidades del Frontend y siguiendo los user stories.Para esta entrega se puede observa una mejor organizacion en el diseño del Frontedn y una mejor organizacion.A continuacion las ventanas mas importantes implementdas.El backend sigue en proceso.
 
 *Registro para arrendatario y propietario*
-
-
 ![Imgur](https://i.postimg.cc/HxnwscYL/Captura-de-pantalla-2023-11-01-170016.png)
 
 *Alquiler de arrendatario*
@@ -3326,16 +3324,10 @@ En esta entrega nos enfocamos en el desarrollo del Backend para nuestra Aplicaci
 ![Imgur](https://i.postimg.cc/k4HxVJGv/Captura-de-pantalla-2023-11-01-170508.png)
 
 
-![Imgur](https://i.postimg.cc/HxnwscYL/Captura-de-pantalla-2023-11-01-170016.png)
-
-*Alquiler de arrendatario*
-![Imgur](https://i.postimg.cc/hhWTr29J/Captura-de-pantalla-2023-11-01-170433.png)
-
-*Notificaciones de arrendatario*
-![Imgur](https://i.postimg.cc/QCWc12WG/Captura-de-pantalla-2023-11-01-170442.png)
-
-*Perfil de Usuario*
+*ESCTRUCTURRA DE PROYECTO BACKEND*
 ![Imgur](https://i.postimg.cc/k4HxVJGv/Captura-de-pantalla-2023-11-01-170508.png)
+
+
 
 
 #### Services Documentation Evidence for Sprint Review
@@ -3383,6 +3375,7 @@ User flow para las tareas asignadas
 *Captura de entrevista:*
 
 ![Imgur](https://i.postimg.cc/T1NqjW6y/Captura-de-pantalla-2023-10-30-182620.png)
+Piero Torres, estudiante de la UNI, tiene 21 años. Realizo la tarea de Logeo, registro y Alquiler como arrendatario y también solicitudes. Comento que la tarea fue sencilla pero que hay puntos por mejorar.
 
 
 **Entrevista 2**
@@ -3393,7 +3386,7 @@ Dennis Castañeda Vilcapoma, estudiante de la UPC, tiene 23 años. Realizó la t
 **Entrevista 3**
 *Captura de entrevista*
 ![Imgur](https://imgur.com/cVbwNcE.png)
-Pieero Ricaldi Solis, realizó la tarea de visualización de solicitudes de vehículos. La tarea y experiencia en general due sencilla, las secciones funcionan bien y no es nada confusa. 
+Pieero Ricaldi Solis, realizó la tarea de visualización de solicitudes de vehículos. La tarea y experiencia en general fue sencilla, las secciones funcionan bien y no es nada confusa. 
 
 **Entrevista 4**
 
