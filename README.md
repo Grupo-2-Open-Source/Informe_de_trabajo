@@ -3309,7 +3309,11 @@ Link en Trello: PEGAR LINK
 
 #### Software Deployment Evidence for Sprint Review
 
-
+Para la creación del backend del proyecto se utilizó lo siguiente:
+- IntellIJ Ultimate (IDE de desarrollo): Hemos usado IntellIJ para el desarrollo de nuestro backend.
+- Spring Boot: Spring Boot simplifica el desarrollo de aplicaciones Java al proporcionar un marco eficiente y productivo para crear aplicaciones web y microservicios en nuestro proyecto.
+- MySQL: Se seleccionó MySQL para poder desarrollar la base de datos de nuestro proyecto.
+- Postman API: Se utilizó Postman API para realizar las pruebas de envío de datos de nuestro proyecto.
 
 #### Team Collaboration Insights during Sprint
 
