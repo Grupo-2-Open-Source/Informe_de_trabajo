@@ -3423,27 +3423,27 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
   </tr>
   <tr>
     <td align="center">1</td>
-    <td align="center">------</td>
-    <td align="center">---</td>
-    <td align="center">---</td>
+    <td align="center">Al crear una cuenta, no se redirige al login del mismo tipo de cuenta.</td>
+    <td align="center">1</td>
+    <td align="center">Usability: Consistencia y Estándares</td>
   </tr>
     <tr>
     <td align="center">2</td>
-    <td align="center">------</td>
-    <td align="center">---</td>
-    <td align="center">---</td>
+    <td align="center">El botón "Subir contrato de alquiler en PDF" no funciona.</td>
+    <td align="center">3</td>
+    <td align="center">Information Architecture: Is it usable?</td>
   </tr>
     <tr>
     <td align="center">3</td>
-    <td align="center">------</td>
-    <td align="center">---</td>
-    <td align="center">---</td>
+    <td align="center">El botón subir imagen en Mantenimiento no funciona.</td>
+    <td align="center">3</td>
+    <td align="center">Information Architecture: Is it usable?</td>
   </tr>
     <tr>
     <td align="center">4</td>
-    <td align="center">------</td>
-    <td align="center">---</td>
-    <td align="center">---</td>
+    <td align="center">La función buscar vehículo no funciona.</td>
+    <td align="center">4</td>
+    <td align="center">Information Architecture: Is it usable?</td>
   </tr>
   
 </table>
@@ -3451,7 +3451,65 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 **DESCRIPCIÓN DE PROBLEMAS:**
 
-..............
+**PROBLEMA #1**: Al crear una cuenta, no se redirige al login del mismo tipo de cuenta.
+
+Severidad: 1
+Heurística violada: Usability - Consistencia y Estándares
+
+Problema:
+
+Al momento de crear una nueva cuenta de algun tipo (arrendatario o propietario), el sitio web redirige al usuario al login de arrendatario pro defecto. Esto, en caso se cree una cuenta de propietario, puede resultar en que se inicie sesión de manera incorrecta.
+
+![Imgur](https://i.imgur.com/DyW4A0x.png)
+
+Recomendación:
+
+La solución más sencilla es seleccionar manualmente el tipo de login que deseamos.
+
+**PROBLEMA #2**: El botón "Subir contrato de alquiler en PDF" no funciona.
+
+Severidad: 3
+Heurística violada: Information Architecture - Is it usable?
+
+Problema:
+
+Al momento de querer subir un contrato de alquiler de auto propio haciendo uso del botón asignado, este no funciona.
+
+![Imgur](https://i.imgur.com/iwxOYTQ.png)
+
+Recomendación:
+
+Se debe implementar la funcionalidad de este botón.
+
+**PROBLEMA #3**: El botón subir imagen en Mantenimiento no funciona.
+
+Severidad: 3
+Heurística violada: Information Architecture - Is it usable?
+
+Problema:
+
+Al momento de querer subir una foto en el apartado mantenimiento para avisar de un problema al propietario del auto no sucede nada.
+
+![Imgur](https://i.imgur.com/varer4U.png)
+
+Recomendación:
+
+Se debe implementar la funcionalidad de este botón.
+
+**PROBLEMA #4**: La función buscar vehículo no funciona.
+
+Severidad: 3
+Heurística violada: Information Architecture - Is it usable?
+
+Problema:
+
+Al momento de buscar un auto, por más que se ingresen los datos de alguno, no se realiza ninguna búsqueda ni se actualiza la información.
+
+![Imgur](https://i.imgur.com/WKQ5HEA.png)
+
+Recomendación:
+
+Se debe implementar la funcionalidad de este botón.
 
 ## Video About-the-Product
 
