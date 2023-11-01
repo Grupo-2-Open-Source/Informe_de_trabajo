@@ -3340,6 +3340,11 @@ User flow para las tareas asignadas
 
 Valeria Nevado realizó la tarea de registrar un auto como propietario. La experiencia en general que tuvo fue buena, pero manifestó que el botón subir contrato en pdf no funcionaba y que eso debería arreglarse.
 
+**Entrevista 2** 
+![Imgur](https://imgur.com/yGiVnFL.png)
+Dennis Castañeda Vilcapoma, estudiante de la UPC, tiene 23 años. Realizó la tarea de visualización de autos alquilados, comento que la tarea fue sencilla y que no es confusa el interfaz.
+
+
 ### Evaluaciones según heurísticas
 
 **Grupo # auditor - Grupo 2 Auditado**
