@@ -3313,6 +3313,19 @@ En esta entrega nos enfocamos en el desarrollo del Backend para nuestra Aplicaci
 
 *Registro para arrendatario y propietario*
 
+
+![Imgur](https://i.postimg.cc/HxnwscYL/Captura-de-pantalla-2023-11-01-170016.png)
+
+*Alquiler de arrendatario*
+![Imgur](https://i.postimg.cc/hhWTr29J/Captura-de-pantalla-2023-11-01-170433.png)
+
+*Notificaciones de arrendatario*
+![Imgur](https://i.postimg.cc/QCWc12WG/Captura-de-pantalla-2023-11-01-170442.png)
+
+*Perfil de Usuario*
+![Imgur](https://i.postimg.cc/k4HxVJGv/Captura-de-pantalla-2023-11-01-170508.png)
+
+
 ![Imgur](https://i.postimg.cc/HxnwscYL/Captura-de-pantalla-2023-11-01-170016.png)
 
 *Alquiler de arrendatario*
@@ -3342,6 +3355,7 @@ Frontend desplegado: [https://autoyadeploy-324fd.firebaseapp.com/login-tenant](h
 #### Team Collaboration Insights during Sprint
 
 ![Imgur](https://i.imgur.com/BafarKG.png)
+
 
 ## Validation Interviews
 
