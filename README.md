@@ -1275,7 +1275,7 @@ Entonces el sistema le redireccionará a la sección de "Contacto" y mostrará l
 <tr>
     <td align="center">15</td>
     <td align="center">US15</td>
-    <td align="center">Visualización de los beneficios o compromíso de la aplicación/td>
+    <td align="center">Visualización de los beneficios o compromíso de la aplicación </td>
     <td align="center">Como un invitado, deseo visualizar los compromisos que ofrece la aplicación </td>
     <td align="center">2</td>
   </tr>
@@ -1283,7 +1283,7 @@ Entonces el sistema le redireccionará a la sección de "Contacto" y mostrará l
 <tr>
     <td align="center">16</td>
     <td align="center">US16</td>
-    <td align="center">Visualización de los testimonios acerca de la aplicación/td>
+    <td align="center">Visualización de los testimonios acerca de la aplicación </td>
     <td align="center">Como un invitado, deseo visualizar los testimonios de usuarios que utilizaron la aplicación</td>
     <td align="center">2</td>
   </tr>
@@ -3114,9 +3114,12 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
 </table>
 
 
-![impur](Link de la imagen de Trello)
+![impur](https://i.postimg.cc/Dwg9GHTM/Captura-de-pantalla-2023-11-01-160938.png)
 
-Link en Trello: PEGAR LINK
+
+Link en Trello: https://trello.com/invite/b/KDgY7nah/ATTI567d5e9671821af8386e231903be4199982151AD/sprint-3
+
+
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -3143,83 +3146,85 @@ Link en Trello: PEGAR LINK
   </tr>
   <tr>
     <td align="center">US05</td>
-    <td align="center">Implementacion de LOGIN</td>
-    <td align="center">Se implemento el login en el frontend para el usuario arrendatario y propietario</td>
+    <td align="center">Implementacion metodos de Login</td>
+    <td align="center">Se implemento el metodo de login en el backend para el usuario arrendatario y propietario</td>
     <td align="center">24</td>
     <td align="center">Ruiz Torres, Erick Hernan</td>
     <td align="center">Done</td>
   </tr>
   <tr>
     <td align="center">US01/US02</td>
-    <td align="center">Implementacion de Registro</td>
-    <td align="center">Se implemento en el Frontend el registro para Arendatario y Propietario</td>
+    <td align="center">Implementacion de metodos de Registro</td>
+    <td align="center">Se implemento en el Backend metodos de registro para Arendatario y Propietario</td>
     <td align="center">48</td>
     <td align="center">Ruiz Torres, Erick Hernan</td>
     <td align="center">Done</td>
   </tr>
   <tr>
     <td align="center">US011</td>
-    <td align="center">Implementacion de Notificaciones</td>
-    <td align="center">Se implemento en el Frontend la seccion de Notificaciones para el propietario</td>
+    <td align="center">Implementacion de Profile </td>
+    <td align="center">Se implemento en el Backend el Bounded Context Profile </td>
+    <td align="center">2</td>
+    <td align="center">Urbizagastegui Alvarez, Erick </td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">US06</td>
+    <td align="center">Implementacion de Entidad Vehiculo</td>
+    <td align="center">En el Backend se implemento la entidad vehicule para el los usuarios Arrendatario y Propietario</td>
     <td align="center">2</td>
     <td align="center">Ruiz Torres, Erick Hernan</td>
     <td align="center">Done</td>
   </tr>
   <tr>
-    <td align="center">No aplica</td>
-    <td align="center">Implementacion de Inicio Principal</td>
-    <td align="center">En el Frontend se implemento la Seccion de Inicio principal para el usuario Arrendatario y Propietario</td>
-    <td align="center">2</td>
-    <td align="center">Ruiz Torres, Erick Hernan</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">Implementación de Perfil</td>
-    <td align="center">Se implementó el apartado de perfil en el frontend para el usuario arrendatario y propietario</td>
+  <td align="center">US06</td>
+    <td align="center">Implementacion de Bounded Context Register Vehicule</td>
+    <td align="center">Se esta implementando el bounded context de Register Vehicule </td>
     <td align="center">2</td>
     <td align="center">Meza Camayo, Lynn Jefferson</td>
-    <td align="center">Done</td>
+    <td align="center">In-Process</td>
   </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">Implementación de Solicitudes</td>
-    <td align="center">Se implementó el apartado de solicitudes para el usuario arrendatario</td>
-    <td align="center">36</td>
+ <tr>
+  <td align="center">US06</td>
+    <td align="center">Implementacion de Bounded Context Search Vehicule</td>
+    <td align="center">Se esta implementando el bounded context de Search Vehicule </td>
+    <td align="center">4</td>
     <td align="center">Meza Camayo, Lynn Jefferson</td>
-    <td align="center">Done</td>
+    <td align="center">In-Process</td>
   </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">Implementación de Búsqueda de Autos</td>
-    <td align="center">Se implementó el apartado de Búsuqeda de Autos para el arrendatario</td>
-    <td align="center">240</td>
-    <td align="center">Chamorro Torres, Samuel Rolando</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">Implementación de Mantenimiento</td>
-    <td align="center">Se implementó el apartado de Mantenimiento de Autos para el arrendatario</td>
-    <td align="center">240</td>
-    <td align="center">Chamorro Torres, Samuel Rolando</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">No aplica</td>
-    <td align="center">Implementación de Registro Vehicular</td>
-    <td align="center">Se implementó el apartado de Registro Vehicular para el propietario</td>
+ <tr>
+  <td align="center">US06</td>
+    <td align="center">Implementacion de Bounded Context Rent Vehicule de Arrendatario y Propietario</td>
+    <td align="center">Se esta implementando el bounded context de Rent Vehicule</td>
     <td align="center">4</td>
-    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
-    <td align="center">Done</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">In-Process</td>
   </tr>
   <tr>
-    <td align="center">No aplica</td>
-    <td align="center">Implementación de Alquiler</td>
-    <td align="center">Se implementó el apartado de Alquiler para el arrendatario y el propietario</td>
+   <td align="center">US06</td>
+    <td align="center">Implementacion de Bounded Context Notificaciones de Propietario</td>
+    <td align="center">Se esta implementando el bounded context de Notificaciones</td>
     <td align="center">4</td>
-    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
-    <td align="center">Done</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">In-Process</td>
+  </tr>
+
+  <tr>
+   <td align="center">US06</td>
+    <td align="center">Implementacion de Bounded Context Notificaciones de Propietario</td>
+    <td align="center">Se esta implementando el bounded context de Notificaciones</td>
+    <td align="center">4</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">In-Process</td>
+  </tr>
+
+   <tr>
+   <td align="center">US12</td>
+    <td align="center">Implementacion de Bounded Context Solicitudes de Propietario</td>
+    <td align="center">Se esta implementando el bounded context de Notificaciones</td>
+    <td align="center">4</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">In-Process</td>
   </tr>
 </table>
 
@@ -3239,36 +3244,36 @@ Link en Trello: PEGAR LINK
     <td align="center"><strong>Commited on (Date)</strong></td>
   </tr>
   <tr>
-    <td align="center">login/Frontend-Web-Application-G2</td>
+    <td align="center">login/Backend-Web-Applications</td>
     <td align="center">main</td>
     <td align="center">f3596e9c43c1e22b0826e4165f1b4a119ae7853a</td>
-    <td align="center">style: estilos de login-tenant.component and login-owner.component</td>
-    <td align="center">estructura y estilo de componente login-tenant y login owner</td>
-    <td align="center">23/09/2023</td>
+    <td align="center">build:login</td>
+    <td align="center">metodos para el login </td>
+    <td align="center">23/10/2023</td>
   </tr>
     <tr>
-    <td align="center">login/Frontend-Web-Application-G2</td>
+    <td align="center">register/Backend-Web-Applications</td>
     <td align="center">main</td>
     <td align="center">b4f999a61797d7e62acc7e5166bb20ce0494e2c5</td>
-    <td align="center">shore: agregado de componente recover-password </td>
-    <td align="center">estructura y estilo de componente recover-password para tenant y owner.</td>
-    <td align="center">23/09/2023</td>
+    <td align="center">build:register</td>
+    <td align="center">metodos para el register</td>
+    <td align="center">26/10/2023</td>
   </tr>
    <tr>
-    <td align="center">main-page/Frontend-Web-Application-G2</td>
+    <td align="center">profile/Backend-Web-Applications</td>
     <td align="center">main</td>
     <td align="center">08ada3d64613a2a51c71646367d500378db28700</td>
-    <td align="center">Style: Estructura de main-page-tenant and main-page.owner</td>
-    <td align="center">estructura y estilo de componente main-page-tenant y main-page-owner</td>
-    <td align="center">23/09/2023</td>
+    <td align="center">build:profile</td>
+    <td align="center">metodos para el Profile</td>
+    <td align="center">28/10/2023</td>
   </tr>
      <tr>
-    <td align="center">main-page/notifications/Frontend-Web-Application-G2</td>
+    <td align="center">automovile/Backend-Web-Applications</td>
     <td align="center">main</td>
     <td align="center">c3bfe20f9d2fbdf5d2d49b406712d882bfcba7ba</td>
-    <td align="center">shore and style: estructura y estilos de notifications-owner</td>
-    <td align="center">estructura y estilo de componente notifications</td>
-    <td align="center">24/09/2023</td>
+    <td align="center">build:automobile</td>
+    <td align="center">metodos para la entidad Automobile</td>
+    <td align="center">30/10/2023</td>
   </tr>
 </table>
 
@@ -3277,6 +3282,8 @@ Link en Trello: PEGAR LINK
 </div>
 
 #### Testing Suite Evidence for Sprint Review
+
+Para esta entrega aun falta realizar los Testing respectivos para la Correcto Funcionamiento del Backend.
 
 <table>
   <tr>
@@ -3302,7 +3309,20 @@ Link en Trello: PEGAR LINK
 </div>
 
 #### Execution Evidence for Sprint Review
+En esta entrega nos enfocamos en el desarrollo del Backend para nuestra Aplicacion Web. El backend se creo a partir del las necesidades del Frontend y siguiendo los user stories.Para esta entrega se puede observa una mejor organizacion en el diseño del Frontedn y una mejor organizacion.A continuacion las ventanas mas importantes implementdas.El backend sigue en proceso.
 
+*Registro para arrendatario y propietario*
+
+![Imgur](https://i.postimg.cc/HxnwscYL/Captura-de-pantalla-2023-11-01-170016.png)
+
+*Alquiler de arrendatario*
+![Imgur](https://i.postimg.cc/hhWTr29J/Captura-de-pantalla-2023-11-01-170433.png)
+
+*Notificaciones de arrendatario*
+![Imgur](https://i.postimg.cc/QCWc12WG/Captura-de-pantalla-2023-11-01-170442.png)
+
+*Perfil de Usuario*
+![Imgur](https://i.postimg.cc/k4HxVJGv/Captura-de-pantalla-2023-11-01-170508.png)
 
 
 #### Services Documentation Evidence for Sprint Review
@@ -3348,6 +3368,22 @@ User flow para las tareas asignadas
 
 ![Imgur](https://i.postimg.cc/T1NqjW6y/Captura-de-pantalla-2023-10-30-182620.png)
 
+
+**Entrevista 2**
+*Captura de entrevista*
+![Imgur](https://imgur.com/yGiVnFL.png)
+Dennis Castañeda Vilcapoma, estudiante de la UPC, tiene 23 años. Realizó la tarea de visualización de autos alquilados, comento que la tarea fue sencilla y que no es confuso el interfaz con palabras puntuales, pero hay algunos puntos vacíos que falta sus funciones.
+
+**Entrevista 3**
+*Captura de entrevista*
+![Imgur](https://imgur.com/cVbwNcE.png)
+Pieero Ricaldi Solis, realizó la tarea de visualización de solicitudes de vehículos. La tarea y experiencia en general due sencilla, las secciones funcionan bien y no es nada confusa. 
+
+**Entrevista 4**
+
+![Imgur](https://i.postimg.cc/pXjyqLF7/Interview-Arrendatario-frame-at-0m7s.jpg)
+Franco Chavez realizó la tarea de de enviar mensaje de mantenimiento. No tuvo ninguna observación y le le pareció que estaba realizado de una manera correcta y eficiente.
+
 **Entrevista 5**
 
 *Captura de entrevista*
@@ -3363,6 +3399,8 @@ Valeria Nevado realizó la tarea de crear un contrato de alquiler. La experienci
 ![Imgur](https://i.imgur.com/DTPmX9I.png)
 
 Josty Tafur realizó la tarea de registrar un auto. La experiencia que él tuvo fue buena, pero mencionó que sería mejor que luego de crear una cuenta de algún tipo de usuario, se te redireccione al login de ese mismo tipo de usuario.
+
+
 
 ### Evaluaciones según heurísticas
 
@@ -3540,7 +3578,6 @@ Link del Video: [colocar link](-----)
 - Repositorio del Informe del Trabajo: [https://github.com/Grupo-2-Open-Source/Informe_de_trabajo](https://github.com/Grupo-2-Open-Source/Informe_de_trabajo)
 
 - Repositorio del Proyecto Frontend: [https://github.com/Grupo-2-Open-Source/Frontend-Web-Application-G2](https://github.com/Grupo-2-Open-Source/Frontend-Web-Application-G2)
-
 
 - Repositorio del Proyecto Backend: [https://github.com/Grupo-2-Open-Source/Backend-Web-Applications](https://github.com/Grupo-2-Open-Source/Backend-Web-Applications)
 
