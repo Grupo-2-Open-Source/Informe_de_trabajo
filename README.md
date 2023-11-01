@@ -56,6 +56,8 @@ Para la elaboración del informe se utilizó un documento Markdown, el cual fue 
 
 ![Imgur](https://i.imgur.com/WDLJNBo.png)
 
+![Imgur](https://i.imgur.com/BafarKG.png)
+
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
 </div>
@@ -3311,6 +3313,19 @@ En esta entrega nos enfocamos en el desarrollo del Backend para nuestra Aplicaci
 
 *Registro para arrendatario y propietario*
 
+
+![Imgur](https://i.postimg.cc/HxnwscYL/Captura-de-pantalla-2023-11-01-170016.png)
+
+*Alquiler de arrendatario*
+![Imgur](https://i.postimg.cc/hhWTr29J/Captura-de-pantalla-2023-11-01-170433.png)
+
+*Notificaciones de arrendatario*
+![Imgur](https://i.postimg.cc/QCWc12WG/Captura-de-pantalla-2023-11-01-170442.png)
+
+*Perfil de Usuario*
+![Imgur](https://i.postimg.cc/k4HxVJGv/Captura-de-pantalla-2023-11-01-170508.png)
+
+
 ![Imgur](https://i.postimg.cc/HxnwscYL/Captura-de-pantalla-2023-11-01-170016.png)
 
 *Alquiler de arrendatario*
@@ -3325,17 +3340,21 @@ En esta entrega nos enfocamos en el desarrollo del Backend para nuestra Aplicaci
 
 #### Services Documentation Evidence for Sprint Review
 
-
-
-#### Software Deployment Evidence for Sprint Review
-
 Para la creación del backend del proyecto se utilizó lo siguiente:
 - IntellIJ Ultimate (IDE de desarrollo): Hemos usado IntellIJ para el desarrollo de nuestro backend.
 - Spring Boot: Spring Boot simplifica el desarrollo de aplicaciones Java al proporcionar un marco eficiente y productivo para crear aplicaciones web y microservicios en nuestro proyecto.
 - MySQL: Se seleccionó MySQL para poder desarrollar la base de datos de nuestro proyecto.
 - Postman API: Se utilizó Postman API para realizar las pruebas de envío de datos de nuestro proyecto.
 
+#### Software Deployment Evidence for Sprint Review
+
+Se mejoró el frontend aplicandole un fake API.
+
+Frontend desplegado: [https://autoyadeploy-324fd.firebaseapp.com/login-tenant](https://autoyadeploy-324fd.firebaseapp.com/login-tenant)
+
 #### Team Collaboration Insights during Sprint
+
+![Imgur](https://i.imgur.com/BafarKG.png)
 
 
 ## Validation Interviews
@@ -3410,12 +3429,22 @@ Nombre de App
 **TAREAS A EVALUAR:**
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1. 
-2.
+- Registro de cuenta
+- Inicio de sesión
+- Recuperar contraseña
+- Enviar mensaje de mantenimiento (arrendatario)
+- Ver autos alquilados (arrendatario)
+- Ver solicitudes de alquiler (arrendatario)
+- Registrar vehículo (propietario)
+- Crear contrato de alquiler (propietario)
 
 No están incluidas en esta versión de la evaluación las siguientes tareas:
-1. 
-2.
+- Ver perfil de usuario
+- Ver autos puestos en alquiler (propietario)
+- Ver solicitudes de alquiler (propietario)
+- Buscar un auto (arrendatario)
+- Alquilar un auto (arrendatario)
+  
 **ESCALA DE SEVERIDAD:**
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
@@ -3576,10 +3605,7 @@ Link del Video: [colocar link](-----)
 
 - Repositorio del Proyecto Frontend: [https://github.com/Grupo-2-Open-Source/Frontend-Web-Application-G2](https://github.com/Grupo-2-Open-Source/Frontend-Web-Application-G2)
 
-
 - Repositorio del Proyecto Backend: [https://github.com/Grupo-2-Open-Source/Backend-Web-Applications](https://github.com/Grupo-2-Open-Source/Backend-Web-Applications)
-
-- Frontend Desplegado: [https://autoyadeploy-324fd.web.app/login-tenant](https://autoyadeploy-324fd.web.app/login-tenant)
 
 - Link de Backend Desplegado: [colocar link](colocar link)
 
@@ -3593,6 +3619,6 @@ Link del Video: [colocar link](-----)
 
 - Video exposición TB2: [colocar link](colocar link)
 
-- Entrevistas de validación TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EWuEr26u33VNuRWr0qGa_EoBoRzms2yMuMDppqSM-wGsaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=Gun2so
-](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EWuEr26u33VNuRWr0qGa_EoBoRzms2yMuMDppqSM-wGsaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=Gun2so
-)
+- Entrevistas de validación TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EWuEr26u33VNuRWr0qGa_EoBoRzms2yMuMDppqSM-wGsaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=Gun2so](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EWuEr26u33VNuRWr0qGa_EoBoRzms2yMuMDppqSM-wGsaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=Gun2so)
+
+- Frontend desplegado (ejecutar los json dentro de la carpeta server): [https://autoyadeploy-324fd.firebaseapp.com/login-tenant](https://autoyadeploy-324fd.firebaseapp.com/login-tenant)
