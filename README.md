@@ -56,6 +56,8 @@ Para la elaboración del informe se utilizó un documento Markdown, el cual fue 
 
 ![Imgur](https://i.imgur.com/WDLJNBo.png)
 
+![Imgur](https://i.imgur.com/BafarKG.png)
+
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
 </div>
@@ -3317,6 +3319,8 @@ Para la creación del backend del proyecto se utilizó lo siguiente:
 
 #### Team Collaboration Insights during Sprint
 
+![Imgur](https://i.imgur.com/BafarKG.png)
+
 ## Validation Interviews
 
 ### Diseño de Entrevistas
@@ -3540,8 +3544,6 @@ Link del Video: [colocar link](-----)
 
 - Repositorio del Proyecto Backend: [https://github.com/Grupo-2-Open-Source/Backend-Web-Applications](https://github.com/Grupo-2-Open-Source/Backend-Web-Applications)
 
-- Frontend Desplegado: [https://autoyadeploy-324fd.web.app/login-tenant](https://autoyadeploy-324fd.web.app/login-tenant)
-
 - Link de Backend Desplegado: [colocar link](colocar link)
 
 - Registro de entrevistas 1: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ETTIDOWcNbdDkJWnVJ0SKkMBiQtOWhxvbLEGl0VQCkke7Q?e=pzJCdU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
@@ -3554,6 +3556,6 @@ Link del Video: [colocar link](-----)
 
 - Video exposición TB2: [colocar link](colocar link)
 
-- Entrevistas de validación TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EWuEr26u33VNuRWr0qGa_EoBoRzms2yMuMDppqSM-wGsaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=Gun2so
-](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EWuEr26u33VNuRWr0qGa_EoBoRzms2yMuMDppqSM-wGsaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=Gun2so
-)
+- Entrevistas de validación TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EWuEr26u33VNuRWr0qGa_EoBoRzms2yMuMDppqSM-wGsaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=Gun2so](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EWuEr26u33VNuRWr0qGa_EoBoRzms2yMuMDppqSM-wGsaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=Gun2so)
+
+- Frontend desplegado (ejecutar los json dentro de la carpeta server): [https://autoyadeploy-324fd.firebaseapp.com/login-tenant](https://autoyadeploy-324fd.firebaseapp.com/login-tenant)
