@@ -3325,9 +3325,9 @@ En esta entrega nos enfocamos en el desarrollo del Backend para nuestra Aplicaci
 
 
 *ESCTRUCTURRA DE PROYECTO BACKEND*
-![Imgur](https://i.postimg.cc/k4HxVJGv/Captura-de-pantalla-2023-11-01-170508.png)
-
-
+![Imgur](https://i.postimg.cc/sDmXfVXB/Captura-de-pantalla-2023-11-01-185928.png)
+![Imgur](https://i.postimg.cc/mgrrt0zm/Captura-de-pantalla-2023-11-01-190002.png)
+![Imgur](https://i.postimg.cc/MprpRd1q/Captura-de-pantalla-2023-11-01-190037.png)
 
 
 #### Services Documentation Evidence for Sprint Review
