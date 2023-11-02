@@ -172,6 +172,7 @@ Para la elaboración del informe se utilizó un documento Markdown, el cual fue 
     - [Registro de Entrevistas](#registro-de-entrevistas-1)
     - [Evaluaciones según heurísticas](#evaluaciones-según-heurísticas)
   - [Video About-the-Product](#video-about-the-product)
+- [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
@@ -3410,8 +3411,6 @@ Valeria Nevado realizó la tarea de crear un contrato de alquiler. La experienci
 
 Josty Tafur realizó la tarea de registrar un auto. La experiencia que él tuvo fue buena, pero mencionó que sería mejor que luego de crear una cuenta de algún tipo de usuario, se te redireccione al login de ese mismo tipo de usuario.
 
-
-
 ### Evaluaciones según heurísticas
 
 **Grupo # auditor - Grupo 2 Auditado**
@@ -3566,8 +3565,11 @@ Se debe implementar la funcionalidad de este botón.
 
 ## Video About-the-Product
 
-Link del Video: [colocar link](-----)
+![Imgur](https://i.imgur.com/LgiJNYp.png)
 
+Link del Video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EbW3M7P9RghIscHXN9dvwlIBgKgvqZC7cGosMx9BGYvkGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=t6zqB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EbW3M7P9RghIscHXN9dvwlIBgKgvqZC7cGosMx9BGYvkGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=t6zqB2)
+
+# Conclusiones
 
 ## Conclusiones y recomendaciones
 
@@ -3580,7 +3582,16 @@ Link del Video: [colocar link](-----)
   
 ## Video About-the-Team
 
-Link del Video: [colocar link](-----)
+![Imgur](https://i.imgur.com/JYC0t2g.png)
+
+Timing:
+
+- Erick Urbizagastegui 00:00
+- Erick Ruiz 01:34
+- Samuel Chamorro 03:11
+- Lynn Meza 04:26
+
+Link del Video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ES8SstPwb1ZEk9fRc__Y8igBovG-dMMYGMwezcy9htWGaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=QyU8PG](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ES8SstPwb1ZEk9fRc__Y8igBovG-dMMYGMwezcy9htWGaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=QyU8PG)
 
 <div style="page-break-after: always; visibility: hidden"> 
 \pagebreak 
@@ -3624,4 +3635,8 @@ Link del Video: [colocar link](-----)
 
 - Link de Backend Desplegado: [colocar link](colocar link)
 
-- Video exposición TB2: [colocar link](colocar link)
+- Video About the Team: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ES8SstPwb1ZEk9fRc__Y8igBovG-dMMYGMwezcy9htWGaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=QyU8PG](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ES8SstPwb1ZEk9fRc__Y8igBovG-dMMYGMwezcy9htWGaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=QyU8PG)
+
+- Video About the Product: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EbW3M7P9RghIscHXN9dvwlIBgKgvqZC7cGosMx9BGYvkGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=t6zqB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EbW3M7P9RghIscHXN9dvwlIBgKgvqZC7cGosMx9BGYvkGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=t6zqB2)
+
+- Video exposición TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EXmiwMJrR4FIsV9M-CvdF9QBtXn2GS74zqgn7ypDflsVKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=G1ts8G](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EXmiwMJrR4FIsV9M-CvdF9QBtXn2GS74zqgn7ypDflsVKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=G1ts8G)
