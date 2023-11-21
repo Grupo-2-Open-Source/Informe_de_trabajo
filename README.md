@@ -1086,35 +1086,6 @@ Entonces el sistema le redireccionará a la sección de "Contacto" y mostrará l
   </tr>
   <tr>
     <td align="center">1</td>
-    <td align="center">US06</td>
-    <td align="center">Publicación de anuncio de alquiler de auto </td>
-    <td align="center">Como propietario de un automóvil, quiero poder crear un anuncio para alquilar mi auto</td>
-    <td align="center">5</td>
-  </tr>
-  <tr>
-    <td align="center">2</td>
-    <td align="center">US08</td>
-    <td align="center">Solicitud de alquiler de auto</td>
-    <td align="center">Como arrendatario, Deseo poder solicitar el alquiler del auto para asi poder"</td>
-    <td align="center">5</td>
-  </tr>
-
-<tr>
-    <td align="center">3</td>
-    <td align="center">US09</td>
-    <td align="center">Registro de mantenimientos del Auto</td>
-    <td align="center">Como propietario, Deseo publicar el registro de mantenimiento de mi auto para que el usuario este al tanto del estado del auto</td>
-    <td align="center">5</td>  
-</tr>
-  <tr>
-    <td align="center">4</td>
-    <td align="center">US10</td>
-    <td align="center">Visualización de registro de mantenimiento</td>
-    <td align="center">Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber el estado de este</td>
-    <td align="center">5</td>
-  </tr>
-  <tr>
-    <td align="center">5</td>
     <td align="center">US11</td>
     <td align="center">Solicitud de Alquiler de auto</td>
     <td align="center">Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto</td>
@@ -1122,88 +1093,81 @@ Entonces el sistema le redireccionará a la sección de "Contacto" y mostrará l
   </tr>
 
 <tr>
-    <td align="center">6</td>
+    <td align="center">2</td>
     <td align="center">US12</td>
     <td align="center">Visualización de solicitudes</td>
     <td align="center">Como propietario, Deseo visualizar las solicitudes de los arrendatarios interesados para asi poder realizar el contrato</td>
     <td align="center">3</td>
   </tr>
 <tr>
-    <td align="center">7</td>
+    <td align="center">3</td>
     <td align="center">US04</td>
     <td align="center">Búsqueda de autos según características</td>
     <td align="center">Como Arrendatario, deseo poder buscar autos según datos específicos para asi descartar otros tipos de autos</td>
     <td align="center">3</td>
   </tr>
 <tr>
-    <td align="center">8</td>
-    <td align="center">US07</td>
-    <td align="center">Autos disponibles en una área</td>
-    <td align="center">Como arrendatario, que busca alquilar un auto, quiero poder visualizar todos los autos disponibles de una área para elegir los que se ubican en mi zona</td>
-    <td align="center">3</td>
-  </tr>
-<tr>
-    <td align="center">9</td>
+    <td align="center">4</td>
     <td align="center">US01</td>
     <td align="center">Registro del Arrendatario</td>
     <td align="center">Como arrendatario, deseo registrarme dentro del app para poder alquilar un auto según mi presupuesto.</td>
     <td align="center">3</td>
   </tr>
 <tr>
-    <td align="center">10</td>
+    <td align="center">50</td>
     <td align="center">US02</td>
     <td align="center">Registro del Propietario</td>
     <td align="center">Como Propietario deseo registrarme dentro del app para ofrecer en alquiler mi auto </td>
     <td align="center">2</td>
   </tr>
 <tr>
-    <td align="center">11</td>
+    <td align="center">61</td>
     <td align="center">US03</td>
     <td align="center">Actualización de datos</td>
     <td align="center">Como Usuario, deseo actualizar mis datos guardados en la aplicación para asi tener todo al día</td>
     <td align="center">2</td>
   </tr>
 <tr>
-    <td align="center">12</td>
+    <td align="center">72</td>
     <td align="center">US05</td>
     <td align="center">Inicio de Sesión</td>
     <td align="center">Como usuario registrado, quiero poder iniciar sesión en la aplicación con mi correo electrónico y contraseña.</td>
     <td align="center">2</td>
   </tr>
 <tr>
-    <td align="center">13</td>
-    <td align="center">US13</td>
+    <td align="center">8</td>
+    <td align="center">US08</td>
     <td align="center">Visualización de un sitio web de información de la aplicación</td>
     <td align="center">Como un invitado, deseo visualizar una publicidad de la aplicación </td>
     <td align="center">2</td>
   </tr>
 
 <tr>
-    <td align="center">14</td>
-    <td align="center">US14</td>
+    <td align="center">9</td>
+    <td align="center">US09</td>
     <td align="center">Visualización de Quienes Somos en el landing page</td>
     <td align="center">Como un invitado, deseo visualizar una breve información acerca dela aplicación  </td>
     <td align="center">2</td>
   </tr>
 
 <tr>
-    <td align="center">15</td>
-    <td align="center">US15</td>
+    <td align="center">10</td>
+    <td align="center">US10</td>
     <td align="center">Visualización de los beneficios o compromíso de la aplicación </td>
     <td align="center">Como un invitado, deseo visualizar los compromisos que ofrece la aplicación </td>
     <td align="center">2</td>
   </tr>
 
 <tr>
-    <td align="center">16</td>
-    <td align="center">US16</td>
+    <td align="center">11</td>
+    <td align="center">US11</td>
     <td align="center">Visualización de los testimonios acerca de la aplicación </td>
     <td align="center">Como un invitado, deseo visualizar los testimonios de usuarios que utilizaron la aplicación</td>
     <td align="center">2</td>
   </tr>
 <tr>
-    <td align="center">17</td>
-    <td align="center">US17</td>
+    <td align="center">12</td>
+    <td align="center">US12</td>
     <td align="center">Call to action/td>
     <td align="center">Como un invitado, deseo contactarme con la aplicación</td>
     <td align="center">2</td>
@@ -3323,11 +3287,10 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
   </tr>
 </table>
 
+![impur](https://i.postimg.cc/fRs7JgRQ/Whats-App-Image-2023-11-21-at-17-14-30.jpg)
 
-![impur](https://i.postimg.cc/Dwg9GHTM/Captura-de-pantalla-2023-11-01-160938.png)
 
-
-Link en Trello: https://trello.com/invite/b/KDgY7nah/ATTI567d5e9671821af8386e231903be4199982151AD/sprint-3
+Link en Trello: https://trello.com/invite/b/0vPIMS6b/ATTI49b25b052397fc62e9482960aaa6b4824D750C29/autoya-open-source
 
 
 
@@ -3335,7 +3298,7 @@ Link en Trello: https://trello.com/invite/b/KDgY7nah/ATTI567d5e9671821af8386e231
 \pagebreak 
 </div>
 
-#### Sprint Backlog 3
+#### Sprint Backlog 4
 
 <table>
   <tr>
@@ -3354,28 +3317,36 @@ Link en Trello: https://trello.com/invite/b/KDgY7nah/ATTI567d5e9671821af8386e231
     <td align="center"><strong>Assigned To</strong></td>
     <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
   </tr>
+<tr>
+    <td align="center">US01/US02</td>
+    <td align="center">Implementacion de metodos de Registro</td>
+    <td align="center">Se implemento en el Backend metodos de registro para Arendatario y Propietario</td>
+    <td align="center">5</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+<tr>
+    <td align="center">US03</td>
+    <td align="center">Implementacion metodos de Actualización de Datos</td>
+    <td align="center">Se implemento el metodo de actualización de los datos en el backend para el usuario arrendatario y propietario</td>
+    <td align="center">4</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+<tr>
+    <td align="center">US04</td>
+    <td align="center">Implementacion metodos de Búsqueda de autos según características</td>
+    <td align="center">Se implemento el metodo de Búsqueda de autos según características en el backend para el usuario arrendatario</td>
+    <td align="center">6</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
   <tr>
     <td align="center">US05</td>
     <td align="center">Implementacion metodos de Login</td>
     <td align="center">Se implemento el metodo de login en el backend para el usuario arrendatario y propietario</td>
-    <td align="center">24</td>
+    <td align="center">4</td>
     <td align="center">Ruiz Torres, Erick Hernan</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">US01/US02</td>
-    <td align="center">Implementacion de metodos de Registro</td>
-    <td align="center">Se implemento en el Backend metodos de registro para Arendatario y Propietario</td>
-    <td align="center">48</td>
-    <td align="center">Ruiz Torres, Erick Hernan</td>
-    <td align="center">Done</td>
-  </tr>
-  <tr>
-    <td align="center">US011</td>
-    <td align="center">Implementacion de Profile </td>
-    <td align="center">Se implemento en el Backend el Bounded Context Profile </td>
-    <td align="center">2</td>
-    <td align="center">Urbizagastegui Alvarez, Erick </td>
     <td align="center">Done</td>
   </tr>
   <tr>
@@ -3391,16 +3362,16 @@ Link en Trello: https://trello.com/invite/b/KDgY7nah/ATTI567d5e9671821af8386e231
     <td align="center">Implementacion de Bounded Context Register Vehicule</td>
     <td align="center">Se esta implementando el bounded context de Register Vehicule </td>
     <td align="center">2</td>
-    <td align="center">Meza Camayo, Lynn Jefferson</td>
-    <td align="center">In-Process</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
   </tr>
  <tr>
   <td align="center">US06</td>
     <td align="center">Implementacion de Bounded Context Search Vehicule</td>
     <td align="center">Se esta implementando el bounded context de Search Vehicule </td>
     <td align="center">4</td>
-    <td align="center">Meza Camayo, Lynn Jefferson</td>
-    <td align="center">In-Process</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
   </tr>
  <tr>
   <td align="center">US06</td>
@@ -3408,7 +3379,7 @@ Link en Trello: https://trello.com/invite/b/KDgY7nah/ATTI567d5e9671821af8386e231
     <td align="center">Se esta implementando el bounded context de Rent Vehicule</td>
     <td align="center">4</td>
     <td align="center">Chamorro Torres, Samuel Rolando</td>
-    <td align="center">In-Process</td>
+    <td align="center">Done</td>
   </tr>
   <tr>
    <td align="center">US06</td>
@@ -3416,25 +3387,39 @@ Link en Trello: https://trello.com/invite/b/KDgY7nah/ATTI567d5e9671821af8386e231
     <td align="center">Se esta implementando el bounded context de Notificaciones</td>
     <td align="center">4</td>
     <td align="center">Chamorro Torres, Samuel Rolando</td>
-    <td align="center">In-Process</td>
+    <td align="center">Done</td>
   </tr>
-
   <tr>
    <td align="center">US06</td>
     <td align="center">Implementacion de Bounded Context Notificaciones de Propietario</td>
     <td align="center">Se esta implementando el bounded context de Notificaciones</td>
     <td align="center">4</td>
     <td align="center">Chamorro Torres, Samuel Rolando</td>
-    <td align="center">In-Process</td>
+    <td align="center">Done</td>
   </tr>
-
+<tr>
+   <td align="center">US07</td>
+    <td align="center">Implementacion de Bounded Context Notificaciones de Propietario</td>
+    <td align="center">Se esta implementando el bounded context de Notificaciones</td>
+    <td align="center">4</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">US007</td>
+    <td align="center">Implementacion de Profile </td>
+    <td align="center">Se implemento en el Backend el Bounded Context Profile </td>
+    <td align="center">2</td>
+    <td align="center">Urbizagastegui Alvarez, Erick </td>
+    <td align="center">Done</td>
+  </tr>
    <tr>
-   <td align="center">US12</td>
+   <td align="center">US07</td>
     <td align="center">Implementacion de Bounded Context Solicitudes de Propietario</td>
     <td align="center">Se esta implementando el bounded context de Notificaciones</td>
     <td align="center">4</td>
     <td align="center">Chamorro Torres, Samuel Rolando</td>
-    <td align="center">In-Process</td>
+    <td align="center">Done</td>
   </tr>
 </table>
 
@@ -3519,7 +3504,7 @@ Para esta entrega aun falta realizar los Testing respectivos para la Correcto Fu
 </div>
 
 #### Execution Evidence for Sprint Review
-En esta entrega nos continuamos enfocando en el desarrollo del Backend para nuestra Aplicacion Web. El backend se creo a partir del las necesidades del Frontend y siguiendo los user stories.Para esta entrega se puede observa una mejor organizacion en el diseño del Backend. A continuacion las ventanas mas importantes implementdas.El backend sigue en proceso.
+En esta entrega nos continuamos enfocando en el desarrollo del Backend para nuestra Aplicacion Web. El backend se creo a partir del las necesidades del Frontend y siguiendo los user stories.Para esta entrega se puede observa una mejor organizacion en el diseño del Backend. A continuacion las ventanas mas importantes implementdas. El backend sigue en proceso.
 
 *Registro para arrendatario y propietario*
 ![Imgur](https://i.postimg.cc/HxnwscYL/Captura-de-pantalla-2023-11-01-170016.png)
@@ -3535,9 +3520,13 @@ En esta entrega nos continuamos enfocando en el desarrollo del Backend para nues
 
 
 *ESCTRUCTURRA DE PROYECTO BACKEND*
-![Imgur](https://i.postimg.cc/sDmXfVXB/Captura-de-pantalla-2023-11-01-185928.png)
-![Imgur](https://i.postimg.cc/mgrrt0zm/Captura-de-pantalla-2023-11-01-190002.png)
-![Imgur](https://i.postimg.cc/MprpRd1q/Captura-de-pantalla-2023-11-01-190037.png)
+
+[![back-1.png](https://i.postimg.cc/bwvxxSkm/back-1.png)](https://postimg.cc/rKvRcmh4)
+[![back-2.png](https://i.postimg.cc/wBCDYWPr/back-2.png)](https://postimg.cc/94BDGBcP)
+
+*ESCTRUCTURRA DE PROYECTO FRONTEND*
+[![front-1.png](https://i.postimg.cc/MHxRvnzb/front-1.png)](https://postimg.cc/34SWqJ4d)
+[![front-2.png](https://i.postimg.cc/gJ38zVb2/front-2.png)](https://postimg.cc/bDNsL2v7)
 
 
 #### Services Documentation Evidence for Sprint Review
@@ -3554,17 +3543,19 @@ Se mejoró el frontend aplicandole un fake API.
 
 Frontend desplegado: [https://autoyadeploy-324fd.firebaseapp.com/login-tenant](https://autoyadeploy-324fd.firebaseapp.com/login-tenant)
 
+Se realizó el Deployment tanto del Backend como del Frontend
+
+*DEPLOYMENT DE PROYECTO BACKEND*
+
+[![deply-1.png](https://i.postimg.cc/6p1dY6ht/deply-1.png)](https://postimg.cc/750GLkcW)
+[![deply-2.png](https://i.postimg.cc/m2j31yzc/deply-2.png)](https://postimg.cc/4mKHrt1Z)
+
+*DEPLOYMENT DE PROYECTO FRONTEND*
+[![deply-3.png](https://i.postimg.cc/KYktVX9L/deply-3.png)](https://postimg.cc/DWhWJN3y)
+
 #### Team Collaboration Insights during Sprint
 
-![Imgur](https://i.imgur.com/BafarKG.png)
-
-
-
-
-
-
-
-
+[![Captura-de-pantalla-2023-11-21-173433.png](https://i.postimg.cc/3xpvCjWC/Captura-de-pantalla-2023-11-21-173433.png)](https://postimg.cc/jDx2R7HL)
 
 
 
@@ -3834,7 +3825,7 @@ Link del Video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_up
 
 - Repositorio del Proyecto Frontend: [https://github.com/Grupo-2-Open-Source/Frontend-Web-Application-G2](https://github.com/Grupo-2-Open-Source/Frontend-Web-Application-G2)
 
-- Repositorio del Proyecto Backend: [https://github.com/Grupo-2-Open-Source/Backend-Web-Applications](https://github.com/Grupo-2-Open-Source/Backend-Web-Applications)
+- Repositorio del Proyecto Backend: [https://github.com/Grupo-2-Open-Source/Backend-Web-Applications-V2](https://github.com/Grupo-2-Open-Source/Backend-Web-Applications-V2)
 
 **TB1**
 
@@ -3854,10 +3845,19 @@ Link del Video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_up
 
 - Entrevistas de validación TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EWuEr26u33VNuRWr0qGa_EoBoRzms2yMuMDppqSM-wGsaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=Gun2so](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118946_upc_edu_pe/EWuEr26u33VNuRWr0qGa_EoBoRzms2yMuMDppqSM-wGsaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=Gun2so)
 
-- Link de Backend Desplegado: [colocar link](colocar link)
+- Link de Backend Desplegado: https://autoya-open.azurewebsites.net/swagger-ui/index.html#/
 
 - Video About the Team: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ES8SstPwb1ZEk9fRc__Y8igBovG-dMMYGMwezcy9htWGaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=QyU8PG](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ES8SstPwb1ZEk9fRc__Y8igBovG-dMMYGMwezcy9htWGaw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=QyU8PG)
 
 - Video About the Product: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EbW3M7P9RghIscHXN9dvwlIBgKgvqZC7cGosMx9BGYvkGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=t6zqB2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EbW3M7P9RghIscHXN9dvwlIBgKgvqZC7cGosMx9BGYvkGw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=t6zqB2)
 
 - Video exposición TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EXmiwMJrR4FIsV9M-CvdF9QBtXn2GS74zqgn7ypDflsVKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=G1ts8G](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EXmiwMJrR4FIsV9M-CvdF9QBtXn2GS74zqgn7ypDflsVKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=G1ts8G)
+
+
+**TP**
+
+- Frontend desplegado (ejecutar los json dentro de la carpeta server): [https://autoyadeploy-324fd.web.app/login-tenant](https://autoyadeploy-324fd.web.app/login-tenant)
+
+- Backend desplegado : [https://autoya-open.azurewebsites.net/swagger-ui/index.html#/](https://autoya-open.azurewebsites.net/swagger-ui/index.html#/)
+
+- Video exposición TP: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EVL-XaUZ3BJBp3Z7LfIdq9kBLkpsNlSAMaTSTCTausGDUA?e=cRPTqr](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EVL-XaUZ3BJBp3Z7LfIdq9kBLkpsNlSAMaTSTCTausGDUA?e=cRPTqr)
