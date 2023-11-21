@@ -963,95 +963,6 @@ Entonces el Sistema debe mostrar un mensaje de error <br>
   </tr>
 <tr>
     <td align="center"><strong>US06</strong></td>
-    <td align="center">Publicación de anuncio de alquiler de auto</td>
-    <td align="center">Como propietario de un automóvil, quiero poder crear un anuncio para alquilar mi auto</td>
-    <td align="center">
-Escenario 1: Publicación de anuncio correctamente <br>
-Dado que el propietario se encuentre en sección "Registro de Vehículo" <br>
-Cuando rellene los detalles del automóvil, las tarifas de alquiler y seleccione "Registrar"<br>
-Entonces el sistema lo guardará en la base de datos y móstrara en pantalla el contrato de alquiler. <br>
-
-Escenario 1: Publicación de anuncio incorrectamente <br>
-Dado que el propietario se encuentre en sección "Registro de Vehículo" <br>
-Cuando no termina de rellenar los detalles del automóvil o las tarifas de alquiler <br>
-Entonces el sistema mostrara un mensaje de error <br>
-
-  </td>
-    <td align="center"></td>
-  </tr>
-<tr>
-    <td align="center"><strong>US07</strong></td>
-    <td align="center">Autos disponibles en una área</td>
-    <td align="center">Como arrendatario que busca alquilar un auto, quiero poder visualizar todos los autos disponibles de una área para elegir los que se ubican en mi zona</td>
-    <td align="center">
-Escenario 1: Visualización de autos correctamente <br>
-Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
-Cuando rellene la opción de "Ubicación"<br>
-Entonces el sistema mostrará todos los autos disponibles de la areá seleccionada <br>
-
-Escenario 1: Visualización de autos incorrectamente <br>
-Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
-Cuando rellene la opción de "Ubicación" y no encuentre ningún auto en esa zona<br>
-Entonces el sistema mostrará un mensaje indicando que "no se encontró ningún auto en esa zona"<br>
-</td>
-    <td align="center"></td>
-  </tr>
-
-tr>
-<td align="center"><strong>US08</strong></td>
-<td align="center">Solicitud de alquiler de auto</td>
-<td align="center">Como arrendatario, Deseo poder solicitar el alquiler del auto para asi poder </td>
-<td align="center">
-Escenario 1: Registro de Mantenimiento correctamente <br>
-Dado que el propietario se encuentre en sección "Mantenimiento" <br>
-Cuando rellene el registro de mantenimiento de su auto y seleccione "Registrar"<br>
-Entonces el sistema mostrará "Se Registró correctamente" <br>
-
-Escenario 2: Registro de Mantenimiento incorrectamente<br>
-Dado que el propietario se encuentre en sección "Mantenimiento" <br>
-Cuando no termina de rellenar el registro de mantenimiento de su auto y seleccione "Registrar"<br>
-Entonces el sistema mostrará un mensaje de error <br>
-</td>
-    <td align="center"></td>
-  </tr>
-
-<tr>
-    <td align="center"><strong>US09</strong></td>
-    <td align="center">Registro de mantenimientos del Auto</td>
-    <td align="center">Como propietario, Deseo publicar el registro de mantenimiento de mi auto para que el usuario este al tanto del estado del auto</td>
-    <td align="center">
-Escenario 1: Registro de Mantenimiento correctamente <br>
-Dado que el propietario se encuentre en sección "Mantenimiento" <br>
-Cuando rellene el registro de mantenimiento de su auto y seleccione "Registrar"<br>
-Entonces el sistema mostrará "Se Registró correctamente" <br>
-
-Escenario 2: Registro de Mantenimiento incorrectamente<br>
-Dado que el propietario se encuentre en sección "Mantenimiento" <br>
-Cuando no termina de rellenar el registro de mantenimiento de su auto y seleccione "Registrar"<br>
-Entonces el sistema mostrará un mensaje de error <br>
-</td>
-    <td align="center"></td>
-  </tr>
-
-<tr>
-    <td align="center"><strong>US10</strong></td>
-    <td align="center">Visualización de registro de mantenimiento</td>
-    <td align="center">Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber el estado de este</td>
-    <td align="center">
-Escenario 1: Visualización de registro de Mantenimiento correctamente <br>
-Dado que el arrendatario se encuentre en sección "Mantenimiento" <br>
-Cuando ingrese el auto que desea visualizar con el propietario<br>
-Entonces el sistema mostrará el registro de mantenimiento del auto elegido <br>
-
-Escenario 2: Visualización de registro de Mantenimiento incorrectamente <br>
-Dado que el arrendatario se encuentre en sección "Mantenimiento" <br>
-Cuando ingrese el auto que desea visualizar o el nombre del propietario incorrectamente<br>
-Entonces el sistema mostrará un mensaje indicando "No se encontró el registro del auto seleccionado" <br>
-</td>
-    <td align="center"></td>
-  </tr>
-<tr>
-    <td align="center"><strong>US11</strong></td>
     <td align="center"> Solicitud de Alquiler de auto</td>
     <td align="center">Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto</td>
     <td align="center">
@@ -1068,7 +979,7 @@ Entonces el sistema mandara un mensaje de error<br>
     <td align="center"></td>
   </tr>
 <tr>
-    <td align="center"><strong>US12</strong></td>
+    <td align="center"><strong>US07</strong></td>
     <td align="center">Visualización de solicitudes</td>
     <td align="center">Como propietario, Deseo visualizar las solicitudes de los arrendatarios interesados para asi poder realizar el contrato</td>
     <td align="center">
@@ -1085,7 +996,7 @@ Entonces el sistema mostrará de fondo un mensaje indicando "No hay solicitúdes
     <td align="center"></td>
   </tr>
 <tr>
-    <td align="center"><strong>US13</strong></td>
+    <td align="center"><strong>US08</strong></td>
     <td align="center">Visualización de un sitio web de información de la aplicación</td>
     <td align="center">Como un invitado, deseo visualizar una publicidad de la aplicación </td>
     <td align="center">
@@ -1098,7 +1009,7 @@ Entonces el sistema mostrará la landing page de la aplicación<br>
   </tr>
 
 <tr>
-    <td align="center"><strong>US14</strong></td>
+    <td align="center"><strong>US09</strong></td>
     <td align="center">Visualización de Quienes Somos en el landing page</td>
     <td align="center">Como un invitado, deseo visualizar una breve información acerca dela aplicación </td>
     <td align="center">
@@ -1111,7 +1022,7 @@ Entonces el sistema le redireccionará a la sección de "Acerca de"<br>
   </tr>
 
 <tr>
- <td align="center"><strong>US15</strong></td>
+ <td align="center"><strong>US10</strong></td>
     <td align="center">Visualización de los beneficios o compromíso de la aplicación</td>
     <td align="center">Como un invitado, deseo visualizar los compromisos que ofrece la aplicación </td>
     <td align="center">
@@ -1124,7 +1035,7 @@ Entonces el sistema le redireccionará a la sección de "Acerca de" y mostrará 
   </tr>
 
 <tr>
- <td align="center"><strong>US16</strong></td>
+ <td align="center"><strong>US11</strong></td>
     <td align="center">Visualización de los testimonios acerca de la aplicación</td>
     <td align="center">Como un invitado, deseo visualizar los testimonios de usuarios que utilizaron la aplicación</td>
     <td align="center">
@@ -1137,7 +1048,7 @@ Entonces el sistema le redireccionará a la sección de "testimonios" y mostrar�
   </tr>
 
 <tr>
- <td align="center"><strong>US17</strong></td>
+ <td align="center"><strong>US12</strong></td>
     <td align="center">Call to action</td>
     <td align="center">Como un invitado, deseo contactarme con la aplicación</td>
     <td align="center">
@@ -3349,6 +3260,315 @@ Frontend desplegado: [https://autoyadeploy-324fd.firebaseapp.com/login-tenant](h
 #### Team Collaboration Insights during Sprint
 
 ![Imgur](https://i.imgur.com/BafarKG.png)
+
+
+
+### Sprint 4
+
+#### Sprint Planning 4
+
+Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Cada integrante del equipo estuvo presente en dicha conversación y acordó cumplir con la tarea asignada.
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>4</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2023-11-15</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">7:00 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por WhatsApp</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Chamorro Torres, Samuel Rolando<br>Meza Camayo, Lynn Jefferson<br>Ruiz Torres, Erick Hernan<br>Urbizagastegui Alvarez, Erick Gabriel</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 – 2 Review Summary</td>
+    <td align="center">Se implementó el frontend de la aplicación.</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 – 2 Retrospective Summary</td>
+    <td align="center">Se implementó el frontend de AutoYa! y se usó un fakeAPI para poder consumir datos.</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 Goal</td>
+    <td align="center">Se debe realizar un avance del backend de la aplicación.</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">7 días</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table>
+
+
+![impur](https://i.postimg.cc/Dwg9GHTM/Captura-de-pantalla-2023-11-01-160938.png)
+
+
+Link en Trello: https://trello.com/invite/b/KDgY7nah/ATTI567d5e9671821af8386e231903be4199982151AD/sprint-3
+
+
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+#### Sprint Backlog 3
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">US05</td>
+    <td align="center">Implementacion metodos de Login</td>
+    <td align="center">Se implemento el metodo de login en el backend para el usuario arrendatario y propietario</td>
+    <td align="center">24</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">US01/US02</td>
+    <td align="center">Implementacion de metodos de Registro</td>
+    <td align="center">Se implemento en el Backend metodos de registro para Arendatario y Propietario</td>
+    <td align="center">48</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">US011</td>
+    <td align="center">Implementacion de Profile </td>
+    <td align="center">Se implemento en el Backend el Bounded Context Profile </td>
+    <td align="center">2</td>
+    <td align="center">Urbizagastegui Alvarez, Erick </td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">US06</td>
+    <td align="center">Implementacion de Entidad Vehiculo</td>
+    <td align="center">En el Backend se implemento la entidad vehicule para el los usuarios Arrendatario y Propietario</td>
+    <td align="center">2</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+  <td align="center">US06</td>
+    <td align="center">Implementacion de Bounded Context Register Vehicule</td>
+    <td align="center">Se esta implementando el bounded context de Register Vehicule </td>
+    <td align="center">2</td>
+    <td align="center">Meza Camayo, Lynn Jefferson</td>
+    <td align="center">In-Process</td>
+  </tr>
+ <tr>
+  <td align="center">US06</td>
+    <td align="center">Implementacion de Bounded Context Search Vehicule</td>
+    <td align="center">Se esta implementando el bounded context de Search Vehicule </td>
+    <td align="center">4</td>
+    <td align="center">Meza Camayo, Lynn Jefferson</td>
+    <td align="center">In-Process</td>
+  </tr>
+ <tr>
+  <td align="center">US06</td>
+    <td align="center">Implementacion de Bounded Context Rent Vehicule de Arrendatario y Propietario</td>
+    <td align="center">Se esta implementando el bounded context de Rent Vehicule</td>
+    <td align="center">4</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">In-Process</td>
+  </tr>
+  <tr>
+   <td align="center">US06</td>
+    <td align="center">Implementacion de Bounded Context Notificaciones de Propietario</td>
+    <td align="center">Se esta implementando el bounded context de Notificaciones</td>
+    <td align="center">4</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">In-Process</td>
+  </tr>
+
+  <tr>
+   <td align="center">US06</td>
+    <td align="center">Implementacion de Bounded Context Notificaciones de Propietario</td>
+    <td align="center">Se esta implementando el bounded context de Notificaciones</td>
+    <td align="center">4</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">In-Process</td>
+  </tr>
+
+   <tr>
+   <td align="center">US12</td>
+    <td align="center">Implementacion de Bounded Context Solicitudes de Propietario</td>
+    <td align="center">Se esta implementando el bounded context de Notificaciones</td>
+    <td align="center">4</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">In-Process</td>
+  </tr>
+</table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+#### Development Evidence for Sprint Review
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">login/Backend-Web-Applications</td>
+    <td align="center">main</td>
+    <td align="center">f3596e9c43c1e22b0826e4165f1b4a119ae7853a</td>
+    <td align="center">build:login</td>
+    <td align="center">metodos para el login </td>
+    <td align="center">23/10/2023</td>
+  </tr>
+    <tr>
+    <td align="center">register/Backend-Web-Applications</td>
+    <td align="center">main</td>
+    <td align="center">b4f999a61797d7e62acc7e5166bb20ce0494e2c5</td>
+    <td align="center">build:register</td>
+    <td align="center">metodos para el register</td>
+    <td align="center">26/10/2023</td>
+  </tr>
+   <tr>
+    <td align="center">profile/Backend-Web-Applications</td>
+    <td align="center">main</td>
+    <td align="center">08ada3d64613a2a51c71646367d500378db28700</td>
+    <td align="center">build:profile</td>
+    <td align="center">metodos para el Profile</td>
+    <td align="center">28/10/2023</td>
+  </tr>
+     <tr>
+    <td align="center">automovile/Backend-Web-Applications</td>
+    <td align="center">main</td>
+    <td align="center">c3bfe20f9d2fbdf5d2d49b406712d882bfcba7ba</td>
+    <td align="center">build:automobile</td>
+    <td align="center">metodos para la entidad Automobile</td>
+    <td align="center">30/10/2023</td>
+  </tr>
+</table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+#### Testing Suite Evidence for Sprint Review
+
+Para esta entrega aun falta realizar los Testing respectivos para la Correcto Funcionamiento del Backend.
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">ErickUrbizagastegui/Informe_de_trabajo</td>
+    <td align="center">main</td>
+    <td align="center">5dd3029e0020d914503effd7c81db14d01754c8b</td>
+    <td align="center">Agregados acceptance tests gherkin</td>
+    <td align="center">Agregados los archivos .feature con los acceptance tests en gherkin.</td>
+    <td align="center">26/09/2021</td>
+  </tr>
+</table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+#### Execution Evidence for Sprint Review
+En esta entrega nos continuamos enfocando en el desarrollo del Backend para nuestra Aplicacion Web. El backend se creo a partir del las necesidades del Frontend y siguiendo los user stories.Para esta entrega se puede observa una mejor organizacion en el diseño del Backend. A continuacion las ventanas mas importantes implementdas.El backend sigue en proceso.
+
+*Registro para arrendatario y propietario*
+![Imgur](https://i.postimg.cc/HxnwscYL/Captura-de-pantalla-2023-11-01-170016.png)
+
+*Alquiler de arrendatario*
+![Imgur](https://i.postimg.cc/hhWTr29J/Captura-de-pantalla-2023-11-01-170433.png)
+
+*Notificaciones de arrendatario*
+![Imgur](https://i.postimg.cc/QCWc12WG/Captura-de-pantalla-2023-11-01-170442.png)
+
+*Perfil de Usuario*
+![Imgur](https://i.postimg.cc/k4HxVJGv/Captura-de-pantalla-2023-11-01-170508.png)
+
+
+*ESCTRUCTURRA DE PROYECTO BACKEND*
+![Imgur](https://i.postimg.cc/sDmXfVXB/Captura-de-pantalla-2023-11-01-185928.png)
+![Imgur](https://i.postimg.cc/mgrrt0zm/Captura-de-pantalla-2023-11-01-190002.png)
+![Imgur](https://i.postimg.cc/MprpRd1q/Captura-de-pantalla-2023-11-01-190037.png)
+
+
+#### Services Documentation Evidence for Sprint Review
+
+Para la creación del backend del proyecto se utilizó lo siguiente:
+- IntellIJ Ultimate (IDE de desarrollo): Hemos usado IntellIJ para el desarrollo de nuestro backend.
+- Spring Boot: Spring Boot simplifica el desarrollo de aplicaciones Java al proporcionar un marco eficiente y productivo para crear aplicaciones web y microservicios en nuestro proyecto.
+- MySQL: Se seleccionó MySQL para poder desarrollar la base de datos de nuestro proyecto.
+- Postman API: Se utilizó Postman API para realizar las pruebas de envío de datos de nuestro proyecto.
+
+#### Software Deployment Evidence for Sprint Review
+
+Se mejoró el frontend aplicandole un fake API.
+
+Frontend desplegado: [https://autoyadeploy-324fd.firebaseapp.com/login-tenant](https://autoyadeploy-324fd.firebaseapp.com/login-tenant)
+
+#### Team Collaboration Insights during Sprint
+
+![Imgur](https://i.imgur.com/BafarKG.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Validation Interviews
