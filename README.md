@@ -3260,7 +3260,7 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
   </tr>
   <tr>
     <td align="center">Attendees (to planning meeting)</td>
-    <td align="center">Chamorro Torres, Samuel Rolando<br>Meza Camayo, Lynn Jefferson<br>Ruiz Torres, Erick Hernan<br>Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">Chamorro Torres, Samuel Rolando<br>Ruiz Torres, Erick Hernan<br>Urbizagastegui Alvarez, Erick Gabriel</td>
   </tr>
   <tr>
     <td align="center">Sprint 1 – 2 Review Summary</td>
@@ -3439,36 +3439,36 @@ Link en Trello: https://trello.com/invite/b/0vPIMS6b/ATTI49b25b052397fc62e948296
     <td align="center"><strong>Commited on (Date)</strong></td>
   </tr>
   <tr>
-    <td align="center">login/Backend-Web-Applications</td>
+    <td align="center">seguridad</td>
     <td align="center">main</td>
-    <td align="center">f3596e9c43c1e22b0826e4165f1b4a119ae7853a</td>
+    <td align="center">58d0a06017abd50698d6410be2cae707d84d878f</td>
     <td align="center">build:login</td>
     <td align="center">metodos para el login </td>
-    <td align="center">23/10/2023</td>
+    <td align="center">18/11/2023</td>
   </tr>
     <tr>
-    <td align="center">register/Backend-Web-Applications</td>
+    <td align="center">documentation</td>
     <td align="center">main</td>
-    <td align="center">b4f999a61797d7e62acc7e5166bb20ce0494e2c5</td>
+    <td align="center">924952ce43052ea32383b7d9d45fd1f82d865a0e</td>
     <td align="center">build:register</td>
     <td align="center">metodos para el register</td>
-    <td align="center">26/10/2023</td>
+    <td align="center">18/11/2023</td>
   </tr>
    <tr>
-    <td align="center">profile/Backend-Web-Applications</td>
+    <td align="center">Documentación de backend</td>
     <td align="center">main</td>
-    <td align="center">08ada3d64613a2a51c71646367d500378db28700</td>
+    <td align="center">a551fdce5dd3eeea669a99e599fcaca1e4e5d955</td>
     <td align="center">build:profile</td>
     <td align="center">metodos para el Profile</td>
-    <td align="center">28/10/2023</td>
+    <td align="center">19/11/2023</td>
   </tr>
      <tr>
-    <td align="center">automovile/Backend-Web-Applications</td>
+    <td align="center">build: backend</td>
     <td align="center">main</td>
-    <td align="center">c3bfe20f9d2fbdf5d2d49b406712d882bfcba7ba</td>
+    <td align="center">bf89900648962ecb3e7fda04fc29a24950ed30d8</td>
     <td align="center">build:automobile</td>
     <td align="center">metodos para la entidad Automobile</td>
-    <td align="center">30/10/2023</td>
+    <td align="center">21/11/2023</td>
   </tr>
 </table>
 
