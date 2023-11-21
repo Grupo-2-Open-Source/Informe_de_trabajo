@@ -3286,11 +3286,10 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
   </tr>
 </table>
 
+![impur](https://i.postimg.cc/fRs7JgRQ/Whats-App-Image-2023-11-21-at-17-14-30.jpg)
 
-![impur](https://i.postimg.cc/Dwg9GHTM/Captura-de-pantalla-2023-11-01-160938.png)
 
-
-Link en Trello: https://trello.com/invite/b/KDgY7nah/ATTI567d5e9671821af8386e231903be4199982151AD/sprint-3
+Link en Trello: https://trello.com/invite/b/0vPIMS6b/ATTI49b25b052397fc62e9482960aaa6b4824D750C29/autoya-open-source
 
 
 
@@ -3321,7 +3320,7 @@ Link en Trello: https://trello.com/invite/b/KDgY7nah/ATTI567d5e9671821af8386e231
     <td align="center">US01/US02</td>
     <td align="center">Implementacion de metodos de Registro</td>
     <td align="center">Se implemento en el Backend metodos de registro para Arendatario y Propietario</td>
-    <td align="center">36</td>
+    <td align="center">5</td>
     <td align="center">Ruiz Torres, Erick Hernan</td>
     <td align="center">Done</td>
   </tr>
@@ -3329,7 +3328,7 @@ Link en Trello: https://trello.com/invite/b/KDgY7nah/ATTI567d5e9671821af8386e231
     <td align="center">US03</td>
     <td align="center">Implementacion metodos de Actualización de Datos</td>
     <td align="center">Se implemento el metodo de actualización de los datos en el backend para el usuario arrendatario y propietario</td>
-    <td align="center">24</td>
+    <td align="center">4</td>
     <td align="center">Ruiz Torres, Erick Hernan</td>
     <td align="center">Done</td>
   </tr>
@@ -3337,7 +3336,7 @@ Link en Trello: https://trello.com/invite/b/KDgY7nah/ATTI567d5e9671821af8386e231
     <td align="center">US04</td>
     <td align="center">Implementacion metodos de Búsqueda de autos según características</td>
     <td align="center">Se implemento el metodo de Búsqueda de autos según características en el backend para el usuario arrendatario</td>
-    <td align="center">36</td>
+    <td align="center">6</td>
     <td align="center">Ruiz Torres, Erick Hernan</td>
     <td align="center">Done</td>
   </tr>
@@ -3345,7 +3344,7 @@ Link en Trello: https://trello.com/invite/b/KDgY7nah/ATTI567d5e9671821af8386e231
     <td align="center">US05</td>
     <td align="center">Implementacion metodos de Login</td>
     <td align="center">Se implemento el metodo de login en el backend para el usuario arrendatario y propietario</td>
-    <td align="center">24</td>
+    <td align="center">4</td>
     <td align="center">Ruiz Torres, Erick Hernan</td>
     <td align="center">Done</td>
   </tr>
@@ -3520,9 +3519,13 @@ En esta entrega nos continuamos enfocando en el desarrollo del Backend para nues
 
 
 *ESCTRUCTURRA DE PROYECTO BACKEND*
-![Imgur](https://i.postimg.cc/sDmXfVXB/Captura-de-pantalla-2023-11-01-185928.png)
-![Imgur](https://i.postimg.cc/mgrrt0zm/Captura-de-pantalla-2023-11-01-190002.png)
-![Imgur](https://i.postimg.cc/MprpRd1q/Captura-de-pantalla-2023-11-01-190037.png)
+
+[![back-1.png](https://i.postimg.cc/bwvxxSkm/back-1.png)](https://postimg.cc/rKvRcmh4)
+[![back-2.png](https://i.postimg.cc/wBCDYWPr/back-2.png)](https://postimg.cc/94BDGBcP)
+
+*ESCTRUCTURRA DE PROYECTO FRONTEND*
+[![front-1.png](https://i.postimg.cc/MHxRvnzb/front-1.png)](https://postimg.cc/34SWqJ4d)
+[![front-2.png](https://i.postimg.cc/gJ38zVb2/front-2.png)](https://postimg.cc/bDNsL2v7)
 
 
 #### Services Documentation Evidence for Sprint Review
@@ -3539,17 +3542,19 @@ Se mejoró el frontend aplicandole un fake API.
 
 Frontend desplegado: [https://autoyadeploy-324fd.firebaseapp.com/login-tenant](https://autoyadeploy-324fd.firebaseapp.com/login-tenant)
 
+Se realizó el Deployment tanto del Backend como del Frontend
+
+*DEPLOYMENT DE PROYECTO BACKEND*
+
+[![deply-1.png](https://i.postimg.cc/6p1dY6ht/deply-1.png)](https://postimg.cc/750GLkcW)
+[![deply-2.png](https://i.postimg.cc/m2j31yzc/deply-2.png)](https://postimg.cc/4mKHrt1Z)
+
+*DEPLOYMENT DE PROYECTO FRONTEND*
+[![deply-3.png](https://i.postimg.cc/KYktVX9L/deply-3.png)](https://postimg.cc/DWhWJN3y)
+
 #### Team Collaboration Insights during Sprint
 
-![Imgur](https://i.imgur.com/BafarKG.png)
-
-
-
-
-
-
-
-
+[![Captura-de-pantalla-2023-11-21-173433.png](https://i.postimg.cc/3xpvCjWC/Captura-de-pantalla-2023-11-21-173433.png)](https://postimg.cc/jDx2R7HL)
 
 
 
@@ -3854,4 +3859,4 @@ Link del Video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_up
 
 - Backend desplegado : [https://autoya-open.azurewebsites.net/swagger-ui/index.html#/](https://autoya-open.azurewebsites.net/swagger-ui/index.html#/)
 
-- Video exposición TP: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ERfDD2XbCyhBjKJPD5FWP10Bks0jjjPf9xZuaSxkK56Rvw?e=CLQTeQ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/ERfDD2XbCyhBjKJPD5FWP10Bks0jjjPf9xZuaSxkK56Rvw?e=CLQTeQ)
+- Video exposición TP: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EVL-XaUZ3BJBp3Z7LfIdq9kBLkpsNlSAMaTSTCTausGDUA?e=cRPTqr](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EVL-XaUZ3BJBp3Z7LfIdq9kBLkpsNlSAMaTSTCTausGDUA?e=cRPTqr)
