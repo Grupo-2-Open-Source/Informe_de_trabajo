@@ -963,95 +963,6 @@ Entonces el Sistema debe mostrar un mensaje de error <br>
   </tr>
 <tr>
     <td align="center"><strong>US06</strong></td>
-    <td align="center">Publicación de anuncio de alquiler de auto</td>
-    <td align="center">Como propietario de un automóvil, quiero poder crear un anuncio para alquilar mi auto</td>
-    <td align="center">
-Escenario 1: Publicación de anuncio correctamente <br>
-Dado que el propietario se encuentre en sección "Registro de Vehículo" <br>
-Cuando rellene los detalles del automóvil, las tarifas de alquiler y seleccione "Registrar"<br>
-Entonces el sistema lo guardará en la base de datos y móstrara en pantalla el contrato de alquiler. <br>
-
-Escenario 1: Publicación de anuncio incorrectamente <br>
-Dado que el propietario se encuentre en sección "Registro de Vehículo" <br>
-Cuando no termina de rellenar los detalles del automóvil o las tarifas de alquiler <br>
-Entonces el sistema mostrara un mensaje de error <br>
-
-  </td>
-    <td align="center"></td>
-  </tr>
-<tr>
-    <td align="center"><strong>US07</strong></td>
-    <td align="center">Autos disponibles en una área</td>
-    <td align="center">Como arrendatario que busca alquilar un auto, quiero poder visualizar todos los autos disponibles de una área para elegir los que se ubican en mi zona</td>
-    <td align="center">
-Escenario 1: Visualización de autos correctamente <br>
-Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
-Cuando rellene la opción de "Ubicación"<br>
-Entonces el sistema mostrará todos los autos disponibles de la areá seleccionada <br>
-
-Escenario 1: Visualización de autos incorrectamente <br>
-Dado que el arrendatario se encuentre en sección "Buscar auto" <br>
-Cuando rellene la opción de "Ubicación" y no encuentre ningún auto en esa zona<br>
-Entonces el sistema mostrará un mensaje indicando que "no se encontró ningún auto en esa zona"<br>
-</td>
-    <td align="center"></td>
-  </tr>
-
-tr>
-<td align="center"><strong>US08</strong></td>
-<td align="center">Solicitud de alquiler de auto</td>
-<td align="center">Como arrendatario, Deseo poder solicitar el alquiler del auto para asi poder </td>
-<td align="center">
-Escenario 1: Registro de Mantenimiento correctamente <br>
-Dado que el propietario se encuentre en sección "Mantenimiento" <br>
-Cuando rellene el registro de mantenimiento de su auto y seleccione "Registrar"<br>
-Entonces el sistema mostrará "Se Registró correctamente" <br>
-
-Escenario 2: Registro de Mantenimiento incorrectamente<br>
-Dado que el propietario se encuentre en sección "Mantenimiento" <br>
-Cuando no termina de rellenar el registro de mantenimiento de su auto y seleccione "Registrar"<br>
-Entonces el sistema mostrará un mensaje de error <br>
-</td>
-    <td align="center"></td>
-  </tr>
-
-<tr>
-    <td align="center"><strong>US09</strong></td>
-    <td align="center">Registro de mantenimientos del Auto</td>
-    <td align="center">Como propietario, Deseo publicar el registro de mantenimiento de mi auto para que el usuario este al tanto del estado del auto</td>
-    <td align="center">
-Escenario 1: Registro de Mantenimiento correctamente <br>
-Dado que el propietario se encuentre en sección "Mantenimiento" <br>
-Cuando rellene el registro de mantenimiento de su auto y seleccione "Registrar"<br>
-Entonces el sistema mostrará "Se Registró correctamente" <br>
-
-Escenario 2: Registro de Mantenimiento incorrectamente<br>
-Dado que el propietario se encuentre en sección "Mantenimiento" <br>
-Cuando no termina de rellenar el registro de mantenimiento de su auto y seleccione "Registrar"<br>
-Entonces el sistema mostrará un mensaje de error <br>
-</td>
-    <td align="center"></td>
-  </tr>
-
-<tr>
-    <td align="center"><strong>US10</strong></td>
-    <td align="center">Visualización de registro de mantenimiento</td>
-    <td align="center">Como arrendatario, quiero visualizar el registro de mantenimiento del auto para saber el estado de este</td>
-    <td align="center">
-Escenario 1: Visualización de registro de Mantenimiento correctamente <br>
-Dado que el arrendatario se encuentre en sección "Mantenimiento" <br>
-Cuando ingrese el auto que desea visualizar con el propietario<br>
-Entonces el sistema mostrará el registro de mantenimiento del auto elegido <br>
-
-Escenario 2: Visualización de registro de Mantenimiento incorrectamente <br>
-Dado que el arrendatario se encuentre en sección "Mantenimiento" <br>
-Cuando ingrese el auto que desea visualizar o el nombre del propietario incorrectamente<br>
-Entonces el sistema mostrará un mensaje indicando "No se encontró el registro del auto seleccionado" <br>
-</td>
-    <td align="center"></td>
-  </tr>
-<tr>
-    <td align="center"><strong>US11</strong></td>
     <td align="center"> Solicitud de Alquiler de auto</td>
     <td align="center">Como arrendatario, Deseo solicitar el alquiler del auto para asi poder utilizar el auto</td>
     <td align="center">
@@ -1068,7 +979,7 @@ Entonces el sistema mandara un mensaje de error<br>
     <td align="center"></td>
   </tr>
 <tr>
-    <td align="center"><strong>US12</strong></td>
+    <td align="center"><strong>US07</strong></td>
     <td align="center">Visualización de solicitudes</td>
     <td align="center">Como propietario, Deseo visualizar las solicitudes de los arrendatarios interesados para asi poder realizar el contrato</td>
     <td align="center">
@@ -1085,7 +996,7 @@ Entonces el sistema mostrará de fondo un mensaje indicando "No hay solicitúdes
     <td align="center"></td>
   </tr>
 <tr>
-    <td align="center"><strong>US13</strong></td>
+    <td align="center"><strong>US08</strong></td>
     <td align="center">Visualización de un sitio web de información de la aplicación</td>
     <td align="center">Como un invitado, deseo visualizar una publicidad de la aplicación </td>
     <td align="center">
@@ -1098,7 +1009,7 @@ Entonces el sistema mostrará la landing page de la aplicación<br>
   </tr>
 
 <tr>
-    <td align="center"><strong>US14</strong></td>
+    <td align="center"><strong>US09</strong></td>
     <td align="center">Visualización de Quienes Somos en el landing page</td>
     <td align="center">Como un invitado, deseo visualizar una breve información acerca dela aplicación </td>
     <td align="center">
@@ -1111,7 +1022,7 @@ Entonces el sistema le redireccionará a la sección de "Acerca de"<br>
   </tr>
 
 <tr>
- <td align="center"><strong>US15</strong></td>
+ <td align="center"><strong>US10</strong></td>
     <td align="center">Visualización de los beneficios o compromíso de la aplicación</td>
     <td align="center">Como un invitado, deseo visualizar los compromisos que ofrece la aplicación </td>
     <td align="center">
@@ -1124,7 +1035,7 @@ Entonces el sistema le redireccionará a la sección de "Acerca de" y mostrará 
   </tr>
 
 <tr>
- <td align="center"><strong>US16</strong></td>
+ <td align="center"><strong>US11</strong></td>
     <td align="center">Visualización de los testimonios acerca de la aplicación</td>
     <td align="center">Como un invitado, deseo visualizar los testimonios de usuarios que utilizaron la aplicación</td>
     <td align="center">
@@ -1137,7 +1048,7 @@ Entonces el sistema le redireccionará a la sección de "testimonios" y mostrar�
   </tr>
 
 <tr>
- <td align="center"><strong>US17</strong></td>
+ <td align="center"><strong>US12</strong></td>
     <td align="center">Call to action</td>
     <td align="center">Como un invitado, deseo contactarme con la aplicación</td>
     <td align="center">
