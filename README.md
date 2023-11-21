@@ -3351,6 +3351,315 @@ Frontend desplegado: [https://autoyadeploy-324fd.firebaseapp.com/login-tenant](h
 ![Imgur](https://i.imgur.com/BafarKG.png)
 
 
+
+### Sprint 4
+
+#### Sprint Planning 4
+
+Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Cada integrante del equipo estuvo presente en dicha conversación y acordó cumplir con la tarea asignada.
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>4</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2023-11-15</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">7:00 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por WhatsApp</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Chamorro Torres, Samuel Rolando<br>Meza Camayo, Lynn Jefferson<br>Ruiz Torres, Erick Hernan<br>Urbizagastegui Alvarez, Erick Gabriel</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 – 2 Review Summary</td>
+    <td align="center">Se implementó el frontend de la aplicación.</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 1 – 2 Retrospective Summary</td>
+    <td align="center">Se implementó el frontend de AutoYa! y se usó un fakeAPI para poder consumir datos.</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 2 Goal</td>
+    <td align="center">Se debe realizar un avance del backend de la aplicación.</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">7 días</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table>
+
+
+![impur](https://i.postimg.cc/Dwg9GHTM/Captura-de-pantalla-2023-11-01-160938.png)
+
+
+Link en Trello: https://trello.com/invite/b/KDgY7nah/ATTI567d5e9671821af8386e231903be4199982151AD/sprint-3
+
+
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+#### Sprint Backlog 3
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">US05</td>
+    <td align="center">Implementacion metodos de Login</td>
+    <td align="center">Se implemento el metodo de login en el backend para el usuario arrendatario y propietario</td>
+    <td align="center">24</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">US01/US02</td>
+    <td align="center">Implementacion de metodos de Registro</td>
+    <td align="center">Se implemento en el Backend metodos de registro para Arendatario y Propietario</td>
+    <td align="center">48</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">US011</td>
+    <td align="center">Implementacion de Profile </td>
+    <td align="center">Se implemento en el Backend el Bounded Context Profile </td>
+    <td align="center">2</td>
+    <td align="center">Urbizagastegui Alvarez, Erick </td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">US06</td>
+    <td align="center">Implementacion de Entidad Vehiculo</td>
+    <td align="center">En el Backend se implemento la entidad vehicule para el los usuarios Arrendatario y Propietario</td>
+    <td align="center">2</td>
+    <td align="center">Ruiz Torres, Erick Hernan</td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+  <td align="center">US06</td>
+    <td align="center">Implementacion de Bounded Context Register Vehicule</td>
+    <td align="center">Se esta implementando el bounded context de Register Vehicule </td>
+    <td align="center">2</td>
+    <td align="center">Meza Camayo, Lynn Jefferson</td>
+    <td align="center">In-Process</td>
+  </tr>
+ <tr>
+  <td align="center">US06</td>
+    <td align="center">Implementacion de Bounded Context Search Vehicule</td>
+    <td align="center">Se esta implementando el bounded context de Search Vehicule </td>
+    <td align="center">4</td>
+    <td align="center">Meza Camayo, Lynn Jefferson</td>
+    <td align="center">In-Process</td>
+  </tr>
+ <tr>
+  <td align="center">US06</td>
+    <td align="center">Implementacion de Bounded Context Rent Vehicule de Arrendatario y Propietario</td>
+    <td align="center">Se esta implementando el bounded context de Rent Vehicule</td>
+    <td align="center">4</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">In-Process</td>
+  </tr>
+  <tr>
+   <td align="center">US06</td>
+    <td align="center">Implementacion de Bounded Context Notificaciones de Propietario</td>
+    <td align="center">Se esta implementando el bounded context de Notificaciones</td>
+    <td align="center">4</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">In-Process</td>
+  </tr>
+
+  <tr>
+   <td align="center">US06</td>
+    <td align="center">Implementacion de Bounded Context Notificaciones de Propietario</td>
+    <td align="center">Se esta implementando el bounded context de Notificaciones</td>
+    <td align="center">4</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">In-Process</td>
+  </tr>
+
+   <tr>
+   <td align="center">US12</td>
+    <td align="center">Implementacion de Bounded Context Solicitudes de Propietario</td>
+    <td align="center">Se esta implementando el bounded context de Notificaciones</td>
+    <td align="center">4</td>
+    <td align="center">Chamorro Torres, Samuel Rolando</td>
+    <td align="center">In-Process</td>
+  </tr>
+</table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+#### Development Evidence for Sprint Review
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">login/Backend-Web-Applications</td>
+    <td align="center">main</td>
+    <td align="center">f3596e9c43c1e22b0826e4165f1b4a119ae7853a</td>
+    <td align="center">build:login</td>
+    <td align="center">metodos para el login </td>
+    <td align="center">23/10/2023</td>
+  </tr>
+    <tr>
+    <td align="center">register/Backend-Web-Applications</td>
+    <td align="center">main</td>
+    <td align="center">b4f999a61797d7e62acc7e5166bb20ce0494e2c5</td>
+    <td align="center">build:register</td>
+    <td align="center">metodos para el register</td>
+    <td align="center">26/10/2023</td>
+  </tr>
+   <tr>
+    <td align="center">profile/Backend-Web-Applications</td>
+    <td align="center">main</td>
+    <td align="center">08ada3d64613a2a51c71646367d500378db28700</td>
+    <td align="center">build:profile</td>
+    <td align="center">metodos para el Profile</td>
+    <td align="center">28/10/2023</td>
+  </tr>
+     <tr>
+    <td align="center">automovile/Backend-Web-Applications</td>
+    <td align="center">main</td>
+    <td align="center">c3bfe20f9d2fbdf5d2d49b406712d882bfcba7ba</td>
+    <td align="center">build:automobile</td>
+    <td align="center">metodos para la entidad Automobile</td>
+    <td align="center">30/10/2023</td>
+  </tr>
+</table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+#### Testing Suite Evidence for Sprint Review
+
+Para esta entrega aun falta realizar los Testing respectivos para la Correcto Funcionamiento del Backend.
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">ErickUrbizagastegui/Informe_de_trabajo</td>
+    <td align="center">main</td>
+    <td align="center">5dd3029e0020d914503effd7c81db14d01754c8b</td>
+    <td align="center">Agregados acceptance tests gherkin</td>
+    <td align="center">Agregados los archivos .feature con los acceptance tests en gherkin.</td>
+    <td align="center">26/09/2021</td>
+  </tr>
+</table>
+
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div>
+
+#### Execution Evidence for Sprint Review
+En esta entrega nos continuamos enfocando en el desarrollo del Backend para nuestra Aplicacion Web. El backend se creo a partir del las necesidades del Frontend y siguiendo los user stories.Para esta entrega se puede observa una mejor organizacion en el diseño del Backend. A continuacion las ventanas mas importantes implementdas.El backend sigue en proceso.
+
+*Registro para arrendatario y propietario*
+![Imgur](https://i.postimg.cc/HxnwscYL/Captura-de-pantalla-2023-11-01-170016.png)
+
+*Alquiler de arrendatario*
+![Imgur](https://i.postimg.cc/hhWTr29J/Captura-de-pantalla-2023-11-01-170433.png)
+
+*Notificaciones de arrendatario*
+![Imgur](https://i.postimg.cc/QCWc12WG/Captura-de-pantalla-2023-11-01-170442.png)
+
+*Perfil de Usuario*
+![Imgur](https://i.postimg.cc/k4HxVJGv/Captura-de-pantalla-2023-11-01-170508.png)
+
+
+*ESCTRUCTURRA DE PROYECTO BACKEND*
+![Imgur](https://i.postimg.cc/sDmXfVXB/Captura-de-pantalla-2023-11-01-185928.png)
+![Imgur](https://i.postimg.cc/mgrrt0zm/Captura-de-pantalla-2023-11-01-190002.png)
+![Imgur](https://i.postimg.cc/MprpRd1q/Captura-de-pantalla-2023-11-01-190037.png)
+
+
+#### Services Documentation Evidence for Sprint Review
+
+Para la creación del backend del proyecto se utilizó lo siguiente:
+- IntellIJ Ultimate (IDE de desarrollo): Hemos usado IntellIJ para el desarrollo de nuestro backend.
+- Spring Boot: Spring Boot simplifica el desarrollo de aplicaciones Java al proporcionar un marco eficiente y productivo para crear aplicaciones web y microservicios en nuestro proyecto.
+- MySQL: Se seleccionó MySQL para poder desarrollar la base de datos de nuestro proyecto.
+- Postman API: Se utilizó Postman API para realizar las pruebas de envío de datos de nuestro proyecto.
+
+#### Software Deployment Evidence for Sprint Review
+
+Se mejoró el frontend aplicandole un fake API.
+
+Frontend desplegado: [https://autoyadeploy-324fd.firebaseapp.com/login-tenant](https://autoyadeploy-324fd.firebaseapp.com/login-tenant)
+
+#### Team Collaboration Insights during Sprint
+
+![Imgur](https://i.imgur.com/BafarKG.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Validation Interviews
 
 ### Diseño de Entrevistas
