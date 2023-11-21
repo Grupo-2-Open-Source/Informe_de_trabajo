@@ -3854,7 +3854,7 @@ Link del Video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_up
 - Video exposición TB2: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EXmiwMJrR4FIsV9M-CvdF9QBtXn2GS74zqgn7ypDflsVKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=G1ts8G](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EXmiwMJrR4FIsV9M-CvdF9QBtXn2GS74zqgn7ypDflsVKw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=G1ts8G)
 
 
-**TP**
+**TF**
 
 - Frontend desplegado (ejecutar los json dentro de la carpeta server): [https://autoyadeploy-324fd.web.app/login-tenant](https://autoyadeploy-324fd.web.app/login-tenant)
 
