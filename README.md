@@ -3860,4 +3860,4 @@ Link del Video: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_up
 
 - Backend desplegado : [https://autoya-open.azurewebsites.net/swagger-ui/index.html#/](https://autoya-open.azurewebsites.net/swagger-ui/index.html#/)
 
-- Video exposición TP: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EVL-XaUZ3BJBp3Z7LfIdq9kBLkpsNlSAMaTSTCTausGDUA?e=cRPTqr](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EVL-XaUZ3BJBp3Z7LfIdq9kBLkpsNlSAMaTSTCTausGDUA?e=cRPTqr)
+- Video exposición TF: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EVL-XaUZ3BJBp3Z7LfIdq9kBLkpsNlSAMaTSTCTausGDUA?e=cRPTqr](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e465_upc_edu_pe/EVL-XaUZ3BJBp3Z7LfIdq9kBLkpsNlSAMaTSTCTausGDUA?e=cRPTqr)
