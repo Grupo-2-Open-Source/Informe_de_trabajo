@@ -3263,27 +3263,27 @@ Se realizó la asignación de tareas por medio de un chat grupal de WhatsApp. Ca
     <td align="center">Chamorro Torres, Samuel Rolando<br>Ruiz Torres, Erick Hernan<br>Urbizagastegui Alvarez, Erick Gabriel</td>
   </tr>
   <tr>
-    <td align="center">Sprint 1 – 2 Review Summary</td>
+    <td align="center">Sprint 1 – 3 Review Summary</td>
     <td align="center">Se implementó el frontend de la aplicación.</td>
   </tr>
   <tr>
-    <td align="center">Sprint 1 – 2 Retrospective Summary</td>
+    <td align="center">Sprint 1 – 3 Retrospective Summary</td>
     <td align="center">Se implementó el frontend de AutoYa! y se usó un fakeAPI para poder consumir datos.</td>
   </tr>
   <tr>
     <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
   </tr>
   <tr>
-    <td align="center">Sprint 2 Goal</td>
+    <td align="center">Sprint 4 Goal</td>
     <td align="center">Se debe realizar un avance del backend de la aplicación.</td>
   </tr>
   <tr>
-    <td align="center">Sprint n Velocity</td>
+    <td align="center">Sprint 4 Velocity</td>
     <td align="center">7 días</td>
   </tr>
   <tr>
     <td align="center">Sum of Story Points</td>
-    <td align="center">No aplica</td>
+    <td align="center">17</td>
   </tr>
 </table>
 
